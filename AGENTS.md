@@ -12,3 +12,9 @@ A meme remake: deconstruct the source clip in `data/`, then recreate it as a thr
 - `timeline/` is the source of truth for timing, camera and staging; read `timeline/README.md` before using or changing it.
 - Frame numbers are source frames at 24000/1001 fps. The animation is driven by frame number, never by wall-clock time.
 - Refer to characters by role (`host`, `guest`), not by the source characters' names.
+
+## Animation
+
+- Staging lives in `src/shots/`; read `src/shots/README.md` before adding or changing a shot or stage.
+- Check a change with `bun tools/shoot.ts OUT.jpg Sxx` (reference against render) and `bunx tsc --noEmit`. Write comparison sheets to a scratch directory.
+- Headless capture uses software GL on purpose: the GPU path dropped meshes at random on the machine this was built on. `GLARGS` overrides the Chrome flags.

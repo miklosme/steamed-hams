@@ -11,6 +11,8 @@ export interface Shot {
   id: string; f0: number; f1: number; set: string; setup: string;
   camera: { static: boolean };
   lines: string[];
+  setup_rel?: { zoom: number; cx: number; cy: number };
+  cut_in?: { kind: string; zoom: number; dx: number; dy: number };
   summary?: string; framing?: string; cast?: CastEntry[]; beats?: Beat[];
 }
 export interface Phone { p: string; v: string; t0: number; t1: number }

@@ -6,10 +6,13 @@
   "scripts": {
     "dev": "bun --hot index.ts",
     "proxy": "tools/proxy.sh",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "render": "bun tools/render.ts",
+    "shoot": "bun tools/shoot.ts"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "puppeteer-core": "^25.17.0"
   },
   "peerDependencies": {
     "typescript": "^7"

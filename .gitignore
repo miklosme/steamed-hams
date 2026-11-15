@@ -36,3 +36,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .venv
 media
 __pycache__
+
+# rendered video
+out/*.mp4

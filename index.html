@@ -37,7 +37,8 @@
     <main>
       <div id="stage">
         <canvas id="gl"></canvas>
-        <video id="ref" preload="auto" playsinline></video>
+        <video id="ref" preload="auto" playsinline muted></video>
+        <audio id="clock" preload="auto"></audio>
       </div>
       <aside>
         <div id="readout">loading</div>
@@ -55,14 +56,8 @@
         <button id="prev" title="previous frame">&lt;</button>
         <button id="next" title="next frame">&gt;</button>
         <button id="nextShot" title="next shot">&gt;|</button>
-        <label>Reference <input id="opacity" type="range" min="0" max="1" step="0.05" value="0.5" /></label>
-        <label>Mouths
-          <select id="mouth">
-            <option value="picture">from the picture</option>
-            <option value="audio">from the audio</option>
-          </select>
-        </label>
-        <label><input id="boxes" type="checkbox" checked /> tracked boxes</label>
+        <label>Volume <input id="volume" type="range" min="0" max="1" step="0.05" value="1" /></label>
+        <label>Reference <input id="opacity" type="range" min="0" max="1" step="0.05" value="0" /></label>
         <span style="color: var(--dim)"><kbd>space</kbd> play <kbd>←</kbd><kbd>→</kbd> frame <kbd>shift</kbd>+<kbd>←</kbd><kbd>→</kbd> shot <kbd>o</kbd> reference</span>
       </div>
     </main>
