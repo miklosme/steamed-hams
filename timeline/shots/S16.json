@@ -1,0 +1,157 @@
+{
+  "id": "S16",
+  "summary": "Over the guest's shoulder, the host, one foot up on the windowsill, pretends he was only stretching and demonstrates.",
+  "framing": "Over-the-shoulder wide shot: back of the guest's head and shoulders large in the left foreground; host full figure, small, at the window at right; stove behind the guest's head at centre-left with smoke pouring up; green wall, purple floor. Static.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head and shoulders, foreground",
+      "screen": "left",
+      "facing": "away",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "full figure, background",
+      "screen": "right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, pink tie"
+    }
+  ],
+  "props": [
+    "window with sill (host's foot rests on it)",
+    "stove at centre-left, partly hidden by the guest"
+  ],
+  "beats": [
+    {
+      "f": 1216,
+      "who": "guest",
+      "action": "stands with his back to camera, head turned slightly right so one eye and the nose tip show at the right edge of his head, looking at the host; motionless for the whole shot"
+    },
+    {
+      "f": 1216,
+      "who": "fx",
+      "action": "thick grey smoke rises from the stove behind the guest's head, fans out across the top of the frame and over the window; churns continuously all shot"
+    },
+    {
+      "f": 1216,
+      "f_end": 1231,
+      "who": "host",
+      "action": "stands on his screen-left leg, screen-right leg raised with the foot on the windowsill, both hands on the raised knee, torso twisted back toward the guest, head 3/4 left, eyes wide; holds this while speaking"
+    },
+    {
+      "f": 1232,
+      "f_end": 1233,
+      "who": "host",
+      "action": "hunches and pulls his head back to the left, teeth clenched in a grimace, hands still on the knee"
+    },
+    {
+      "f": 1234,
+      "f_end": 1235,
+      "who": "host",
+      "action": "torso swings to face camera, screen-left hand comes up to his chest, other hand stays on the raised ankle at the sill, eyes wide"
+    },
+    {
+      "f": 1236,
+      "f_end": 1237,
+      "who": "host",
+      "action": "straightens up, raises the screen-left hand palm-out beside his chest, other arm stretched back to the sill, mouth a small o"
+    },
+    {
+      "f": 1238,
+      "f_end": 1244,
+      "who": "host",
+      "action": "leans forward to the left toward the guest, screen-left arm thrown down and out with an open palm, other arm trailing back to the sill; held while speaking"
+    },
+    {
+      "f": 1245,
+      "f_end": 1246,
+      "who": "host",
+      "action": "pulls back upright, hand lifted to chest height with fingers curled"
+    },
+    {
+      "f": 1247,
+      "f_end": 1248,
+      "who": "host",
+      "action": "faces camera squarely, both hands down on the raised thigh, neutral closed mouth"
+    },
+    {
+      "f": 1249,
+      "who": "host",
+      "action": "turns toward the window and starts to fold forward over the raised leg, hands sliding to the foot"
+    },
+    {
+      "f": 1250,
+      "f_end": 1251,
+      "who": "host",
+      "action": "bent right over the raised leg, both hands on the foot at the sill, head down beside the knee, face turned to camera"
+    },
+    {
+      "f": 1252,
+      "f_end": 1271,
+      "who": "host",
+      "action": "holds the stretch, bouncing slightly in it; head bobs between looking down at the foot and grinning out at camera"
+    },
+    {
+      "f": 1272,
+      "who": "host",
+      "action": "rises out of the stretch, head up, mouth wide open, hand lifting off the foot"
+    },
+    {
+      "f": 1273,
+      "f_end": 1275,
+      "who": "host",
+      "action": "upright and twisting left to face the guest, screen-right arm pushing back flat against the window, screen-left fist coming to his hip"
+    },
+    {
+      "f": 1276,
+      "f_end": 1279,
+      "who": "host",
+      "action": "settles: chest out, screen-right arm straight out to the window frame, screen-left fist on hip, foot still on the sill, broad toothy grin"
+    },
+    {
+      "f": 1280,
+      "f_end": 1288,
+      "who": "host",
+      "action": "leans toward the guest with the elbow cocked back and fist at the hip, head tilted, speaking; small pumps of the elbow"
+    },
+    {
+      "f": 1289,
+      "f_end": 1291,
+      "who": "host",
+      "action": "straightens and brings the fist up against his chest, other arm still out to the window"
+    },
+    {
+      "f": 1292,
+      "f_end": 1306,
+      "who": "host",
+      "action": "fist pressed to chest, sways gently while speaking, alternating grin and open mouth"
+    },
+    {
+      "f": 1307,
+      "f_end": 1308,
+      "who": "host",
+      "action": "turns toward the window, both hands come together toward the foot on the sill, mouth a small o"
+    },
+    {
+      "f": 1309,
+      "f_end": 1310,
+      "who": "host",
+      "action": "folds over the raised leg again, face turned to camera with a wide grin"
+    },
+    {
+      "f": 1311,
+      "f_end": 1312,
+      "who": "host",
+      "action": "head drops to look at the foot, both hands on it"
+    },
+    {
+      "f": 1313,
+      "f_end": 1321,
+      "who": "host",
+      "action": "deep in the stretch, chest on the thigh, head beside the knee and turned to camera, grinning; held with a slight bob to the end"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera confirmed static. The host's supporting leg and the foot on the sill never move; everything is torso, arms and head. Host is animated on twos. The guest is a held cel."
+}

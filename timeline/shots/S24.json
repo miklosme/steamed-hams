@@ -1,0 +1,140 @@
+{
+  "id": "S24",
+  "summary": "Two-shot: the host sets the platter of hamburgers on the table, corrects the guest about what he said, then sits down in his own chair.",
+  "framing": "Medium two-shot over the guest's left shoulder from behind, eye level; guest's back large at left, host facing camera-left across the table, closed purple door behind him; static camera.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head and shoulders, seated, chair back in front of him",
+      "screen": "left",
+      "facing": "3/4 away, right",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "waist up, standing and bending over the table, then seated head-and-chest",
+      "screen": "centre-right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "oval silver platter piled with hamburgers",
+    "ice bucket with green bottle, left of centre on the table",
+    "two champagne flutes beside the bucket",
+    "white tablecloth, plate and cutlery",
+    "dark red chair backs (guest's foreground left, host's behind him at right)",
+    "green-framed still-life picture (pineapple, fruit bowl) on the wall behind the guest's head",
+    "closed purple door behind the host"
+  ],
+  "beats": [
+    {
+      "f": 1843,
+      "who": "guest",
+      "action": "back to camera, head tilted up and turned right in near-profile, eye wide open looking up at the host; motionless"
+    },
+    {
+      "f": 1843,
+      "who": "host",
+      "action": "standing behind the table, leaning slightly forward, holding the platter level at chest height by both ends (arms spread wide), wide toothy grin, eyes on the guest"
+    },
+    {
+      "f": 1845,
+      "f_end": 1853,
+      "who": "host",
+      "action": "swings the platter toward screen-right and lowers it, bending at the waist; eyes drop to the platter from 1847, small round mouth"
+    },
+    {
+      "f": 1849,
+      "who": "prop",
+      "action": "platter passes in front of the ice bucket, which is hidden behind the host's reaching right arm (screen left) until 1913"
+    },
+    {
+      "f": 1855,
+      "who": "prop",
+      "action": "platter rests on the table at bottom centre-right of frame and stays there"
+    },
+    {
+      "f": 1855,
+      "f_end": 1908,
+      "who": "host",
+      "action": "bent over the table, right arm (screen left) stretched along the table toward the guest, left hand holding the right-hand rim of the platter; head up, eyes on the guest, smiling; holds this pose while speaking"
+    },
+    {
+      "f": 1859,
+      "f_end": 1862,
+      "who": "host",
+      "action": "blink: lids half 1859, closed 1860-1861, half 1862, open 1863"
+    },
+    {
+      "f": 1869,
+      "f_end": 1903,
+      "who": "host",
+      "action": "head lifts and tilts back slightly with a broad open-mouthed smile, eyes wide on the guest; small head bobs with the words"
+    },
+    {
+      "f": 1904,
+      "f_end": 1907,
+      "who": "host",
+      "action": "blink: lids half 1904, closed 1905-1906, half 1907, open 1908"
+    },
+    {
+      "f": 1909,
+      "f_end": 1912,
+      "who": "host",
+      "action": "starts to straighten up, head rising, eyes wide, mouth open"
+    },
+    {
+      "f": 1911,
+      "who": "host",
+      "action": "right hand (screen left) slides back along the table toward the ice bucket"
+    },
+    {
+      "f": 1913,
+      "who": "host",
+      "action": "upright behind the table, right hand resting on the rim of the ice bucket by the bottle, left hand lifted off the platter with fingers spread at the right edge; toothy grin"
+    },
+    {
+      "f": 1913,
+      "who": "guest",
+      "action": "eye closes as the head starts to lower"
+    },
+    {
+      "f": 1915,
+      "who": "host",
+      "action": "lets go, hands drop out of sight, body shifts to screen-right and sinks toward his chair; round mouth, eyes on the guest"
+    },
+    {
+      "f": 1915,
+      "f_end": 1918,
+      "who": "guest",
+      "action": "head tilts down and forward"
+    },
+    {
+      "f": 1917,
+      "f_end": 1944,
+      "who": "host",
+      "action": "seated in his chair at right, visible from the chest up, upright, facing 3/4 left, eyes wide on the guest; holds this pose, talking, to the cut"
+    },
+    {
+      "f": 1919,
+      "f_end": 1944,
+      "who": "guest",
+      "action": "head lowered, eye half-lidded looking down at the platter; holds to the cut"
+    },
+    {
+      "f": 1931,
+      "f_end": 1934,
+      "who": "host",
+      "action": "mouth closed in a small smile for a beat, eyes unblinking on the guest"
+    },
+    {
+      "f": 1939,
+      "f_end": 1944,
+      "who": "host",
+      "action": "finishes on a fixed toothy grin"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Mostly on twos (new drawings on odd frames); the stand-up and sit-down (1909-1917) is only four drawings, so the host pops from standing to seated between 1913, 1915 and 1917. Champagne flutes are drawn in front of the host's arm throughout. L25's last word runs over the head of this shot per script.json, but the guest's mouth is hidden from camera here. Dialogue timing of L26/L27 matches the host's mouth."
+}

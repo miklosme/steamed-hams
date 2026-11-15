@@ -1,0 +1,57 @@
+{
+  "id": "S36",
+  "summary": "Quick cutaway to the host answering yes with a fixed grin, glass in hand.",
+  "framing": "Static medium close-up of the host, eye level; purple panelled door on the left third, blue wall, corner of the green-framed red picture top-right.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and shoulders to mid chest, right hand",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, purple shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "champagne flute held upright in the host's raised right hand at screen left, level with his face",
+    "red chair back behind both shoulders"
+  ],
+  "beats": [
+    {
+      "f": 2674,
+      "who": "host",
+      "action": "sits upright holding the flute up in his right fist beside his face, eyes wide on the guest, brows raised, mouth open in a smile"
+    },
+    {
+      "f": 2676,
+      "f_end": 2677,
+      "who": "host",
+      "action": "leans forward a little toward screen left, hand and flute moving with him"
+    },
+    {
+      "f": 2678,
+      "f_end": 2679,
+      "who": "host",
+      "action": "rocks back to upright, mouth wide open"
+    },
+    {
+      "f": 2680,
+      "f_end": 2683,
+      "who": "host",
+      "action": "broad open-mouthed grin showing upper teeth, eyes still wide"
+    },
+    {
+      "f": 2684,
+      "f_end": 2685,
+      "who": "host",
+      "action": "mouth snaps to a clenched toothy grin; small lean forward again"
+    },
+    {
+      "f": 2686,
+      "f_end": 2689,
+      "who": "host",
+      "action": "back upright, holds the frozen grin and wide stare, flute still raised"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json (setup K28). Staging is close to S30 (K25: same door and picture, host 3/4 left) but framed slightly differently, and here the flute is in his hand instead of standing in the foreground. No blink in the shot."
+}

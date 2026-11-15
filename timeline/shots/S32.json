@@ -1,0 +1,120 @@
+{
+  "id": "S32",
+  "summary": "Wide profile two-shot of the table: the guest takes a burger from the platter and bites it while the host drains his glass.",
+  "framing": "Static wide side-on two-shot, eye level, the whole round table and both chairs in frame, floor visible; landscape painting in a green frame on the wall between them, door edge at far right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "full figure seated, feet under the table",
+      "screen": "left",
+      "facing": "right",
+      "costume": "navy suit, white napkin tucked into the collar hanging down his chest"
+    },
+    {
+      "who": "host",
+      "visible": "full figure seated",
+      "screen": "right",
+      "facing": "left",
+      "costume": "light-blue suit, pink tie"
+    }
+  ],
+  "props": [
+    "round table with a white floor-length cloth, centre",
+    "two dark red wooden chairs",
+    "ice bucket with a green bottle at table centre",
+    "platter of burgers in front of the ice bucket",
+    "guest's champagne flute on the table in front of him",
+    "host's champagne flute, starts on the table in front of him, then in his right hand",
+    "burger at the host's place by his left hand"
+  ],
+  "beats": [
+    {
+      "f": 2354,
+      "who": "guest",
+      "action": "sits upright in profile, both hands together at the table edge, looking across at the host"
+    },
+    {
+      "f": 2354,
+      "who": "host",
+      "action": "sits upright in profile, both hands at the table edge beside his flute, looking at the guest"
+    },
+    {
+      "f": 2356,
+      "f_end": 2359,
+      "who": "host",
+      "action": "right hand takes the flute and lifts it off the table"
+    },
+    {
+      "f": 2357,
+      "f_end": 2362,
+      "who": "guest",
+      "action": "leans forward and reaches his right arm across the table toward the platter"
+    },
+    {
+      "f": 2360,
+      "f_end": 2363,
+      "who": "host",
+      "action": "raises the flute to chin height, eyes on the guest"
+    },
+    {
+      "f": 2363,
+      "who": "guest",
+      "action": "hand closes on a burger on the platter"
+    },
+    {
+      "f": 2364,
+      "f_end": 2369,
+      "who": "guest",
+      "action": "draws the burger back toward himself, sitting back upright, looking down at it"
+    },
+    {
+      "f": 2364,
+      "f_end": 2367,
+      "who": "host",
+      "action": "tips the flute to his lips"
+    },
+    {
+      "f": 2368,
+      "f_end": 2369,
+      "who": "host",
+      "action": "head tilts back, eyes closed, flute upturned at his mouth, elbow raised"
+    },
+    {
+      "f": 2370,
+      "who": "guest",
+      "action": "holds the burger at chest height in both hands"
+    },
+    {
+      "f": 2370,
+      "f_end": 2385,
+      "who": "host",
+      "action": "holds the head-back drinking pose, flute upturned, left hand resting on the table"
+    },
+    {
+      "f": 2372,
+      "f_end": 2373,
+      "who": "guest",
+      "action": "opens his mouth and lifts the burger to it"
+    },
+    {
+      "f": 2374,
+      "f_end": 2377,
+      "who": "guest",
+      "action": "bites the burger, head forward"
+    },
+    {
+      "f": 2378,
+      "f_end": 2381,
+      "who": "guest",
+      "action": "lowers the burger a little and chews, mouth closed"
+    },
+    {
+      "f": 2382,
+      "f_end": 2385,
+      "who": "guest",
+      "action": "burger down at chest height with a bite missing, still chewing"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json (setup K26). No dialogue. On frames 2370-2379 a small green rectangular shape is drawn behind the host's tilted head (it is absent before and from 2380 on); treat as a drawing error, not a prop. The guest's napkin hangs from his collar throughout."
+}

@@ -1,0 +1,149 @@
+{
+ "id": "S04",
+ "summary": "In the dining room the guest puts his bottle in the ice bucket and sits down while the host hurries off to the kitchen door.",
+ "framing": "Wide shot, slightly high, of the dining room: round table with white cloth at the bottom, kitchen door in the back wall right of centre; static.",
+ "cast": [
+  {
+   "who": "guest",
+   "visible": "enters at the left edge; waist up, then seated seen from behind",
+   "screen": "centre-left",
+   "facing": "right",
+   "costume": "navy suit, red tie"
+  },
+  {
+   "who": "host",
+   "visible": "behind the guest at first, then waist up beyond the table",
+   "screen": "centre",
+   "facing": "right",
+   "costume": "light-blue suit, white frilled apron tied at the back"
+  }
+ ],
+ "props": [
+  "round table with white tablecloth",
+  "silver ice bucket with two ring handles on the table",
+  "two dark red wooden chairs, one at the left front, one at the right behind the table",
+  "green-framed picture of a boat with palm on the back wall; second green-framed picture cut by the right edge",
+  "pale purple panelled kitchen door in the back wall, swings into the kitchen",
+  "bottle with red ribbon bow, in the guest's right hand, ends up in the ice bucket"
+ ],
+ "beats": [
+  {
+   "f": 288,
+   "who": "guest",
+   "action": "only his left hand and navy cuff in frame at the left edge, reaching for the back of the left chair"
+  },
+  {
+   "f": 290,
+   "f_end": 293,
+   "who": "host",
+   "action": "enters at the left edge beyond the guest: head at the top-left corner, light-blue shoulder and apron; walking right"
+  },
+  {
+   "f": 290,
+   "who": "guest",
+   "action": "left hand lands on the top of the chair back"
+  },
+  {
+   "f": 292,
+   "f_end": 295,
+   "who": "guest",
+   "action": "navy arm and body come into frame from the left, hand gripping the chair back"
+  },
+  {
+   "f": 296,
+   "f_end": 299,
+   "who": "guest",
+   "action": "body fills the left edge in front of the host, back of the head visible, leaning forward"
+  },
+  {
+   "f": 296,
+   "who": "host",
+   "action": "head visible just beyond the guest's, profile facing right, eyes on the table"
+  },
+  {
+   "f": 300,
+   "f_end": 302,
+   "who": "guest",
+   "action": "leans in over the chair, head in profile facing right, brow low, eyes down; right hand holds the bottle upright at chest height"
+  },
+  {
+   "f": 303,
+   "f_end": 305,
+   "who": "guest",
+   "action": "right arm extends out over the table, carrying the bottle toward the ice bucket"
+  },
+  {
+   "f": 306,
+   "f_end": 308,
+   "who": "guest",
+   "action": "arm fully stretched, lowers the bottle neck-up into the bucket; leaning far forward, left hand still on the chair"
+  },
+  {
+   "f": 308,
+   "who": "prop",
+   "action": "bottle sits in the ice bucket, neck and red bow sticking out"
+  },
+  {
+   "f": 309,
+   "f_end": 310,
+   "who": "guest",
+   "action": "lets go of the bottle, hand open above it, begins to straighten"
+  },
+  {
+   "f": 309,
+   "f_end": 310,
+   "who": "host",
+   "action": "steps out from behind the guest toward the right, head down, looking at the bucket"
+  },
+  {
+   "f": 311,
+   "f_end": 312,
+   "who": "guest",
+   "action": "turns his back to camera and swings round in front of the chair to sit, elbows out"
+  },
+  {
+   "f": 311,
+   "f_end": 313,
+   "who": "prop",
+   "action": "left chair is pulled back and to the right as the guest sits"
+  },
+  {
+   "f": 311,
+   "f_end": 312,
+   "who": "host",
+   "action": "walks right behind the table past the bucket, brow worried"
+  },
+  {
+   "f": 313,
+   "f_end": 315,
+   "who": "guest",
+   "action": "seated at the left of the table, seen from behind-left, head turned in profile to the right watching the host; left hand settles on the table edge"
+  },
+  {
+   "f": 313,
+   "f_end": 314,
+   "who": "host",
+   "action": "beyond the table, striding right toward the kitchen door, right arm stretched out ahead with open hand, apron bow visible at his back"
+  },
+  {
+   "f": 315,
+   "f_end": 318,
+   "who": "prop",
+   "action": "kitchen door starts to swing inward under the host's hand; pale green kitchen visible through the gap"
+  },
+  {
+   "f": 316,
+   "f_end": 318,
+   "who": "host",
+   "action": "at the door, pushing it with his right hand; glances back over his shoulder toward the guest, mouth a small frown"
+  },
+  {
+   "f": 316,
+   "f_end": 318,
+   "who": "guest",
+   "action": "sits still, back of head to camera, facing the door"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera static, agreeing with timeline.json. The guest's left hand stays on the chair back from 290 until he sits. Both characters enter together from the left, guest nearer the camera. The host has not yet gone through the door when the shot ends; the door is roughly a third open on 318."
+}

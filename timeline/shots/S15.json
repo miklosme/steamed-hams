@@ -1,0 +1,71 @@
+{
+  "id": "S15",
+  "summary": "Close-up of the host at the window as he whips his head round, caught, and greets the guest with a nervous grin.",
+  "framing": "Close-up of the host's head from inside the kitchen, eye level; open window behind him with the street outside (parked cars, red-roofed building at right, tree at left), strip of green wall and window frame at the left edge. Static.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and collar",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt"
+    }
+  ],
+  "props": [
+    "window frame behind the host, view of the street"
+  ],
+  "beats": [
+    {
+      "f": 1180,
+      "who": "host",
+      "action": "head low at lower right of frame, turned away toward the window and tilted down, eyes wide with pupils at the right"
+    },
+    {
+      "f": 1181,
+      "f_end": 1183,
+      "who": "host",
+      "action": "head swings up and round toward camera-left"
+    },
+    {
+      "f": 1182,
+      "who": "host",
+      "action": "now facing 3/4 left, eyes wide and round, pupils centred, mouth a small o"
+    },
+    {
+      "f": 1183,
+      "who": "host",
+      "action": "head overshoots upward (top of hair leaves frame)"
+    },
+    {
+      "f": 1184,
+      "f_end": 1195,
+      "who": "host",
+      "action": "head settles down to centre frame, still wide-eyed, looking left at the guest; this pose held while he speaks"
+    },
+    {
+      "f": 1196,
+      "f_end": 1199,
+      "who": "host",
+      "action": "blink: lids half down at 1196, shut at 1197, half at 1198, open at 1199"
+    },
+    {
+      "f": 1199,
+      "f_end": 1208,
+      "who": "host",
+      "action": "eyes wide open again, same head position, speaking"
+    },
+    {
+      "f": 1209,
+      "who": "host",
+      "action": "head lifts and tips back to the upper right, teeth clenched"
+    },
+    {
+      "f": 1210,
+      "f_end": 1215,
+      "who": "host",
+      "action": "head comes forward and tilts, larger and lower in frame, wide eyes, fixed toothy grin; held to the end of the shot"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera confirmed static (background does not move; the size change at 1209-1210 is the head moving). The first three frames are a fast turn on ones; the rest is on twos. script.json puts the guest's shouted name (L15) ending at 1180, i.e. before this shot; nothing here contradicts that."
+}

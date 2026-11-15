@@ -1,0 +1,996 @@
+{
+  "id": "S14",
+  "summary": "Mock sitcom title sequence: a painted title card on a wallpapered wall, then a pan along five framed pictures each playing short clips of the host and guest, ending by pushing into the last picture where the guest is yelling.",
+  "framing": "Starts with the title card filling the frame; pulls straight back to show it as a framed picture on a brown woven wallpaper, then tracks right at constant speed along a staggered row of framed pictures (alternating high and low, corners overlapping); the last, upper-right picture enlarges on its own until it fills the frame.",
+  "cast": [],
+  "props": [
+    "brown woven-texture wallpaper backdrop",
+    "six pictures in orange wood frames with a red inner line, staggered high/low and overlapping at the corners; each lower picture sits in front of its upper neighbours",
+    "title card painting with purple script lettering and two head portraits"
+  ],
+  "beats": [
+    {
+      "f": 824,
+      "f_end": 865,
+      "who": "camera",
+      "action": "holds on the title card filling the frame, no border visible"
+    },
+    {
+      "f": 858,
+      "f_end": 865,
+      "who": "fx",
+      "action": "the card's wood frame fades in around the edges of the screen without the artwork changing size"
+    },
+    {
+      "f": 866,
+      "f_end": 905,
+      "who": "camera",
+      "action": "pulls straight back from the card, wallpaper appearing around it; fast at first, easing out by about 905"
+    },
+    {
+      "f": 873,
+      "who": "prop",
+      "action": "P2's frame edge enters at the top right"
+    },
+    {
+      "f": 890,
+      "f_end": 1167,
+      "who": "camera",
+      "action": "starts drifting right while the pull-back finishes, reaching a constant pan speed by about 904; pans right along the pictures"
+    },
+    {
+      "f": 922,
+      "who": "prop",
+      "action": "P3's frame edge enters at the right"
+    },
+    {
+      "f": 957,
+      "who": "prop",
+      "action": "P2 cuts from the host grooming inside his office to the host greeting the guest at the office door"
+    },
+    {
+      "f": 972,
+      "who": "prop",
+      "action": "P4's frame edge enters at the top right"
+    },
+    {
+      "f": 1008,
+      "who": "prop",
+      "action": "P4 cuts from the over-the-shoulder corridor view to the wide view of the crowd charging at the two men"
+    },
+    {
+      "f": 1022,
+      "who": "prop",
+      "action": "P5's frame edge enters at the right"
+    },
+    {
+      "f": 1029,
+      "who": "prop",
+      "action": "P4 cuts to the floor-level close-up of the guest being trampled"
+    },
+    {
+      "f": 1071,
+      "who": "prop",
+      "action": "P6's frame edge enters at the top right"
+    },
+    {
+      "f": 1101,
+      "who": "prop",
+      "action": "P5 cuts from the host pointing at the guest's jacket to the doorway scene with the green snake-like creature"
+    },
+    {
+      "f": 1102,
+      "f_end": 1170,
+      "who": "camera",
+      "action": "P6 starts growing on its own, slowly at first and from about 1125 quickly, expanding down and to the left over P5 and P4 while the pan continues"
+    },
+    {
+      "f": 1128,
+      "who": "prop",
+      "action": "P6 cuts from the bar scene to the grey-wall close-up of the guest"
+    },
+    {
+      "f": 1171,
+      "f_end": 1179,
+      "who": "camera",
+      "action": "P6 fills the frame, no border or wall left; holds on the guest close-up"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "All cuts in this shot happen inside pictures, not on the full frame, so hidden_cut is null. Picture contents are full-motion clips; frame numbers inside 'pictures' are absolute source frames. A vignette's 'f' is the first frame its content is on screen (the picture may still be mostly out of frame); 'f_end' is the last frame it is on screen. P6's last vignette runs straight on into the next shot's action. The title card is a still except for the host portrait's mouth. P5 is hidden behind P6 from 1168.",
+  "pictures": [
+    {
+      "id": "title_card",
+      "vignettes": [
+        {
+          "f": 824,
+          "f_end": 976,
+          "setting": "Painted title card on a flat pinkish-cream ground. Lettering in dark purple brush script with a darker outline, all slanting upward to the right by roughly 20 degrees, three lines: 'Skinner' (large, capital S) in the upper centre-right; '& the' (small) just below it, centred; 'Superintendent' (large, tall looping capital S starting at lower left) running from lower left to the right edge. Two head portraits: upper left, the host's head 3/4 right, head tilted, toothy smile, half-lidded eyes looking down-right, lilac shirt collar, right fist with thumb pointing back at himself below his chin; lower right, the guest's head 3/4 left, half-lidded eyes, mouth a flat frown, white collar and red tie knot. Thin orange-and-red wood frame around the card.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "head, collar and one thumb-pointing fist (portrait)",
+              "screen": "left",
+              "facing": "3/4 right",
+              "costume": "lilac shirt collar"
+            },
+            {
+              "who": "guest",
+              "visible": "head and collar (portrait)",
+              "screen": "right",
+              "facing": "3/4 left",
+              "costume": "white collar, red tie knot"
+            }
+          ],
+          "beats": [
+            {
+              "f": 824,
+              "who": "host",
+              "action": "portrait pose held for the whole card: head tilted, thumb pointing at himself; only his mouth moves (opens and closes between a toothy grin and a closed smile), everything else in the card is a still"
+            },
+            {
+              "f": 824,
+              "who": "guest",
+              "action": "portrait is completely still: half-lidded eyes, flat frown"
+            },
+            {
+              "f": 824,
+              "who": "prop",
+              "action": "lettering 'Skinner / & the / Superintendent' static"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "vignettes": [
+        {
+          "f": 875,
+          "f_end": 956,
+          "setting": "Inside an office, looking at the inside of its door: purple curtain at the far left, tan wall, green door with a large frosted glass panel at the right carrying three lines of lettering seen mirrored from inside ('PRINCIPAL / SEYMOUR / SKINNER', reversed), diagonal glare streaks on the glass.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "waist up",
+              "screen": "centre",
+              "facing": "3/4 right",
+              "costume": "blue suit, lilac shirt, salmon tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 875,
+              "who": "prop",
+              "action": "picture slides into view from the right edge of the screen: curtain first; host's sleeve from 891, his face from 900"
+            },
+            {
+              "f": 875,
+              "who": "host",
+              "action": "stands centre, body 3/4 right, eyes wide, arms down"
+            },
+            {
+              "f": 902,
+              "who": "host",
+              "action": "mouth opens, tongue comes out"
+            },
+            {
+              "f": 904,
+              "f_end": 909,
+              "who": "host",
+              "action": "raises right hand to his mouth and licks the palm (hand at mouth 906-909)"
+            },
+            {
+              "f": 910,
+              "f_end": 911,
+              "who": "host",
+              "action": "hand sweeps up over his face to the forehead"
+            },
+            {
+              "f": 912,
+              "f_end": 917,
+              "who": "host",
+              "action": "palm flat on top of his head, smooths his hair back, elbow high, eyes rolled up, tongue still out until 915"
+            },
+            {
+              "f": 918,
+              "f_end": 919,
+              "who": "host",
+              "action": "arm comes down, fist passing shoulder height"
+            },
+            {
+              "f": 920,
+              "f_end": 921,
+              "who": "host",
+              "action": "both hands drop to chest height in front of him"
+            },
+            {
+              "f": 922,
+              "f_end": 925,
+              "who": "host",
+              "action": "eyes close; right hand takes hold of the tie, left hand open beside it"
+            },
+            {
+              "f": 926,
+              "f_end": 931,
+              "who": "host",
+              "action": "eyes half open; left hand rises to the tie knot at the collar"
+            },
+            {
+              "f": 932,
+              "f_end": 937,
+              "who": "host",
+              "action": "chin lifts, eyes closed, tugs the knot tight with the left elbow out"
+            },
+            {
+              "f": 938,
+              "f_end": 939,
+              "who": "host",
+              "action": "hands let go and open, head starts turning away to the right"
+            },
+            {
+              "f": 940,
+              "f_end": 943,
+              "who": "host",
+              "action": "turns his back to the camera towards the door (profile right at 940, back of head from 942)"
+            },
+            {
+              "f": 944,
+              "who": "host",
+              "action": "holds, back to camera, facing the door glass, hand at his side"
+            }
+          ]
+        },
+        {
+          "f": 957,
+          "f_end": 1023,
+          "setting": "Reverse angle from the corridor outside the same door: the open green door with the glass panel and its lettering (still mirrored, partly hidden) at the left, tan office interior with a red pennant and small notices on the back wall, blue wall at right.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "waist up",
+              "screen": "centre-left",
+              "facing": "camera",
+              "costume": "blue suit, lilac shirt, salmon tie"
+            },
+            {
+              "who": "guest",
+              "visible": "head and back, waist up, large in foreground",
+              "screen": "right",
+              "facing": "away",
+              "costume": "navy suit"
+            }
+          ],
+          "beats": [
+            {
+              "f": 957,
+              "who": "host",
+              "action": "comes out of the doorway stooped forward, head down, eyes downcast, right arm hanging forward"
+            },
+            {
+              "f": 957,
+              "f_end": 967,
+              "who": "guest",
+              "action": "stands in the right foreground with his back to the camera, head turned slightly left towards the host; drifts a little further left until about 967, then still"
+            },
+            {
+              "f": 959,
+              "f_end": 960,
+              "who": "host",
+              "action": "eyes closed, still bent over"
+            },
+            {
+              "f": 961,
+              "f_end": 962,
+              "who": "host",
+              "action": "straightens up facing the guest, brows low, forearms coming up"
+            },
+            {
+              "f": 963,
+              "who": "host",
+              "action": "both hands up at chest height, palms out, fingers spread; eyes wide, looks up at the guest"
+            },
+            {
+              "f": 967,
+              "f_end": 970,
+              "who": "host",
+              "action": "smiles, hands held open at his sides"
+            },
+            {
+              "f": 971,
+              "f_end": 972,
+              "who": "host",
+              "action": "throws both arms wider and higher, palms up"
+            },
+            {
+              "f": 972,
+              "who": "host",
+              "action": "holds the wide-armed pose, mouth open in a grin, until the picture leaves the screen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "vignettes": [
+        {
+          "f": 925,
+          "f_end": 1072,
+          "setting": "An office in daylight: big window with a rolled tan blind and green hills outside, wooden desk with a dark blotter across the lower right, red armchair in the lower left.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "back of head and shoulders, seated low in the red armchair",
+              "screen": "left",
+              "facing": "3/4 right",
+              "costume": "blue-grey suit collar"
+            },
+            {
+              "who": "guest",
+              "visible": "waist up, standing behind the desk",
+              "screen": "right",
+              "facing": "left",
+              "costume": "navy three-button suit, white shirt, red tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 925,
+              "who": "prop",
+              "action": "picture slides in from the right: host's head first, guest's pointing hand from 946, guest's face from 960"
+            },
+            {
+              "f": 925,
+              "who": "host",
+              "action": "sits still in the armchair seen from behind-left, one eye visible, looking up at the guest; does not move for the whole vignette"
+            },
+            {
+              "f": 946,
+              "who": "guest",
+              "action": "stands leaning forward, right arm stretched straight out to the left, index finger pointing at the host's forehead, brows down, scowling"
+            },
+            {
+              "f": 977,
+              "f_end": 981,
+              "who": "guest",
+              "action": "pulls the pointing arm back (elbow bends, hand moves right and tilts down; furthest back at 980-981)"
+            },
+            {
+              "f": 982,
+              "f_end": 986,
+              "who": "guest",
+              "action": "jabs the arm straight out again, fully extended by 986"
+            },
+            {
+              "f": 1013,
+              "f_end": 1017,
+              "who": "guest",
+              "action": "second pull-back of the pointing arm (furthest back at 1016-1017)"
+            },
+            {
+              "f": 1018,
+              "f_end": 1022,
+              "who": "guest",
+              "action": "jabs forward again, fully extended by 1022"
+            },
+            {
+              "f": 1041,
+              "f_end": 1046,
+              "who": "guest",
+              "action": "third pull-back of the pointing arm (furthest back at 1045-1046)"
+            },
+            {
+              "f": 1047,
+              "f_end": 1049,
+              "who": "guest",
+              "action": "jabs forward again; arm stays extended as the picture leaves the screen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "vignettes": [
+        {
+          "f": 975,
+          "f_end": 1007,
+          "setting": "School corridor seen over the host's shoulder: dark red floor, grey-blue wall with a red notice board full of papers, ceiling light, the corridor receding to the right.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "back of head and shoulder, very close",
+              "screen": "left",
+              "facing": "3/4 right",
+              "costume": "light-blue suit, lilac collar"
+            },
+            {
+              "who": "guest",
+              "visible": "only one hand holding a clipboard, bottom edge",
+              "screen": "centre-right",
+              "facing": "away",
+              "costume": "navy sleeve not seen"
+            }
+          ],
+          "beats": [
+            {
+              "f": 975,
+              "who": "prop",
+              "action": "picture slides in from the right: back of the host's head first"
+            },
+            {
+              "f": 975,
+              "who": "host",
+              "action": "back of his head to the camera, looking away down the corridor"
+            },
+            {
+              "f": 989,
+              "f_end": 993,
+              "who": "host",
+              "action": "turns his head to profile right, eye wide, mouth dropping open"
+            },
+            {
+              "f": 995,
+              "f_end": 1007,
+              "who": "fx",
+              "action": "a crowd of children appears at the far end of the corridor running towards the camera, arms waving, papers flying above them; grows steadily larger"
+            },
+            {
+              "f": 997,
+              "f_end": 1004,
+              "who": "prop",
+              "action": "a hand holding a brown clipboard rises into the bottom right of the picture"
+            }
+          ]
+        },
+        {
+          "f": 1008,
+          "f_end": 1028,
+          "setting": "Wide view down the same corridor from behind the crowd: grey lockers along both walls, blue lockers at the far end, dark red floor. Foreground along the bottom edge: backs of children's heads (one white-haired with pink hair ties, one with a big orange-red mop, a grey-haired one from 1014) and raised yellow arms.",
+          "cast": [
+            {
+              "who": "guest",
+              "visible": "full figure, small",
+              "screen": "centre-left",
+              "facing": "3/4 right",
+              "costume": "navy suit, red tie"
+            },
+            {
+              "who": "host",
+              "visible": "full figure, small",
+              "screen": "centre-right",
+              "facing": "camera",
+              "costume": "light-blue suit"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1008,
+              "who": "guest",
+              "action": "stands knees bent, bent over a clipboard held in both hands, writing"
+            },
+            {
+              "f": 1008,
+              "who": "host",
+              "action": "stands beside him, arms slightly out from his sides, looking at the oncoming crowd"
+            },
+            {
+              "f": 1008,
+              "f_end": 1028,
+              "who": "fx",
+              "action": "foreground children's heads and arms bob and push forward, filling more of the bottom of the picture"
+            },
+            {
+              "f": 1017,
+              "who": "guest",
+              "action": "is hit: head snaps back, hands fly to his head"
+            },
+            {
+              "f": 1017,
+              "f_end": 1018,
+              "who": "prop",
+              "action": "clipboard and a white sheet fly up above the guest's head"
+            },
+            {
+              "f": 1019,
+              "f_end": 1020,
+              "who": "guest",
+              "action": "arms flung straight up, mouth wide open, toppling backwards"
+            },
+            {
+              "f": 1021,
+              "f_end": 1024,
+              "who": "guest",
+              "action": "on his back on the floor, hands and shoes sticking up"
+            },
+            {
+              "f": 1021,
+              "f_end": 1024,
+              "who": "host",
+              "action": "turns to the fallen guest, mouth open, hands coming up"
+            },
+            {
+              "f": 1023,
+              "f_end": 1028,
+              "who": "prop",
+              "action": "clipboard tumbles in the air at the top of the picture, drops with loose sheets (1025-1026), lands flat on the floor by 1027"
+            },
+            {
+              "f": 1025,
+              "f_end": 1026,
+              "who": "guest",
+              "action": "disappears under the foreground crowd, one hand still raised"
+            },
+            {
+              "f": 1025,
+              "f_end": 1026,
+              "who": "host",
+              "action": "recoils, raising his right arm"
+            },
+            {
+              "f": 1027,
+              "f_end": 1028,
+              "who": "host",
+              "action": "doubles over, both arms wrapped over his head"
+            }
+          ]
+        },
+        {
+          "f": 1029,
+          "f_end": 1123,
+          "setting": "Floor-level close-up in the same corridor: grey locker bases behind, dark red floor along the bottom.",
+          "cast": [
+            {
+              "who": "guest",
+              "visible": "head, shoulders and one hand, lying face down on the floor with his head to the left",
+              "screen": "centre",
+              "facing": "3/4 left",
+              "costume": "navy suit, white collar, red tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1029,
+              "who": "guest",
+              "action": "lies prone, cheek on the floor, eyes shut, teeth gritted, right hand flat on the floor in front of his shoulder"
+            },
+            {
+              "f": 1029,
+              "f_end": 1032,
+              "who": "fx",
+              "action": "children's legs cross behind and over him all through the vignette; first a green-trousered leg leaving at the left and peach legs with a lilac hem behind"
+            },
+            {
+              "f": 1033,
+              "f_end": 1037,
+              "who": "fx",
+              "action": "a leg in blue jeans with a dark shoe comes in from the left and stamps on the top of his head (on the head 1034-1036); a child in a purple dress passes behind"
+            },
+            {
+              "f": 1034,
+              "f_end": 1036,
+              "who": "guest",
+              "action": "head squashed down, hand springs up with fingers splayed"
+            },
+            {
+              "f": 1038,
+              "f_end": 1043,
+              "who": "guest",
+              "action": "head back to rest, eyes shut, teeth gritted; mouth opens at 1042"
+            },
+            {
+              "f": 1040,
+              "f_end": 1043,
+              "who": "fx",
+              "action": "green shorts and white legs run past behind him"
+            },
+            {
+              "f": 1044,
+              "f_end": 1048,
+              "who": "fx",
+              "action": "a big child in orange shorts, striped sock and grey trainer strides over him, the trainer landing on his face (1045-1047)"
+            },
+            {
+              "f": 1049,
+              "f_end": 1055,
+              "who": "guest",
+              "action": "lifts his head off the floor; eye opens and looks right from 1052"
+            },
+            {
+              "f": 1056,
+              "f_end": 1061,
+              "who": "fx",
+              "action": "a girl's legs in a peach dress with pink shoes step onto his head, one shoe then the other"
+            },
+            {
+              "f": 1057,
+              "f_end": 1061,
+              "who": "guest",
+              "action": "head pressed down again, eyes shut, hand splayed (1058-1059)"
+            },
+            {
+              "f": 1062,
+              "f_end": 1064,
+              "who": "guest",
+              "action": "head at rest, teeth gritted"
+            },
+            {
+              "f": 1065,
+              "f_end": 1071,
+              "who": "fx",
+              "action": "a large leg in green trousers with a brown shoe steps across his shoulder and hand from the right and off to the left"
+            },
+            {
+              "f": 1072,
+              "f_end": 1081,
+              "who": "guest",
+              "action": "raises his head, eye half open, mouth hanging open in a groan"
+            },
+            {
+              "f": 1082,
+              "f_end": 1117,
+              "who": "fx",
+              "action": "blue jeans and dark shoe stamp on his head again (1083-1086); the sequence of legs then repeats: peach legs and green leg (1086-1090), purple dress (1091-1096), green shorts and white legs (1097-1100), peach legs (1101-1104), purple (1106-1108), green (1112-1113), pink shoe (1114-1117)"
+            },
+            {
+              "f": 1083,
+              "f_end": 1086,
+              "who": "guest",
+              "action": "head squashed, eyes shut, mouth open, hand flails (1084-1085)"
+            },
+            {
+              "f": 1087,
+              "f_end": 1101,
+              "who": "guest",
+              "action": "head at rest, teeth gritted; mouth opens wide 1098-1101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "vignettes": [
+        {
+          "f": 1025,
+          "f_end": 1100,
+          "setting": "A room with teal walls: window frame at the far left, a round red alarm bell on the wall between the two heads, an eye-test chart at the right edge, dark panelling low down.",
+          "cast": [
+            {
+              "who": "guest",
+              "visible": "waist up",
+              "screen": "centre-left",
+              "facing": "3/4 right",
+              "costume": "navy three-button suit, white shirt, red tie"
+            },
+            {
+              "who": "host",
+              "visible": "waist up",
+              "screen": "right",
+              "facing": "3/4 left",
+              "costume": "teal-blue suit, lilac shirt, salmon tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1025,
+              "who": "prop",
+              "action": "picture slides in from the right: guest first, host's hand from 1049, host's face from 1057"
+            },
+            {
+              "f": 1025,
+              "who": "guest",
+              "action": "stands square, arms down, half-lidded, mouth flat, eyes on the host"
+            },
+            {
+              "f": 1049,
+              "who": "host",
+              "action": "stands close to the guest, right hand at his chin, finger and thumb around it, studying him"
+            },
+            {
+              "f": 1062,
+              "f_end": 1064,
+              "who": "host",
+              "action": "eyes narrow to slits"
+            },
+            {
+              "f": 1065,
+              "who": "host",
+              "action": "eyes open and look at the guest's face, hand still on chin"
+            },
+            {
+              "f": 1076,
+              "f_end": 1077,
+              "who": "guest",
+              "action": "blink"
+            },
+            {
+              "f": 1083,
+              "f_end": 1084,
+              "who": "host",
+              "action": "head dips forward, hair flopping, eyes drop to the guest's chest; fist curls under his chin"
+            },
+            {
+              "f": 1085,
+              "f_end": 1086,
+              "who": "host",
+              "action": "hand leaves the chin, index finger pointing at the guest"
+            },
+            {
+              "f": 1087,
+              "f_end": 1088,
+              "who": "host",
+              "action": "arm stretches out, finger pointing at the guest's lapel; grins"
+            },
+            {
+              "f": 1088,
+              "who": "guest",
+              "action": "brows drop, eyes follow the pointing finger down"
+            },
+            {
+              "f": 1089,
+              "f_end": 1092,
+              "who": "host",
+              "action": "pointing hand drops lower, to the hem of the guest's jacket"
+            },
+            {
+              "f": 1090,
+              "f_end": 1094,
+              "who": "guest",
+              "action": "turns away from the camera: head dipped in 3/4 view (1090-1092), back of head by 1093"
+            },
+            {
+              "f": 1093,
+              "who": "host",
+              "action": "finger now points steeply down at the guest's lower back"
+            },
+            {
+              "f": 1095,
+              "who": "guest",
+              "action": "back squarely to the camera, larger in the picture, grey fringe of hair around the bald crown"
+            },
+            {
+              "f": 1095,
+              "f_end": 1100,
+              "who": "host",
+              "action": "holds, bent forward, pointing down at the back of the guest's jacket, eyes on it"
+            }
+          ]
+        },
+        {
+          "f": 1101,
+          "f_end": 1167,
+          "setting": "Wider view of a teal-walled room: open lilac-blue door with a notice pinned to it at the left, doorway behind the figures, red-framed notice board at the right, dark red floor.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "three-quarter figure, standing in the doorway",
+              "screen": "centre-left",
+              "facing": "3/4 right",
+              "costume": "teal-blue suit, lilac shirt"
+            },
+            {
+              "who": "guest",
+              "visible": "three-quarter figure, standing in the doorway",
+              "screen": "centre",
+              "facing": "3/4 left",
+              "costume": "navy suit, red tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1101,
+              "who": "host",
+              "action": "stands in the doorway leaning towards the guest, talking, arms in front of him"
+            },
+            {
+              "f": 1101,
+              "who": "guest",
+              "action": "stands beside him, half-lidded, looking down at the floor in front of them"
+            },
+            {
+              "f": 1101,
+              "who": "prop",
+              "action": "a small dark-haired figure in a white dress or apron stands between and in front of the two men, hands held out"
+            },
+            {
+              "f": 1101,
+              "who": "fx",
+              "action": "a huge bright-green snake-like creature with a black stripe along its back and small frilled fins fills the foreground: its head rears at centre-right, the body in tall loops off the right edge"
+            },
+            {
+              "f": 1102,
+              "f_end": 1109,
+              "who": "fx",
+              "action": "the creature slithers to the left along the floor, head low and leading, body flattening into long waves; head reaches the left edge by 1109"
+            },
+            {
+              "f": 1110,
+              "f_end": 1115,
+              "who": "fx",
+              "action": "head rests at the left edge, the waves keep rolling along the body"
+            },
+            {
+              "f": 1116,
+              "f_end": 1121,
+              "who": "fx",
+              "action": "body bunches up into tall loops in front of the figures, head pulled back to centre-left and raised (1117-1121)"
+            },
+            {
+              "f": 1119,
+              "f_end": 1123,
+              "who": "host",
+              "action": "leans further forward, grinning with mouth open"
+            },
+            {
+              "f": 1122,
+              "f_end": 1127,
+              "who": "fx",
+              "action": "head drops and pushes left again, loops flatten into waves"
+            },
+            {
+              "f": 1128,
+              "f_end": 1136,
+              "who": "fx",
+              "action": "head gone off the left side; low waves with fins cover the bottom of the picture"
+            },
+            {
+              "f": 1137,
+              "f_end": 1143,
+              "who": "fx",
+              "action": "body bunches into tall loops again at the left, thin striped tail lying along the floor at the right"
+            },
+            {
+              "f": 1144,
+              "f_end": 1167,
+              "who": "fx",
+              "action": "loops sink back into low waves; the picture is then covered from the right by the growing P6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "vignettes": [
+        {
+          "f": 1073,
+          "f_end": 1127,
+          "setting": "Dim interior of a bar-like hall at night: dark ceiling with beams and hanging green-shaded lamps, tall multi-pane windows showing blue outside, a counter along the bottom.",
+          "cast": [
+            {
+              "who": "host",
+              "visible": "waist up",
+              "screen": "left",
+              "facing": "3/4 right",
+              "costume": "lilac shirt, salmon tie, no jacket"
+            },
+            {
+              "who": "guest",
+              "visible": "waist up, behind the counter",
+              "screen": "right",
+              "facing": "away",
+              "costume": "navy suit, red tie"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1073,
+              "who": "prop",
+              "action": "picture slides in from the right: host from 1078, guest's raised fist from 1093"
+            },
+            {
+              "f": 1078,
+              "who": "host",
+              "action": "stands with both hands clasped together at his chest, looking up to the right; holds this for the whole vignette, only eyelids and brows shifting"
+            },
+            {
+              "f": 1092,
+              "who": "prop",
+              "action": "a small figure in a red cap and glasses sits behind the counter between the two men, not moving"
+            },
+            {
+              "f": 1093,
+              "who": "guest",
+              "action": "back to the camera, right fist raised high above his head (fist in view from 1095)"
+            },
+            {
+              "f": 1096,
+              "f_end": 1106,
+              "who": "guest",
+              "action": "shakes the raised fist: up at 1096, down-left by 1099, up again 1104-1106"
+            },
+            {
+              "f": 1107,
+              "f_end": 1110,
+              "who": "guest",
+              "action": "lowers the fist to head height"
+            },
+            {
+              "f": 1111,
+              "f_end": 1114,
+              "who": "guest",
+              "action": "left fist comes up too: both fists raised either side of his head, still back to camera"
+            },
+            {
+              "f": 1115,
+              "f_end": 1116,
+              "who": "guest",
+              "action": "both fists clamp onto the top of his head"
+            },
+            {
+              "f": 1117,
+              "f_end": 1118,
+              "who": "guest",
+              "action": "spins round to his right to face the room (profile left at 1117), fists flying apart"
+            },
+            {
+              "f": 1119,
+              "f_end": 1122,
+              "who": "guest",
+              "action": "faces 3/4 left, both fists up beside his head, brows down, mouth open shouting"
+            },
+            {
+              "f": 1123,
+              "f_end": 1127,
+              "who": "guest",
+              "action": "turns to the camera and hunches, pulling both fists in to his chest, head sinking, eyes shut"
+            }
+          ]
+        },
+        {
+          "f": 1128,
+          "f_end": 1179,
+          "setting": "Plain grey wall, nothing else: a head-and-shoulders close-up that the picture then enlarges to full screen.",
+          "cast": [
+            {
+              "who": "guest",
+              "visible": "head and shoulders",
+              "screen": "centre",
+              "facing": "3/4 right",
+              "costume": "navy suit, white shirt, red tie, red pocket square"
+            }
+          ],
+          "beats": [
+            {
+              "f": 1128,
+              "f_end": 1133,
+              "who": "guest",
+              "action": "head bowed forward, eyes screwed shut, teeth clenched, shoulders hunched"
+            },
+            {
+              "f": 1134,
+              "who": "guest",
+              "action": "head snaps up, eyes open, upper teeth bared"
+            },
+            {
+              "f": 1135,
+              "f_end": 1137,
+              "who": "guest",
+              "action": "head thrown back, mouth wide open in a yell"
+            },
+            {
+              "f": 1138,
+              "f_end": 1149,
+              "who": "guest",
+              "action": "head comes down level, facing right, brows knotted, glaring right; mouth stays open, speaking"
+            },
+            {
+              "f": 1150,
+              "f_end": 1151,
+              "who": "guest",
+              "action": "mouth shut in a frown"
+            },
+            {
+              "f": 1152,
+              "f_end": 1179,
+              "who": "guest",
+              "action": "speaks again, same glare, head still"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

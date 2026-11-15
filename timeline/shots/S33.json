@@ -1,0 +1,100 @@
+{
+  "id": "S33",
+  "summary": "The guest chews, then opens his burger to inspect it and remarks how much it resembles a fast-food burger.",
+  "framing": "Static medium close-up of the guest at the table, eye level, slightly over the table edge; green oval mirror frame top-left, lilac wall panel with small oval picture, table lamp and green armchair behind him at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, shoulders, chest and both hands",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar"
+    }
+  ],
+  "props": [
+    "burger with one bite out of it, in the guest's hands; from 2412 split into patty on the bottom bun (right palm) and top bun (left hand)",
+    "champagne flute, half full, at the left edge of frame",
+    "one burger bun visible on the platter at the bottom edge",
+    "red chair back behind the guest's right shoulder"
+  ],
+  "beats": [
+    {
+      "f": 2386,
+      "f_end": 2403,
+      "who": "guest",
+      "action": "holds the bitten burger at chest height in his left hand (screen right), chewing with a closed-mouth smile, half-lidded eyes looking right; jaw and burger bob gently"
+    },
+    {
+      "f": 2404,
+      "f_end": 2407,
+      "who": "guest",
+      "action": "head tips down, eyes drop to the burger; right hand comes up underneath it"
+    },
+    {
+      "f": 2408,
+      "f_end": 2411,
+      "who": "guest",
+      "action": "starts to speak, still looking down; shifts the burger to screen right, resting on the right palm with the left hand on top"
+    },
+    {
+      "f": 2412,
+      "f_end": 2415,
+      "who": "guest",
+      "action": "left hand lifts the top bun off and swings it up and out to screen right"
+    },
+    {
+      "f": 2416,
+      "who": "guest",
+      "action": "holds the top bun upright in the left hand at screen right, underside toward camera (lettuce, tomato, sauce); patty on bottom bun sits on the open right palm at chest centre"
+    },
+    {
+      "f": 2418,
+      "f_end": 2421,
+      "who": "guest",
+      "action": "mouth shut, looks down at the patty"
+    },
+    {
+      "f": 2422,
+      "f_end": 2433,
+      "who": "guest",
+      "action": "talks while studying the patty, eyes down, lids low"
+    },
+    {
+      "f": 2434,
+      "f_end": 2436,
+      "who": "guest",
+      "action": "raises the right palm with the patty up toward his chin, forearm coming into frame"
+    },
+    {
+      "f": 2437,
+      "f_end": 2455,
+      "who": "guest",
+      "action": "holds the patty just under his chin and keeps talking, eyes down on it"
+    },
+    {
+      "f": 2456,
+      "f_end": 2457,
+      "who": "guest",
+      "action": "blink (eyes shut 2456-2457)"
+    },
+    {
+      "f": 2458,
+      "who": "guest",
+      "action": "eyes open half and swing up to the host, brows low"
+    },
+    {
+      "f": 2460,
+      "f_end": 2463,
+      "who": "guest",
+      "action": "lowers the patty hand back to chest height and straightens his head"
+    },
+    {
+      "f": 2464,
+      "f_end": 2485,
+      "who": "guest",
+      "action": "holds both halves of the burger apart, half-lidded stare fixed on the host while finishing the line"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Same setup as S29/S31 (K23), now with the guest's hands and burger in frame. The open-burger pose reached at 2416 (top bun in left hand at screen right, patty on right palm) is carried through S35 and S37. Chewing at 2386-2403 is a mouth-closed jaw cycle, not speech; the line starts at 2408, matching script.json (2410)."
+}

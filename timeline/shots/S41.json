@@ -1,0 +1,100 @@
+{
+  "id": "S41",
+  "summary": "Close-up of the guest taking in the host's answer: a flat stare that hardens into a scowl as he repeats it back as a question.",
+  "framing": "Close-up, head and collar, eye level, static. Guest left of centre, a window frame at right, a green-framed oval mirror with flowers at bottom left.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, collar and shoulders",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie"
+    }
+  ],
+  "props": [
+    "window with pale frame and purple pane, right edge",
+    "green-framed oval mirror showing pink flowers, bottom left"
+  ],
+  "beats": [
+    {
+      "f": 3272,
+      "f_end": 3275,
+      "who": "guest",
+      "action": "stares to screen right, head still; brows level and slightly raised, upper lids low over the eyes, mouth closed in a downturned line"
+    },
+    {
+      "f": 3276,
+      "f_end": 3283,
+      "who": "guest",
+      "action": "brows drop a little and slant inward; mouth opens for a short grunt"
+    },
+    {
+      "f": 3284,
+      "f_end": 3295,
+      "who": "guest",
+      "action": "holds the stare, mouth barely parted, no blink"
+    },
+    {
+      "f": 3296,
+      "f_end": 3299,
+      "who": "guest",
+      "action": "brows slant down further toward the nose"
+    },
+    {
+      "f": 3300,
+      "f_end": 3307,
+      "who": "guest",
+      "action": "head tips back and turns slightly more to the right as he starts to speak, lips pursed forward"
+    },
+    {
+      "f": 3304,
+      "f_end": 3319,
+      "who": "guest",
+      "action": "brows lift at the outer ends, inner ends still down (sceptical), lids low"
+    },
+    {
+      "f": 3308,
+      "f_end": 3309,
+      "who": "guest",
+      "action": "head comes back down, jaw drops wide"
+    },
+    {
+      "f": 3312,
+      "f_end": 3313,
+      "who": "guest",
+      "action": "mouth shuts into a long downturned line for two frames"
+    },
+    {
+      "f": 3314,
+      "f_end": 3317,
+      "who": "guest",
+      "action": "head tips back again, lips pursed"
+    },
+    {
+      "f": 3320,
+      "f_end": 3325,
+      "who": "guest",
+      "action": "brows clamp down into a hard V, jaw drops wide, head pushes forward"
+    },
+    {
+      "f": 3330,
+      "f_end": 3331,
+      "who": "guest",
+      "action": "lips purse"
+    },
+    {
+      "f": 3332,
+      "f_end": 3335,
+      "who": "guest",
+      "action": "teeth clenched and bared, full scowl"
+    },
+    {
+      "f": 3336,
+      "f_end": 3343,
+      "who": "guest",
+      "action": "head dips and turns a little further right, teeth still bared, glaring; held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, as measured. He does not blink in this shot. The head moves are small (a few percent of head height) and follow the mouth shapes; the main animated change is the brows: level at 3272, slightly lowered at 3276, sceptical at 3304, hard V from 3320. S42-S44 continue this setup with punch-ins."
+}

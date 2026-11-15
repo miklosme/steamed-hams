@@ -1,0 +1,80 @@
+{
+  "id": "S26",
+  "summary": "The host, seated, breezily explains the name away with an open-handed gesture.",
+  "framing": "Medium close-up, eye level, of the host seated in 3/4 left view, chest up; static camera. Purple door at left, blue wall, corner of a green-framed red picture at top right, red chair back behind his shoulders, a champagne flute at the left edge, burger tops just visible along the bottom edge.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "chest up, right hand enters frame",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "champagne flute at left edge of frame",
+    "red chair back behind the host",
+    "purple door at left, green-framed picture at top right",
+    "hamburger tops along the bottom edge"
+  ],
+  "beats": [
+    {
+      "f": 2007,
+      "who": "host",
+      "action": "seated upright, head 3/4 left, eyes wide open on the guest (screen left), brows raised, mouth open speaking; hands out of frame"
+    },
+    {
+      "f": 2011,
+      "f_end": 2014,
+      "who": "host",
+      "action": "small head bob up and forward on the first word"
+    },
+    {
+      "f": 2015,
+      "f_end": 2024,
+      "who": "host",
+      "action": "fixed wide toothy grin, eyes wide, head still; held"
+    },
+    {
+      "f": 2025,
+      "who": "host",
+      "action": "upper lids drop to half, brows relax (knowing look); head tilts slightly back; right hand (screen left) rises into frame from the bottom-left corner"
+    },
+    {
+      "f": 2027,
+      "f_end": 2030,
+      "who": "host",
+      "action": "right hand up at chest height beside the flute, loose fist with thumb up"
+    },
+    {
+      "f": 2031,
+      "f_end": 2036,
+      "who": "host",
+      "action": "hand lifts to shoulder height near his lapel, fingers curled, wrist rolling as he talks; lids still half-lowered"
+    },
+    {
+      "f": 2037,
+      "who": "host",
+      "action": "arm sweeps out to screen-left and the hand opens palm-up at the left edge of frame, behind the flute; eyes squeezed shut 2037-2038 with a toothy smile"
+    },
+    {
+      "f": 2039,
+      "who": "host",
+      "action": "lids half-open"
+    },
+    {
+      "f": 2041,
+      "f_end": 2054,
+      "who": "host",
+      "action": "eyes open wide on the guest, brows up; palm-up hand held out at left; holds this pose, talking with small head bobs"
+    },
+    {
+      "f": 2055,
+      "f_end": 2058,
+      "who": "host",
+      "action": "ends on a wide toothy grin, palm still out, eyes wide; held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. On twos, new drawings on odd frames. script.json puts 'yes' at 2011; the mouth is already open on the first frame (2007). The open hand is drawn behind the champagne flute."
+}

@@ -1,0 +1,468 @@
+{
+  "id": "S38",
+  "summary": "Long over-the-shoulder two-shot at the dining table: the host stalls while smoke drifts in, excuses himself, slips through the kitchen door onto a fire glow, then comes back out faking a yawn and stretch to end the lunch.",
+  "framing": "Medium two-shot from behind the guest's right shoulder, eye level, looking across the round table at the host with the kitchen door behind him. Static until 2957; at 2958-2965 the camera tilts up about 7% of frame height (picture content slides down: the fruit painting at top left comes fully into frame, the table drops to the bottom edge) to hold the host as he stands. Static again from 2966 to the end.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head, shoulders and back, seen from behind 3/4; right arm reaches over the table",
+      "screen": "left",
+      "facing": "3/4 away, right",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "head and chest while seated; head to waist once standing behind his chair",
+      "screen": "right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, pink shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "half-eaten burger, in guest's right hand held out over the table",
+    "round table with white cloth; silver platter of burgers and fries; stemmed glass in front of guest",
+    "green bottle in a silver ice bucket, table centre-left",
+    "white cloth napkin, in host's right hand 2832-2891",
+    "host's dark wooden chair: hidden behind him while seated, its back in frame at bottom right from 2970",
+    "guest's wooden chair back, bottom left corner",
+    "kitchen door behind the host, mauve, panelled, hinged on its left edge, opens into the kitchen",
+    "framed fruit-bowl painting, top left (only its lower edge in frame before the tilt)"
+  ],
+  "beats": [
+    {
+      "f": 2785,
+      "who": "guest",
+      "action": "seated with back to camera, head turned 3/4 toward host; right arm stretched across the table holding the half-eaten burger upright in his fist; holds this pose, motionless, until 2981"
+    },
+    {
+      "f": 2785,
+      "who": "host",
+      "action": "seated behind the table facing the guest, upright, hands below the table; brows raised and pinched (worried), eyes wide on the guest, mouth a closed downturned line"
+    },
+    {
+      "f": 2788,
+      "f_end": 2805,
+      "who": "host",
+      "action": "mouth drops open, slight head bob forward; stays worried, eyes on guest"
+    },
+    {
+      "f": 2801,
+      "who": "fx",
+      "action": "thin grey-white smoke wisps start rising in front of the door's left jamb, behind the bottle; faint, drifting upward"
+    },
+    {
+      "f": 2806,
+      "f_end": 2813,
+      "who": "host",
+      "action": "mouth shuts, eyelids drop halfway, eyes look down at the table"
+    },
+    {
+      "f": 2814,
+      "who": "host",
+      "action": "eyes snap back up to the guest, wide; head lifts slightly as he starts talking"
+    },
+    {
+      "f": 2822,
+      "who": "fx",
+      "action": "second smoke wisp rises right of the door behind the host's head; smoke now drifts on both sides of the door and keeps doing so for the rest of the shot"
+    },
+    {
+      "f": 2832,
+      "f_end": 2833,
+      "who": "host",
+      "action": "right hand comes up from the table holding a white napkin"
+    },
+    {
+      "f": 2834,
+      "f_end": 2889,
+      "who": "host",
+      "action": "presses napkin to his mouth, eyelids half down looking at it; keeps dabbing (napkin shifts a few pixels every 2-4 frames) until 2889"
+    },
+    {
+      "f": 2839,
+      "who": "host",
+      "action": "eyes open wide on the guest above the napkin"
+    },
+    {
+      "f": 2857,
+      "f_end": 2859,
+      "who": "host",
+      "action": "eyelids droop"
+    },
+    {
+      "f": 2860,
+      "f_end": 2861,
+      "who": "host",
+      "action": "blink, eyes closed for two frames"
+    },
+    {
+      "f": 2862,
+      "f_end": 2874,
+      "who": "host",
+      "action": "eyes open; from 2864 lids half down, looking down past the napkin"
+    },
+    {
+      "f": 2875,
+      "f_end": 2880,
+      "who": "host",
+      "action": "eyes wide on the guest again, head lifts slightly"
+    },
+    {
+      "f": 2881,
+      "f_end": 2886,
+      "who": "host",
+      "action": "lids half down, glance down"
+    },
+    {
+      "f": 2887,
+      "who": "host",
+      "action": "eyes back on guest"
+    },
+    {
+      "f": 2890,
+      "f_end": 2891,
+      "who": "host",
+      "action": "lowers the napkin away from his mouth"
+    },
+    {
+      "f": 2892,
+      "who": "prop",
+      "action": "napkin gone below the table edge; host's hand out of sight"
+    },
+    {
+      "f": 2892,
+      "f_end": 2898,
+      "who": "host",
+      "action": "mouth open, brows raised, eyes on guest"
+    },
+    {
+      "f": 2899,
+      "f_end": 2901,
+      "who": "host",
+      "action": "mouth closed, small pause, blank stare at guest"
+    },
+    {
+      "f": 2902,
+      "f_end": 2934,
+      "who": "host",
+      "action": "talks with strained teeth-bared grimaces, head nodding slightly forward on each word, eyes wide on guest"
+    },
+    {
+      "f": 2936,
+      "f_end": 2949,
+      "who": "host",
+      "action": "mouth hangs slightly open, then closes into a downturned frown at 2942; head sinks a little, brows worried"
+    },
+    {
+      "f": 2950,
+      "f_end": 2952,
+      "who": "host",
+      "action": "eyelids lower halfway for three frames, then open"
+    },
+    {
+      "f": 2956,
+      "who": "host",
+      "action": "head pops up and tilts back, sudden broad grin, brows up"
+    },
+    {
+      "f": 2958,
+      "f_end": 2965,
+      "who": "camera",
+      "action": "tilt up following the host as he rises: content slides down about 7% of frame height, no zoom, no sideways drift"
+    },
+    {
+      "f": 2958,
+      "f_end": 2965,
+      "who": "host",
+      "action": "leans forward and starts to stand: torso pitches toward the guest, right hand plants flat on the table at the bottom right edge (visible from 2960)"
+    },
+    {
+      "f": 2965,
+      "who": "host",
+      "action": "bent far forward over the table, face low and close to the guest, grinning"
+    },
+    {
+      "f": 2966,
+      "f_end": 2967,
+      "who": "host",
+      "action": "glances down, mouth closed"
+    },
+    {
+      "f": 2968,
+      "f_end": 2971,
+      "who": "host",
+      "action": "pushes up and back: torso swings upright and to screen left, eyes wide, mouth round"
+    },
+    {
+      "f": 2970,
+      "who": "prop",
+      "action": "host's chair back comes into view at bottom right as he steps out from it; stays there"
+    },
+    {
+      "f": 2972,
+      "f_end": 2973,
+      "who": "host",
+      "action": "straightens, stepping back to stand behind the chair in front of the door"
+    },
+    {
+      "f": 2974,
+      "f_end": 2979,
+      "who": "host",
+      "action": "standing upright in front of the door, 3/4 left toward guest, arms at sides, talking, brows raised"
+    },
+    {
+      "f": 2980,
+      "f_end": 2987,
+      "who": "host",
+      "action": "mouth closes into a smile, stands still looking at the guest"
+    },
+    {
+      "f": 2982,
+      "f_end": 2985,
+      "who": "guest",
+      "action": "pulls the burger back from over the table toward his chest"
+    },
+    {
+      "f": 2986,
+      "f_end": 2997,
+      "who": "guest",
+      "action": "burger hand out of sight in front of his body; head turns a little further right (more profile), mouth opens to speak"
+    },
+    {
+      "f": 2988,
+      "f_end": 2989,
+      "who": "host",
+      "action": "turns to face camera with a fixed closed-mouth grin, eyes to screen left on the guest, leaning to his right as his left arm reaches back for the door"
+    },
+    {
+      "f": 2990,
+      "f_end": 2992,
+      "who": "prop",
+      "action": "kitchen door swings inward, opening a gap along its right edge"
+    },
+    {
+      "f": 2990,
+      "who": "fx",
+      "action": "pink-red glow shows through the door gap along the right edge and top of the door frame; denser smoke wisps curl up left of the door and above the guest"
+    },
+    {
+      "f": 2990,
+      "f_end": 2991,
+      "who": "host",
+      "action": "grin drops to a worried frown, eyes still on the guest, body sliding toward the gap"
+    },
+    {
+      "f": 2992,
+      "f_end": 2997,
+      "who": "host",
+      "action": "turns his back and steps through the gap to the right: profile right at 2992, back of head by 2995"
+    },
+    {
+      "f": 2998,
+      "f_end": 3000,
+      "who": "host",
+      "action": "only his back and shoulder visible at the door edge; last sliver at 3000, gone at 3001"
+    },
+    {
+      "f": 2998,
+      "f_end": 2999,
+      "who": "guest",
+      "action": "lifts the burger to his mouth with his right hand, head tipping back slightly"
+    },
+    {
+      "f": 3000,
+      "f_end": 3006,
+      "who": "guest",
+      "action": "bites and chews, burger held at his mouth"
+    },
+    {
+      "f": 3001,
+      "f_end": 3003,
+      "who": "prop",
+      "action": "door swings shut; glow strip narrows"
+    },
+    {
+      "f": 3004,
+      "who": "fx",
+      "action": "door fully closed, glow gone; faint smoke still drifting left of the door"
+    },
+    {
+      "f": 3007,
+      "f_end": 3008,
+      "who": "guest",
+      "action": "lowers the burger out of sight"
+    },
+    {
+      "f": 3009,
+      "f_end": 3026,
+      "who": "guest",
+      "action": "sits still facing the closed door, head 3/4 away; nothing else moves"
+    },
+    {
+      "f": 3028,
+      "f_end": 3034,
+      "who": "prop",
+      "action": "door opens inward again, gap on the right widening; fully open by 3034"
+    },
+    {
+      "f": 3028,
+      "who": "fx",
+      "action": "orange-red fire visible through the gap: bright flame shapes filling the doorway from floor to top, flickering"
+    },
+    {
+      "f": 3032,
+      "f_end": 3033,
+      "who": "host",
+      "action": "appears in the gap from the right, face first, tinted orange-pink by the fire behind him, eyes wide"
+    },
+    {
+      "f": 3034,
+      "f_end": 3039,
+      "who": "host",
+      "action": "stands in the open doorway facing camera, whole figure tinted pink-orange, eyes wide, mouth opening"
+    },
+    {
+      "f": 3040,
+      "f_end": 3043,
+      "who": "host",
+      "action": "steps forward into the room; tint drops off to normal colours by 3041; eyes squeeze shut, mouth wide open in a yawn; right hand hangs in front of him"
+    },
+    {
+      "f": 3041,
+      "f_end": 3049,
+      "who": "prop",
+      "action": "door swings closed behind him"
+    },
+    {
+      "f": 3044,
+      "f_end": 3045,
+      "who": "host",
+      "action": "both fists come up to his chest, elbows out, eyes shut, yawning"
+    },
+    {
+      "f": 3046,
+      "f_end": 3051,
+      "who": "host",
+      "action": "left fist (screen right) rises beside his head then up at arm's length; right fist stays at chest"
+    },
+    {
+      "f": 3050,
+      "who": "fx",
+      "action": "door shut: fire no longer visible"
+    },
+    {
+      "f": 3052,
+      "f_end": 3053,
+      "who": "host",
+      "action": "right hand goes up to the side of his head, left arm still raised"
+    },
+    {
+      "f": 3052,
+      "who": "fx",
+      "action": "thin pink-red glow line along the top edge of the closed door and a small red patch at its top right corner; stays to the end of the shot"
+    },
+    {
+      "f": 3054,
+      "f_end": 3063,
+      "who": "host",
+      "action": "both arms flung up and out in a wide V, fists closed, head thrown back, mouth wide open, eyes shut; holds the stretch with a slight sway"
+    },
+    {
+      "f": 3064,
+      "f_end": 3067,
+      "who": "host",
+      "action": "arms come down to horizontal, still yawning"
+    },
+    {
+      "f": 3068,
+      "f_end": 3071,
+      "who": "host",
+      "action": "arms swing down to his sides, hands near the chair back and table; head still tipped back"
+    },
+    {
+      "f": 3072,
+      "f_end": 3075,
+      "who": "host",
+      "action": "head comes forward, eyes still shut, teeth-bared grin; open hands low in front of him"
+    },
+    {
+      "f": 3076,
+      "f_end": 3078,
+      "who": "host",
+      "action": "brings both hands up to his chest, palms up, fingers spread; eyes shut"
+    },
+    {
+      "f": 3079,
+      "f_end": 3087,
+      "who": "host",
+      "action": "eyes open (half at 3079, wide at 3080) onto the guest; small patting gestures with both hands at his chest while talking"
+    },
+    {
+      "f": 3088,
+      "f_end": 3089,
+      "who": "host",
+      "action": "drops both hands to the table, leaning forward over the chair"
+    },
+    {
+      "f": 3090,
+      "f_end": 3091,
+      "who": "host",
+      "action": "leans to his right, right arm reaching down to the table beside the ice bucket"
+    },
+    {
+      "f": 3092,
+      "f_end": 3093,
+      "who": "host",
+      "action": "straightens up"
+    },
+    {
+      "f": 3094,
+      "who": "host",
+      "action": "stands upright behind his chair, arms at his sides, 3/4 left, talking to the guest with brows raised; holds this stance to the end"
+    },
+    {
+      "f": 3106,
+      "f_end": 3108,
+      "who": "host",
+      "action": "mouth closes into a small smile for three frames"
+    },
+    {
+      "f": 3112,
+      "f_end": 3113,
+      "who": "guest",
+      "action": "raises the burger to his mouth again"
+    },
+    {
+      "f": 3114,
+      "f_end": 3120,
+      "who": "guest",
+      "action": "bites, burger at his mouth, head tipped back slightly"
+    },
+    {
+      "f": 3121,
+      "f_end": 3122,
+      "who": "guest",
+      "action": "lowers the burger out of sight"
+    },
+    {
+      "f": 3128,
+      "f_end": 3135,
+      "who": "host",
+      "action": "closed-mouth smile, standing still"
+    },
+    {
+      "f": 3132,
+      "f_end": 3133,
+      "who": "host",
+      "action": "eyes flick away from the guest for two frames (pupils slide to screen right), back at 3134"
+    },
+    {
+      "f": 3136,
+      "f_end": 3145,
+      "who": "host",
+      "action": "mouth rounds, then from 3138 a wide toothy grin held to the cut, eyes on guest"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "No cut inside the shot despite two decomp numbers; it is one continuous take. Camera: the measured move (2958-2965, vertical only, about -0.07) matches what is drawn; described here as a tilt up because the content moves down in frame. Dialogue check: the host's mouth is already moving at 2788-2805, well before the first host word in script.json (L42 at 2823); the audio there is probably a stammer the aligner did not catch. The guest never changes pose apart from the two burger bites (2998-3008, 3112-3122) and the burger pull-back at 2982; his face is visible only as a sliver of profile. Smoke is subtle: thin semi-transparent wisps rising beside the door, not a cloud. While the door is closed at 3004-3027 there is no glow at all; after the host returns the door leaks a glow line along its top edge. The host is tinted by the fire only while he stands in the doorway (3032-3040)."
+}

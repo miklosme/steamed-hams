@@ -1,0 +1,100 @@
+{
+ "id": "S02",
+ "summary": "Inside the house, the host walks up to the front door and opens it, revealing the guest outside.",
+ "framing": "Medium close-up, side-on, eye level: purple panelled front door seen from inside filling the left two thirds, lilac wall on the right; static.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "head and shoulders, then chest up",
+   "screen": "centre",
+   "facing": "left",
+   "costume": "light-blue suit, lilac shirt, white frilled apron"
+  },
+  {
+   "who": "guest",
+   "visible": "sliver of face and chest in the door gap from frame 68",
+   "screen": "left",
+   "facing": "right",
+   "costume": "navy suit, red tie"
+  }
+ ],
+ "props": [
+  "purple panelled door with brass knob plate at lower left; hinged on its right side, opens inward",
+  "bottle (pale green) just visible at the guest's chest on the last frame"
+ ],
+ "beats": [
+  {
+   "f": 46,
+   "who": "host",
+   "action": "enters from the right edge in profile facing left; only nose and brow in frame; eye wide, mouth closed in a slight frown"
+  },
+  {
+   "f": 46,
+   "who": "prop",
+   "action": "door is closed"
+  },
+  {
+   "f": 47,
+   "f_end": 58,
+   "who": "host",
+   "action": "walks left across the frame at a steady pace, upright, head level"
+  },
+  {
+   "f": 57,
+   "who": "host",
+   "action": "right hand comes into frame low, reaching forward toward the knob"
+  },
+  {
+   "f": 59,
+   "f_end": 60,
+   "who": "host",
+   "action": "hand lifts, open with fingers spread, in front of his chest"
+  },
+  {
+   "f": 61,
+   "f_end": 62,
+   "who": "host",
+   "action": "hand drops onto the door knob"
+  },
+  {
+   "f": 63,
+   "who": "host",
+   "action": "stops at the door, hand gripping the knob at the bottom-left of frame; upper eyelid lowers slightly, brow line appears over the eye"
+  },
+  {
+   "f": 64,
+   "f_end": 67,
+   "who": "host",
+   "action": "holds, hand on the knob, looking at the door"
+  },
+  {
+   "f": 68,
+   "f_end": 72,
+   "who": "prop",
+   "action": "door starts swinging inward (toward camera, pivoting on its right edge); a dark gap opens on the left"
+  },
+  {
+   "f": 68,
+   "f_end": 72,
+   "who": "host",
+   "action": "pulls the door open, leaning back slightly; keeps looking left at the gap"
+  },
+  {
+   "f": 68,
+   "who": "guest",
+   "action": "revealed in the gap at the left edge: bald head with grey hair at the back, navy suit"
+  },
+  {
+   "f": 70,
+   "who": "guest",
+   "action": "more of the face visible: brows low, eye half-lidded looking right at the host"
+  },
+  {
+   "f": 72,
+   "who": "guest",
+   "action": "face, white collar and red tie visible in the gap; top of the bottle visible at the bottom edge"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Host's eye stays wide and round while walking (no blink in the shot). Camera static, agreeing with timeline.json. The guest does not move within the gap; he is only uncovered by the door."
+}

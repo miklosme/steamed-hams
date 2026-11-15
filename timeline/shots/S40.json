@@ -1,0 +1,158 @@
+{
+  "id": "S40",
+  "summary": "Two-shot: the guest stands, sees the glow at the kitchen door and points at it; the host glances back at the door and answers with a grin.",
+  "framing": "Medium two-shot from behind the guest's right shoulder, eye level, static; same setup as the end of S38 (after its tilt). Guest left foreground, host right, kitchen door between and behind them.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head and shoulders while seated; back from waist to forehead once standing (top of head cut off)",
+      "screen": "left",
+      "facing": "3/4 away, right",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "head to waist, standing behind his chair",
+      "screen": "right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, pink shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "kitchen door, closed, behind the host",
+    "host's chair back at bottom right; host's hands rest on it from 3225",
+    "guest's chair back at bottom left",
+    "table edge with bottle, glass and burgers along the bottom of frame",
+    "framed fruit-bowl painting, top left"
+  ],
+  "beats": [
+    {
+      "f": 3185,
+      "who": "guest",
+      "action": "half risen, bent forward, back of head at mid height, face turned toward the door"
+    },
+    {
+      "f": 3185,
+      "who": "host",
+      "action": "stands behind his chair in front of the door, arms at sides, closed-mouth smile, eyes on the guest"
+    },
+    {
+      "f": 3185,
+      "who": "fx",
+      "action": "thin pink-red glow line along the top edge of the door with a red patch at its top right corner, above the host's head; steady until 3216"
+    },
+    {
+      "f": 3192,
+      "f_end": 3198,
+      "who": "guest",
+      "action": "straightens up to full height, head rising to the top of frame, mouth opening"
+    },
+    {
+      "f": 3199,
+      "f_end": 3212,
+      "who": "guest",
+      "action": "standing tall, back to camera, head turned to the door in profile right, arms at sides"
+    },
+    {
+      "f": 3199,
+      "f_end": 3202,
+      "who": "host",
+      "action": "slow blink: lids half down at 3199, shut 3201-3202, open at 3203"
+    },
+    {
+      "f": 3203,
+      "f_end": 3220,
+      "who": "host",
+      "action": "smile gone, mouth a small flat line, eyes on guest, stands still"
+    },
+    {
+      "f": 3213,
+      "f_end": 3215,
+      "who": "guest",
+      "action": "raises his right arm and points at the door: hand up at 3213, arm fully extended with index finger out by 3215"
+    },
+    {
+      "f": 3216,
+      "f_end": 3255,
+      "who": "guest",
+      "action": "holds the point, arm level, talking"
+    },
+    {
+      "f": 3217,
+      "who": "fx",
+      "action": "glow at the top of the door is gone"
+    },
+    {
+      "f": 3221,
+      "who": "host",
+      "action": "eyes widen"
+    },
+    {
+      "f": 3223,
+      "f_end": 3226,
+      "who": "host",
+      "action": "turns his head away from the guest to look back at the door: profile at 3224, back of head toward camera by 3226"
+    },
+    {
+      "f": 3224,
+      "f_end": 3225,
+      "who": "host",
+      "action": "right hand comes up and grips the top of the chair back"
+    },
+    {
+      "f": 3227,
+      "f_end": 3240,
+      "who": "host",
+      "action": "keeps looking at the door, head 3/4 away; left hand joins on the chair back (both hands on it from 3229)"
+    },
+    {
+      "f": 3241,
+      "f_end": 3242,
+      "who": "host",
+      "action": "turns his head back to the guest, lids half down"
+    },
+    {
+      "f": 3243,
+      "f_end": 3244,
+      "who": "host",
+      "action": "eyes closed for two frames while he starts to speak"
+    },
+    {
+      "f": 3245,
+      "f_end": 3256,
+      "who": "host",
+      "action": "eyes open on the guest, brows raised, talking; hands stay on the chair"
+    },
+    {
+      "f": 3256,
+      "f_end": 3258,
+      "who": "guest",
+      "action": "lowers the pointing arm"
+    },
+    {
+      "f": 3257,
+      "f_end": 3262,
+      "who": "host",
+      "action": "broad open grin"
+    },
+    {
+      "f": 3259,
+      "who": "guest",
+      "action": "hand down by the table edge, fingers loosely curled; stands facing the host to the end"
+    },
+    {
+      "f": 3263,
+      "f_end": 3265,
+      "who": "host",
+      "action": "eyes squeeze shut in a toothy grin"
+    },
+    {
+      "f": 3266,
+      "f_end": 3271,
+      "who": "host",
+      "action": "eyes open, lids relaxed, keeps smiling at the guest to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, as measured. The door stays closed for the whole shot; the only fire cue is the glow line at the top of the door, which is drawn until 3216 and absent from 3217, while the guest is still pointing at it. The guest's face is seen only as a sliver of profile: one eye, nose and mouth edge."
+}

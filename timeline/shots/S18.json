@@ -1,0 +1,219 @@
+{
+  "id": "S18",
+  "summary": "The host panics, glances at the smoking oven, then recovers and explains the smoke away with a gesture toward the stove and a rub of his stomach.",
+  "framing": "Medium shot of the host, waist up, eye level, standing in front of the window (street and red-roofed building outside); stove top in the lower-left corner with smoke columns filling the left half of frame. Static.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "waist up",
+      "screen": "centre-right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, pink tie"
+    }
+  ],
+  "props": [
+    "stove top with burners and control panel, lower left",
+    "window behind the host"
+  ],
+  "beats": [
+    {
+      "f": 1385,
+      "who": "fx",
+      "action": "two broad columns of translucent grey-purple smoke rise from the stove at lower left and fill the left half of the frame to the top; drifts and churns continuously for the whole shot, partly veiling the host's reaching hand"
+    },
+    {
+      "f": 1385,
+      "f_end": 1386,
+      "who": "host",
+      "action": "stands 3/4 left, arms down out of frame, eyes wide and round, small frown"
+    },
+    {
+      "f": 1387,
+      "f_end": 1388,
+      "who": "host",
+      "action": "eyes shut, shoulders sag and he sinks a little"
+    },
+    {
+      "f": 1389,
+      "f_end": 1390,
+      "who": "host",
+      "action": "lids half open with pupils left, mouth drops open"
+    },
+    {
+      "f": 1391,
+      "f_end": 1405,
+      "who": "host",
+      "action": "crouches forward with both fists held up in front of his waist (visible at bottom of frame), eyes wide, teeth gritted; held, with teeth clenched then mouth open and frowning"
+    },
+    {
+      "f": 1406,
+      "who": "host",
+      "action": "head lifts and turns left toward the stove, mouth open, hands move left"
+    },
+    {
+      "f": 1407,
+      "f_end": 1408,
+      "who": "host",
+      "action": "head in left profile looking down at the stove, hands dropping away"
+    },
+    {
+      "f": 1409,
+      "f_end": 1410,
+      "who": "host",
+      "action": "straightens up, head still in left profile, mouth pursed, hands gone below frame"
+    },
+    {
+      "f": 1411,
+      "f_end": 1414,
+      "who": "host",
+      "action": "stands tall and turns his head further away to the left, looking up along the smoke; mouth a small o"
+    },
+    {
+      "f": 1415,
+      "f_end": 1418,
+      "who": "host",
+      "action": "holds left profile, chin up, eye wide"
+    },
+    {
+      "f": 1419,
+      "who": "host",
+      "action": "head whips back to 3/4 left toward the guest, eyes wide, teeth gritted"
+    },
+    {
+      "f": 1420,
+      "f_end": 1421,
+      "who": "host",
+      "action": "mouth opens speaking, head tilts back"
+    },
+    {
+      "f": 1422,
+      "f_end": 1423,
+      "who": "host",
+      "action": "body squares up toward camera and shifts left, brow line pinched, speaking"
+    },
+    {
+      "f": 1424,
+      "f_end": 1426,
+      "who": "host",
+      "action": "upright facing 3/4 left, arms straight down at his sides, worried teeth-clenched look"
+    },
+    {
+      "f": 1427,
+      "f_end": 1472,
+      "who": "host",
+      "action": "neutral standing pose, eyes wide looking left, mouth closed; this stance held while he speaks"
+    },
+    {
+      "f": 1433,
+      "f_end": 1436,
+      "who": "host",
+      "action": "blink: lids half at 1433, shut 1434-1435, half 1436, open 1437"
+    },
+    {
+      "f": 1455,
+      "f_end": 1459,
+      "who": "host",
+      "action": "mouth closes into a smile, eyes wide; brief pause"
+    },
+    {
+      "f": 1464,
+      "who": "host",
+      "action": "eyes widen, head lifts slightly as he resumes speaking"
+    },
+    {
+      "f": 1473,
+      "who": "host",
+      "action": "lids lower to half"
+    },
+    {
+      "f": 1474,
+      "f_end": 1481,
+      "who": "host",
+      "action": "eyes closed, chin up, speaking and grinning smugly with eyes shut"
+    },
+    {
+      "f": 1482,
+      "f_end": 1483,
+      "who": "host",
+      "action": "lids half open, pupils left"
+    },
+    {
+      "f": 1484,
+      "f_end": 1485,
+      "who": "host",
+      "action": "eyes fully open; body leans right as his screen-left arm starts to swing out to the left"
+    },
+    {
+      "f": 1486,
+      "f_end": 1487,
+      "who": "host",
+      "action": "arm extended down-left, hand open palm-up"
+    },
+    {
+      "f": 1488,
+      "f_end": 1516,
+      "who": "host",
+      "action": "arm held straight out to the left over the stove, palm up, presenting it; grinning and speaking, eyes wide; held"
+    },
+    {
+      "f": 1517,
+      "f_end": 1518,
+      "who": "host",
+      "action": "hand turns over and starts to drop, grin"
+    },
+    {
+      "f": 1519,
+      "f_end": 1520,
+      "who": "host",
+      "action": "turns to face camera, arm falling to his side, closed smile, lids relaxed"
+    },
+    {
+      "f": 1521,
+      "who": "host",
+      "action": "head tilts and turns 3/4 right, lopsided closed mouth, hand comes up to his stomach"
+    },
+    {
+      "f": 1522,
+      "f_end": 1538,
+      "who": "host",
+      "action": "rubs his stomach in circles with the screen-left hand while his head rolls side to side: 3/4 right 1522-1524, centred smile 1526-1528, tilted 3/4 left 1529-1530, centred 1531-1534, 3/4 right 1535-1538"
+    },
+    {
+      "f": 1539,
+      "f_end": 1540,
+      "who": "host",
+      "action": "faces camera with a wide toothy grin, hand still on stomach"
+    },
+    {
+      "f": 1541,
+      "who": "host",
+      "action": "broad grin straight to camera, hand drops away out of frame"
+    },
+    {
+      "f": 1542,
+      "f_end": 1545,
+      "who": "host",
+      "action": "back to 3/4 left, arms down at his sides, speaking"
+    },
+    {
+      "f": 1546,
+      "f_end": 1547,
+      "who": "host",
+      "action": "closed smile, slight settle"
+    },
+    {
+      "f": 1548,
+      "f_end": 1556,
+      "who": "host",
+      "action": "speaks again, bobbing slightly, eyes wide on the guest"
+    },
+    {
+      "f": 1557,
+      "f_end": 1559,
+      "who": "host",
+      "action": "ends on a fixed toothy grin, held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera confirmed static. The gesturing/rubbing arm is the one on screen left (his right). Animated on twos. The host's last word runs about 3 frames past the cut into S19."
+}

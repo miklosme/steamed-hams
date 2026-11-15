@@ -1,0 +1,97 @@
+{
+  "id": "S30",
+  "summary": "The host brushes the doubt aside and claims the phrase is a regional expression.",
+  "framing": "Static medium close-up of the host at the table, eye level; purple panelled door on the left third, blue wall, corner of a green-framed red picture top-right.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and shoulders to mid chest",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, purple shirt, salmon tie (no apron)"
+    }
+  ],
+  "props": [
+    "champagne flute standing in the foreground at lower left, in front of the door",
+    "red chair back visible behind both shoulders"
+  ],
+  "beats": [
+    {
+      "f": 2271,
+      "who": "host",
+      "action": "sits upright, eyes wide and round looking left at the guest, mouth open, hands out of frame"
+    },
+    {
+      "f": 2272,
+      "f_end": 2283,
+      "who": "host",
+      "action": "lids drop to half, pupils slide to the corners toward the guest, brows relax; dismissive look"
+    },
+    {
+      "f": 2274,
+      "f_end": 2295,
+      "who": "host",
+      "action": "chin lifts slightly as he talks, small head bobs with the words"
+    },
+    {
+      "f": 2284,
+      "f_end": 2287,
+      "who": "host",
+      "action": "eyes squeeze almost shut for four frames"
+    },
+    {
+      "f": 2288,
+      "f_end": 2295,
+      "who": "host",
+      "action": "eyes half open again, still looking at the guest"
+    },
+    {
+      "f": 2296,
+      "f_end": 2308,
+      "who": "host",
+      "action": "closes his eyes and tilts his head down a little, keeps talking with eyes shut"
+    },
+    {
+      "f": 2302,
+      "f_end": 2303,
+      "who": "host",
+      "action": "right hand (screen left) rises into frame at chest height, fingers curled toward himself"
+    },
+    {
+      "f": 2304,
+      "f_end": 2306,
+      "who": "host",
+      "action": "hand lifts to shoulder height with the elbow out, fingers bunched"
+    },
+    {
+      "f": 2307,
+      "f_end": 2311,
+      "who": "host",
+      "action": "hand opens and sweeps out to screen left, passing behind the foreground flute"
+    },
+    {
+      "f": 2309,
+      "who": "host",
+      "action": "eyes open to half, closed-mouth smile"
+    },
+    {
+      "f": 2310,
+      "who": "host",
+      "action": "eyes pop wide open, brows up, smiling; head lifts upright"
+    },
+    {
+      "f": 2312,
+      "f_end": 2315,
+      "who": "host",
+      "action": "hand rotates palm-up as the arm extends to the left edge of frame"
+    },
+    {
+      "f": 2316,
+      "f_end": 2329,
+      "who": "host",
+      "action": "holds the open palm-up hand at lower left, behind the flute, wide-eyed and smiling while he finishes the line"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json (setup K25). The flute is a foreground prop on the table and is never touched in this shot; the hand passes behind it. Eyes stay shut from 2296 through 2308 (not a blink, a held closed-eye expression)."
+}

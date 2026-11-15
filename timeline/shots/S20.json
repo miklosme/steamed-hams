@@ -1,0 +1,68 @@
+{
+  "id": "S20",
+  "summary": "The guest walks out of the kitchen through the swing door, which swings shut behind him, leaving the host alone with the burning oven.",
+  "framing": "Close shot at head height on the kitchen side of the swing door, looking at the guest's back; static camera. Door frame fills the middle of frame, blue wall strip at far left, blue and green vertical wall bands at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head and shoulders, from behind",
+      "screen": "left",
+      "facing": "3/4 away, head in left profile",
+      "costume": "navy suit"
+    }
+  ],
+  "props": [
+    "purple kitchen swing door, hinged on its right edge (screen), swinging closed behind the guest and then past closed"
+  ],
+  "beats": [
+    {
+      "f": 1587,
+      "who": "guest",
+      "action": "back to camera at left of frame, walking away through the doorway toward screen-left; head turned to left profile, eye half-lidded looking down-left, mouth closed"
+    },
+    {
+      "f": 1587,
+      "f_end": 1597,
+      "who": "prop",
+      "action": "swing door stands open, seen as a narrow panel right of the guest; it swings closed toward camera-left through the shot, widening every 2 frames"
+    },
+    {
+      "f": 1589,
+      "who": "guest",
+      "action": "steps forward and left, body lunges larger in frame, head turns further away so only the cheek and one eye show"
+    },
+    {
+      "f": 1591,
+      "who": "guest",
+      "action": "half out of frame at the left edge, only back of head and right shoulder visible"
+    },
+    {
+      "f": 1593,
+      "who": "guest",
+      "action": "only a sliver of head, collar and shoulder at the left edge"
+    },
+    {
+      "f": 1595,
+      "who": "guest",
+      "action": "only the shoulder at the bottom-left corner; door now covers most of the doorway"
+    },
+    {
+      "f": 1597,
+      "who": "guest",
+      "action": "gone, exit complete"
+    },
+    {
+      "f": 1597,
+      "who": "prop",
+      "action": "door flat-on and fully closed, filling the doorway; push plate visible low on its left edge"
+    },
+    {
+      "f": 1599,
+      "f_end": 1603,
+      "who": "prop",
+      "action": "door overswings past closed, away from camera: panel narrows from the left and a strip of blue wall opens at its left edge"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Animated on twos: new drawings on 1587, 1589, 1591 ... 1603. Camera static, agrees with timeline.json; the large image change is the door panel sweeping across frame, not a camera move. The door is still swinging on the last frame (1603)."
+}

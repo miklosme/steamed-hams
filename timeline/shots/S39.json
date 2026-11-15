@@ -1,0 +1,98 @@
+{
+  "id": "S39",
+  "summary": "Single on the guest as he finishes his burger, pulls the napkin from his collar and starts to get up to leave.",
+  "framing": "Medium close single on the guest across the table, eye level, static. He rises out of the top of frame at the end; the camera does not follow.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head to chest behind the table; by the end only chin to waist as he stands",
+      "screen": "centre",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie; white napkin tucked into his collar as a bib until 3163"
+    }
+  ],
+  "props": [
+    "burger, in both of guest's hands at the start, put down on the plate at 3148-3151",
+    "white napkin tucked into guest's collar, pulled out at 3162 and dropped on the table at 3182",
+    "gold wristwatch on guest's right wrist (visible when his fist is at his chest)",
+    "burger on a plate at bottom centre; champagne flute at left edge",
+    "background: green-framed oval mirror top left, small oval wall picture, green armchair, side table with lamp at right"
+  ],
+  "beats": [
+    {
+      "f": 3146,
+      "who": "guest",
+      "action": "seated, holding the burger in both hands just below his chin, head bowed, eyelids low looking down at it, mouth closed, chewing"
+    },
+    {
+      "f": 3148,
+      "f_end": 3151,
+      "who": "guest",
+      "action": "lowers the burger to the plate with both hands"
+    },
+    {
+      "f": 3150,
+      "who": "guest",
+      "action": "mouth opens to speak, eyes still down"
+    },
+    {
+      "f": 3152,
+      "f_end": 3157,
+      "who": "guest",
+      "action": "left hand (screen right) comes up open in front of his chest, fingers spread, a small dismissive wave; right hand stays down at the plate"
+    },
+    {
+      "f": 3158,
+      "who": "guest",
+      "action": "head lifts, eyelids nearly closed, mouth wide"
+    },
+    {
+      "f": 3160,
+      "f_end": 3161,
+      "who": "guest",
+      "action": "eyes shut; both hands go up to the napkin at his collar, right wrist with watch crossing his chest"
+    },
+    {
+      "f": 3162,
+      "f_end": 3163,
+      "who": "guest",
+      "action": "pulls the napkin out of his collar with his left hand, red tie uncovered; eyes half open looking down"
+    },
+    {
+      "f": 3164,
+      "f_end": 3175,
+      "who": "guest",
+      "action": "holds the napkin dangling from his left hand at chest height, right fist at his chest; head bowed, lids low, talking"
+    },
+    {
+      "f": 3176,
+      "f_end": 3177,
+      "who": "guest",
+      "action": "starts to rise: head lifts, right fist drops to the table, napkin drawn across his chest"
+    },
+    {
+      "f": 3178,
+      "f_end": 3181,
+      "who": "guest",
+      "action": "stands up, leaning forward over the table; swings the napkin out to screen right in his left hand; mouth rounded, eyes down"
+    },
+    {
+      "f": 3182,
+      "f_end": 3183,
+      "who": "guest",
+      "action": "upright and close to camera, head at the top edge; drops the napkin on the table at bottom right, hand flat on it; mouth closed, eyes turn to screen right"
+    },
+    {
+      "f": 3182,
+      "who": "prop",
+      "action": "napkin lands on the table at bottom right"
+    },
+    {
+      "f": 3184,
+      "who": "guest",
+      "action": "still rising, forehead out of frame; mouth opens, brows lift, eyes fixed off screen right; left hand slides off the bottom right corner"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera is static, as measured; the apparent push at 3178-3184 is the guest standing and leaning toward the lens, the background does not move. His eye line changes from down at the plate to off screen right (toward the kitchen door) only on the last three frames, which motivates the cut to S40."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "S37",
+  "summary": "The guest presses the point, angrily at first, then tilts the patty up to show its grill marks.",
+  "framing": "Static medium close-up of the guest at the table, eye level, slightly over the table edge; green oval mirror frame top-left, lilac wall panel with small oval picture, table lamp and green armchair behind him at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, shoulders, chest and both hands",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar"
+    }
+  ],
+  "props": [
+    "patty on the bottom bun, on the guest's right palm; tilted up to face camera from 2754, showing dark parallel grill lines and a red sauce rim",
+    "top bun in his left hand at screen right, underside (lettuce, tomato, sauce) visible",
+    "champagne flute at the left edge of frame",
+    "bun on the platter at the bottom edge"
+  ],
+  "beats": [
+    {
+      "f": 2690,
+      "who": "guest",
+      "action": "holds the opened burger as in S35 (patty on right palm at chest, top bun upright in left hand at screen right); eyes open on the host, brows pulled down, talking"
+    },
+    {
+      "f": 2704,
+      "f_end": 2708,
+      "who": "guest",
+      "action": "thrusts his head forward toward the host; left hand tips the top bun over and swings it down and out to the right edge of frame"
+    },
+    {
+      "f": 2706,
+      "who": "guest",
+      "action": "brows in a deep V, eyes wide and glaring at the host"
+    },
+    {
+      "f": 2709,
+      "f_end": 2729,
+      "who": "guest",
+      "action": "holds the top bun flat, underside up, low at the right edge with the arm extended; angry glare held while he talks"
+    },
+    {
+      "f": 2730,
+      "f_end": 2731,
+      "who": "guest",
+      "action": "eyes narrow to slits; left hand starts bringing the bun back up"
+    },
+    {
+      "f": 2732,
+      "f_end": 2733,
+      "who": "guest",
+      "action": "eyes squeezed shut, teeth bared"
+    },
+    {
+      "f": 2734,
+      "f_end": 2735,
+      "who": "guest",
+      "action": "eyes reopen narrow, mouth set; bun returns upright at screen right"
+    },
+    {
+      "f": 2736,
+      "f_end": 2751,
+      "who": "guest",
+      "action": "brows relax, lids half down, eyes drop to the patty in his right hand; talks while looking at it"
+    },
+    {
+      "f": 2752,
+      "who": "guest",
+      "action": "eyes come back up to the host"
+    },
+    {
+      "f": 2754,
+      "f_end": 2759,
+      "who": "guest",
+      "action": "dips his head and raises the right hand, tilting the patty up on edge toward camera; left hand lowers the top bun to the bottom-right corner, underside up"
+    },
+    {
+      "f": 2760,
+      "who": "guest",
+      "action": "holds the patty upright in front of his chest showing the grill marks, head back up, half-lidded scowl on the host"
+    },
+    {
+      "f": 2761,
+      "f_end": 2784,
+      "who": "guest",
+      "action": "keeps the patty displayed and the bun low at right while finishing the line, brows low"
+    },
+    {
+      "f": 2776,
+      "f_end": 2779,
+      "who": "guest",
+      "action": "blink (lids closing 2776, shut 2777-2778, open by 2780)"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Same setup as S29/S31/S33/S35 (K23), continuing the open-burger pose from S35; setup_rel shows it about 0.8% tighter and shifted slightly right. The green armchair behind the guest is uncovered when the bun drops at 2706-2733 and again from 2754. Patty stays displayed at the cut to S38."
+}

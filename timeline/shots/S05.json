@@ -1,0 +1,80 @@
+{
+ "id": "S05",
+ "summary": "The host's point of view as he pushes the kitchen door open and sees smoke pouring from the oven.",
+ "framing": "POV wide shot into the kitchen through the doorway; the door fills the left of frame and swings away to the left; static.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "right forearm and hand only, from the bottom-left",
+   "screen": "centre-left",
+   "facing": "away",
+   "costume": "light-blue sleeve"
+  }
+ ],
+ "props": [
+  "purple kitchen door (seen from the dining-room side), hinged on the left, swinging into the kitchen",
+  "white oven against the back wall with stove knobs on its upstand",
+  "sash window on the back wall right of the oven, showing a red-roofed building outside",
+  "lilac cupboard door left of the oven; white fridge at the far left (seen from 327); lilac counter at the right edge",
+  "purple tiled floor, pale green walls"
+ ],
+ "beats": [
+  {
+   "f": 319,
+   "who": "host",
+   "action": "forearm reaches in from the bottom-left, open hand flat on the door near its right edge"
+  },
+  {
+   "f": 319,
+   "who": "prop",
+   "action": "door covers the left two thirds of frame, already slightly ajar; window and counter visible to its right"
+  },
+  {
+   "f": 321,
+   "f_end": 328,
+   "who": "prop",
+   "action": "door swings open to the left, uncovering the kitchen from right to left"
+  },
+  {
+   "f": 321,
+   "who": "fx",
+   "action": "oven comes into view with two columns of grey smoke rising from its top and spreading at the ceiling"
+  },
+  {
+   "f": 321,
+   "f_end": 326,
+   "who": "host",
+   "action": "hand stays on the door and travels left and down with it"
+  },
+  {
+   "f": 323,
+   "who": "prop",
+   "action": "oven and cupboard door fully visible"
+  },
+  {
+   "f": 325,
+   "f_end": 326,
+   "who": "host",
+   "action": "hand at the left edge, door edge-on"
+  },
+  {
+   "f": 327,
+   "who": "prop",
+   "action": "door is out of frame; fridge visible at far left"
+  },
+  {
+   "f": 327,
+   "f_end": 328,
+   "who": "host",
+   "action": "only fingers and cuff remain at the bottom-left edge; holds"
+  },
+  {
+   "f": 327,
+   "f_end": 328,
+   "who": "fx",
+   "action": "smoke keeps rising in two plumes, soft-edged and semi-transparent"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera static (window stays put), agreeing with timeline.json. The door moves on twos: positions change on 321, 323, 325, 327. Smoke is a translucent grey overlay with slow shape change."
+}

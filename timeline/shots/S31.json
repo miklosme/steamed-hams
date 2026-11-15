@@ -1,0 +1,52 @@
+{
+  "id": "S31",
+  "summary": "The guest accepts the explanation with a flat two-word reply.",
+  "framing": "Static medium close-up of the guest at the table, eye level, slightly over the table edge; green oval mirror frame top-left, lilac wall panel with small oval picture, table lamp and green armchair behind him at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders, chest to the table edge",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar"
+    }
+  ],
+  "props": [
+    "champagne flute, half full, standing at the left edge of frame",
+    "tops of burger buns along the bottom edge of frame",
+    "red chair back behind the guest's right shoulder"
+  ],
+  "beats": [
+    {
+      "f": 2330,
+      "who": "guest",
+      "action": "sits upright, hands out of frame (the raised hand from S29 is gone), half-lidded eyes on the host, brows low, mouth already open"
+    },
+    {
+      "f": 2335,
+      "f_end": 2341,
+      "who": "guest",
+      "action": "head tips back a touch as the mouth opens wider, eyes still half-lidded"
+    },
+    {
+      "f": 2342,
+      "f_end": 2344,
+      "who": "guest",
+      "action": "lids lower further, almost closed, head settles down"
+    },
+    {
+      "f": 2345,
+      "f_end": 2353,
+      "who": "guest",
+      "action": "lids back to half, level stare at the host"
+    },
+    {
+      "f": 2352,
+      "f_end": 2353,
+      "who": "guest",
+      "action": "mouth closes; holds the flat stare to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Staging identical to S29 (setup K23) minus the raised hand. The guest's mouth is open from the first frame 2330, about 8 frames before script.json places his first word (2338); the measured line start looks late or the host's line tail overlaps."
+}

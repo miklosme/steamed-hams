@@ -1,0 +1,527 @@
+{
+ "_note": "Hand-corrected transcript of the reference audio; input to tools/align.py. 'near' is a [start, end] window in seconds (from the voice envelope) that the line is aligned inside. kind 'sound' is a non-word vocalisation timed from the envelope; kind 'sung' is the off-screen jingle, timed by ear only.",
+ "lines": [
+  {
+   "who": "guest",
+   "near": [
+    3.7,
+    6.9
+   ],
+   "text": "Well, Seymour, I made it, despite your directions."
+  },
+  {
+   "who": "host",
+   "near": [
+    6.8,
+    8.7
+   ],
+   "text": "Ah, Superintendent Chalmers, welcome!"
+  },
+  {
+   "who": "host",
+   "near": [
+    9.0,
+    11.2
+   ],
+   "text": "I hope you're prepared for an unforgettable luncheon."
+  },
+  {
+   "who": "guest",
+   "near": [
+    11.3,
+    11.9
+   ],
+   "kind": "sound",
+   "text": "(grunt)"
+  },
+  {
+   "who": "host",
+   "near": [
+    14.6,
+    15.6
+   ],
+   "kind": "sound",
+   "text": "(gasp)"
+  },
+  {
+   "who": "host",
+   "near": [
+    16.4,
+    19.2
+   ],
+   "text": "Oh, egads! My roast is ruined!"
+  },
+  {
+   "who": "host",
+   "near": [
+    21.2,
+    22.2
+   ],
+   "text": "But what if"
+  },
+  {
+   "who": "host",
+   "near": [
+    22.6,
+    26.4
+   ],
+   "text": "I were to purchase fast food and disguise it as my own cooking?"
+  },
+  {
+   "who": "host",
+   "near": [
+    27.3,
+    28.7
+   ],
+   "kind": "sound",
+   "text": "(chuckle: ho ho ho ho ho)"
+  },
+  {
+   "who": "host",
+   "near": [
+    28.65,
+    31.1
+   ],
+   "text": "delightfully devilish, Seymour."
+  },
+  {
+   "who": "guest",
+   "near": [
+    32.9,
+    33.3
+   ],
+   "kind": "sound",
+   "text": "(startled grunt)"
+  },
+  {
+   "who": "chorus",
+   "near": [
+    36.0,
+    38.7
+   ],
+   "text": "Skinner with his crazy explanations",
+   "kind": "sung"
+  },
+  {
+   "who": "chorus",
+   "near": [
+    38.7,
+    41.4
+   ],
+   "text": "The superintendent's gonna need his medication",
+   "kind": "sung"
+  },
+  {
+   "who": "chorus",
+   "near": [
+    41.4,
+    44.3
+   ],
+   "text": "When he hears Skinner's lame exaggerations",
+   "kind": "sung"
+  },
+  {
+   "who": "chorus",
+   "near": [
+    44.3,
+    46.7
+   ],
+   "text": "There'll be trouble in town tonight",
+   "kind": "sung"
+  },
+  {
+   "who": "guest",
+   "near": [
+    47.1,
+    49.3
+   ],
+   "text": "Seymour!"
+  },
+  {
+   "who": "host",
+   "near": [
+    49.4,
+    50.7
+   ],
+   "text": "Superintendent!"
+  },
+  {
+   "who": "host",
+   "near": [
+    50.9,
+    53.4
+   ],
+   "text": "I was just, uh, just stretching my calves on the windowsill."
+  },
+  {
+   "who": "host",
+   "near": [
+    53.2,
+    55.25
+   ],
+   "text": "Isometric exercise! Care to join me?"
+  },
+  {
+   "who": "guest",
+   "near": [
+    55.4,
+    57.8
+   ],
+   "text": "Why is there smoke coming out of your oven, Seymour?"
+  },
+  {
+   "who": "host",
+   "near": [
+    58.2,
+    59.1
+   ],
+   "text": "Uh, ooh!"
+  },
+  {
+   "who": "host",
+   "near": [
+    59.0,
+    63.6
+   ],
+   "text": "That isn't smoke, it's steam! Steam from the steamed clams we're having."
+  },
+  {
+   "who": "host",
+   "near": [
+    63.4,
+    65.4
+   ],
+   "text": "Mmm, steamed clams!"
+  },
+  {
+   "who": "host",
+   "near": [
+    66.9,
+    67.8
+   ],
+   "kind": "sound",
+   "text": "(phew)"
+  },
+  {
+   "who": "host",
+   "near": [
+    71.0,
+    74.4
+   ],
+   "text": "Superintendent, I hope you're ready for mouthwatering hamburgers!"
+  },
+  {
+   "who": "guest",
+   "near": [
+    74.2,
+    77.3
+   ],
+   "text": "I thought we were having steamed clams."
+  },
+  {
+   "who": "host",
+   "near": [
+    77.0,
+    80.3
+   ],
+   "text": "Oh, no, I said steamed hams."
+  },
+  {
+   "who": "host",
+   "near": [
+    80.0,
+    81.8
+   ],
+   "text": "That's what I call hamburgers."
+  },
+  {
+   "who": "guest",
+   "near": [
+    81.5,
+    83.7
+   ],
+   "text": "You call hamburgers steamed hams?"
+  },
+  {
+   "who": "host",
+   "near": [
+    83.6,
+    86.0
+   ],
+   "text": "Yes. It's a regional dialect."
+  },
+  {
+   "who": "guest",
+   "near": [
+    86.1,
+    86.75
+   ],
+   "text": "Uh huh."
+  },
+  {
+   "who": "guest",
+   "near": [
+    86.9,
+    87.95
+   ],
+   "text": "Eh, what region?"
+  },
+  {
+   "who": "host",
+   "near": [
+    88.05,
+    89.6
+   ],
+   "text": "Uh, upstate New York."
+  },
+  {
+   "who": "guest",
+   "near": [
+    89.6,
+    90.7
+   ],
+   "text": "Really."
+  },
+  {
+   "who": "guest",
+   "near": [
+    90.8,
+    95.0
+   ],
+   "text": "Well, I'm from Utica, and I've never heard anyone use the phrase steamed hams."
+  },
+  {
+   "who": "host",
+   "near": [
+    94.7,
+    97.3
+   ],
+   "text": "Oh, not in Utica, no. It's an Albany expression."
+  },
+  {
+   "who": "guest",
+   "near": [
+    97.4,
+    98.05
+   ],
+   "text": "I see."
+  },
+  {
+   "who": "guest",
+   "near": [
+    100.45,
+    104.3
+   ],
+   "text": "You know, these hamburgers are quite similar to the ones they have at Krusty Burger."
+  },
+  {
+   "who": "host",
+   "near": [
+    104.0,
+    108.9
+   ],
+   "text": "Oh ho ho ho, no! Patented Skinner Burgers. Old family recipe!"
+  },
+  {
+   "who": "guest",
+   "near": [
+    109.3,
+    111.4
+   ],
+   "text": "For steamed hams?"
+  },
+  {
+   "who": "host",
+   "near": [
+    111.4,
+    112.3
+   ],
+   "text": "Yes."
+  },
+  {
+   "who": "guest",
+   "near": [
+    112.1,
+    116.3
+   ],
+   "text": "Yes, and you call them steamed hams despite the fact that they are obviously grilled."
+  },
+  {
+   "who": "host",
+   "near": [
+    117.1,
+    118.2
+   ],
+   "text": "Ye, hey,"
+  },
+  {
+   "who": "host",
+   "near": [
+    118.8,
+    119.6
+   ],
+   "text": "you know, the,"
+  },
+  {
+   "who": "host",
+   "near": [
+    120.9,
+    122.1
+   ],
+   "text": "one thing I should"
+  },
+  {
+   "who": "host",
+   "near": [
+    123.4,
+    124.45
+   ],
+   "text": "Excuse me for one second."
+  },
+  {
+   "who": "guest",
+   "near": [
+    124.45,
+    125.15
+   ],
+   "text": "Of course."
+  },
+  {
+   "who": "host",
+   "near": [
+    126.7,
+    128.1
+   ],
+   "kind": "sound",
+   "text": "(yawn)"
+  },
+  {
+   "who": "host",
+   "near": [
+    128.0,
+    131.0
+   ],
+   "text": "Well, that was wonderful. A good time was had by all. I'm pooped."
+  },
+  {
+   "who": "guest",
+   "near": [
+    131.6,
+    135.2
+   ],
+   "text": "Yes, I should be, good Lord, what is happening in there?"
+  },
+  {
+   "who": "host",
+   "near": [
+    135.2,
+    136.6
+   ],
+   "text": "Aurora borealis."
+  },
+  {
+   "who": "guest",
+   "near": [
+    136.7,
+    137.1
+   ],
+   "text": "Uh,"
+  },
+  {
+   "who": "guest",
+   "near": [
+    137.6,
+    139.35
+   ],
+   "text": "Aurora borealis?"
+  },
+  {
+   "who": "guest",
+   "near": [
+    139.6,
+    146.6
+   ],
+   "text": "At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen?"
+  },
+  {
+   "who": "host",
+   "near": [
+    146.6,
+    147.5
+   ],
+   "text": "Yes."
+  },
+  {
+   "who": "guest",
+   "near": [
+    148.3,
+    149.5
+   ],
+   "text": "May I see it?"
+  },
+  {
+   "who": "host",
+   "near": [
+    150.75,
+    151.15
+   ],
+   "text": "No."
+  },
+  {
+   "who": "mother",
+   "near": [
+    152.0,
+    152.7
+   ],
+   "text": "Seymour!"
+  },
+  {
+   "who": "mother",
+   "near": [
+    152.85,
+    154.6
+   ],
+   "text": "The house is on fire!"
+  },
+  {
+   "who": "host",
+   "near": [
+    154.6,
+    156.8
+   ],
+   "text": "No, mother, it's just the northern lights."
+  },
+  {
+   "who": "guest",
+   "near": [
+    156.4,
+    160.3
+   ],
+   "text": "Well, Seymour, you are an odd fellow, but I must say"
+  },
+  {
+   "who": "guest",
+   "near": [
+    160.3,
+    162.0
+   ],
+   "text": "You steam a good ham."
+  },
+  {
+   "who": "mother",
+   "near": [
+    165.15,
+    166.4
+   ],
+   "text": "Help!"
+  },
+  {
+   "who": "mother",
+   "near": [
+    166.55,
+    168.0
+   ],
+   "text": "Help!"
+  }
+ ]
+}

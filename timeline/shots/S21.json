@@ -1,0 +1,150 @@
+{
+  "id": "S21",
+  "summary": "Alone in the kitchen, the host wipes his brow in relief, then gets an idea, climbs out through the open window and is seen running across the street to the burger restaurant.",
+  "framing": "Medium shot, eye level, of the open kitchen sash window (lower sash raised) with the host standing in front of it; static camera. Through the window: lawn, sidewalk, street, a red-roofed burger restaurant with a tall sign and parked cars, blue sky with clouds. Teal wall either side of the lavender window frame.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "waist up, standing in front of the window; later a tiny full figure outside",
+      "screen": "centre",
+      "facing": "camera, 3/4 right",
+      "costume": "light-blue suit, lilac shirt, salmon tie, no apron"
+    }
+  ],
+  "props": [
+    "open sash window with lavender frame",
+    "burger restaurant across the street with roof sign, seen through the window"
+  ],
+  "beats": [
+    {
+      "f": 1604,
+      "who": "host",
+      "action": "stands centre in front of the window, right forearm (screen left) raised with the back of the hand pressed to his forehead, wiping; head tilted to his right, eyes half-closed looking screen-right, small round mouth"
+    },
+    {
+      "f": 1604,
+      "who": "fx",
+      "action": "translucent grey-purple smoke haze hangs in the upper-left corner over the wall and window frame, drifting slowly; present for the whole shot"
+    },
+    {
+      "f": 1606,
+      "f_end": 1614,
+      "who": "host",
+      "action": "hand slides across the forehead toward screen-left, head straightens as it goes"
+    },
+    {
+      "f": 1608,
+      "who": "host",
+      "action": "eyes closed (2 frames)"
+    },
+    {
+      "f": 1610,
+      "who": "host",
+      "action": "eyes half-open, heavy-lidded, looking screen-right"
+    },
+    {
+      "f": 1614,
+      "f_end": 1620,
+      "who": "host",
+      "action": "hand comes to rest on the hair at the top-left of his head; relieved half-smile, eyes heavy-lidded looking screen-right; held"
+    },
+    {
+      "f": 1621,
+      "who": "host",
+      "action": "snaps into a crouch, head lower in frame, eyes wide open looking screen-right, mouth shut; hand slides down to shade his right eye, left arm drops low so only the fingertips show at the bottom edge"
+    },
+    {
+      "f": 1623,
+      "who": "host",
+      "action": "turns his body to screen-right toward the window: right hand at chin height with the index finger raised, left arm thrown out to screen-right with open palm up, eyes wide looking right"
+    },
+    {
+      "f": 1625,
+      "who": "host",
+      "action": "turned 3/4 away to the window, head in right profile lower-left of frame, right knee starts to lift, left hand still out toward the window"
+    },
+    {
+      "f": 1627,
+      "f_end": 1629,
+      "who": "host",
+      "action": "lifts his leg over the sill, shoe visible at the bottom of the window opening, left hand grabs the raised sash"
+    },
+    {
+      "f": 1630,
+      "f_end": 1631,
+      "who": "host",
+      "action": "leans forward into the window opening, head down, eye looking down"
+    },
+    {
+      "f": 1632,
+      "who": "host",
+      "action": "ducks his head through the opening, back to camera, both hands on his head/hair, back rounded"
+    },
+    {
+      "f": 1634,
+      "who": "host",
+      "action": "head and torso outside, head hanging upside-down at the right of the opening, one hand reaching up to grip the raised sash"
+    },
+    {
+      "f": 1636,
+      "who": "host",
+      "action": "tumbles through: legs kick up inside the frame, shoe sole toward camera, head briefly above the sash through the upper pane"
+    },
+    {
+      "f": 1637,
+      "who": "host",
+      "action": "outside, falling: head and shoulder at the bottom of the opening looking down-right, one hand flung up above the sash"
+    },
+    {
+      "f": 1638,
+      "who": "host",
+      "action": "drops below the sill: only the top of his hair and one raised open hand visible"
+    },
+    {
+      "f": 1639,
+      "who": "host",
+      "action": "only the open hand at the bottom edge of the window opening"
+    },
+    {
+      "f": 1640,
+      "f_end": 1655,
+      "who": "host",
+      "action": "gone below the sill; empty window, view of the street held"
+    },
+    {
+      "f": 1656,
+      "f_end": 1663,
+      "who": "host",
+      "action": "top of his head rises into view at the bottom centre of the window opening, outside, tiny (far below on the lawn)"
+    },
+    {
+      "f": 1660,
+      "f_end": 1663,
+      "who": "host",
+      "action": "head and shoulders up, back to camera, standing up from the lawn"
+    },
+    {
+      "f": 1664,
+      "f_end": 1684,
+      "who": "host",
+      "action": "tiny full figure seen from behind, runs away from camera up and to screen-right: across the sidewalk and the street toward the restaurant door, arms pumping, shrinking as he goes; new pose every frame"
+    },
+    {
+      "f": 1672,
+      "who": "host",
+      "action": "mid-street, about half the size he was on the lawn"
+    },
+    {
+      "f": 1680,
+      "who": "host",
+      "action": "reaches the far kerb in front of the restaurant, a few pixels tall"
+    },
+    {
+      "f": 1685,
+      "who": "host",
+      "action": "at the restaurant door at the right end of the building"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. 1604-1620 and 1621-1629 are on twos (new drawings on odd frames from 1621), 1629-1639 mostly on ones, the distant run 1656-1685 on ones. The host is a blue suit with brown hair seen from behind during the run; no face is drawn. The exhale sound L23 (1609-1620) sits on the forehead wipe. Nothing in the street view moves apart from the host."
+}

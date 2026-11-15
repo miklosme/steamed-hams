@@ -1,0 +1,43 @@
+{
+  "id": "S13",
+  "summary": "Reaction close-up of the guest: surprise turning into a suspicious half-lidded stare.",
+  "framing": "Close-up, head and shoulders, eye level, against the purple kitchen door with the blue door frame at the right edge. Static.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders",
+      "screen": "centre",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie"
+    }
+  ],
+  "props": [
+    "purple door behind him, blue door frame strip at right edge"
+  ],
+  "beats": [
+    {
+      "f": 796,
+      "f_end": 802,
+      "who": "guest",
+      "action": "eyes wide open and round, small pupils centred, looking right; mouth a closed straight line; held"
+    },
+    {
+      "f": 803,
+      "who": "guest",
+      "action": "upper lids start to come down, head eases slightly right"
+    },
+    {
+      "f": 804,
+      "who": "guest",
+      "action": "lids half closed into a flat suspicious squint, pupils under the lids looking right, mouth corners turn down slightly"
+    },
+    {
+      "f": 808,
+      "f_end": 823,
+      "who": "guest",
+      "action": "head settles back a touch to the left; squinting stare held motionless to the end of the shot"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "No dialogue. The last 16 frames (808-823) are a hold. Camera confirmed static."
+}

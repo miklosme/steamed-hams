@@ -1,0 +1,258 @@
+{
+ "id": "S10",
+ "summary": "At the kitchen window the host spots the burger restaurant across the road and, turning to camera, talks himself into a devious plan.",
+ "framing": "Close over-the-shoulder profile of the host looking out of the window at a burger restaurant with a clown-head sign on a pole; at 528-539 the camera pans left as he turns from the window, ending on a close-up of him 3/4 toward camera with the window and restaurant behind at right and plain grey-green wall at left.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "head and collar",
+   "screen": "centre-left",
+   "facing": "right",
+   "costume": "light-blue suit, lilac shirt"
+  }
+ ],
+ "props": [
+  "kitchen window with lilac frame",
+  "outside: orange-roofed burger restaurant, tall pole sign with a clown head on a burger, parked car, trees, fence"
+ ],
+ "beats": [
+  {
+   "f": 484,
+   "who": "host",
+   "action": "head enters from the left edge in profile facing right, seen slightly from behind, eye wide, mouth a frown"
+  },
+  {
+   "f": 485,
+   "f_end": 487,
+   "who": "host",
+   "action": "head moves right into frame, overshoots, then settles back left"
+  },
+  {
+   "f": 488,
+   "f_end": 499,
+   "who": "host",
+   "action": "still, staring out of the window at the restaurant, eye wide, mouth downturned"
+  },
+  {
+   "f": 500,
+   "f_end": 501,
+   "who": "host",
+   "action": "upper eyelid lowers to half"
+  },
+  {
+   "f": 502,
+   "f_end": 525,
+   "who": "host",
+   "action": "eye nearly closed (heavy lid), head dips slightly; starts speaking quietly, still facing the window"
+  },
+  {
+   "f": 526,
+   "f_end": 527,
+   "who": "host",
+   "action": "head starts to lift and turn toward camera"
+  },
+  {
+   "f": 528,
+   "f_end": 539,
+   "who": "camera",
+   "action": "pan left; window and restaurant slide to the right side of frame, plain wall comes in at left"
+  },
+  {
+   "f": 528,
+   "f_end": 533,
+   "who": "host",
+   "action": "turns from profile to 3/4 toward camera, eyes half-lidded and sly, looking right; mouth open in a sideways smirk"
+  },
+  {
+   "f": 534,
+   "f_end": 537,
+   "who": "host",
+   "action": "right hand comes up from below to his chin"
+  },
+  {
+   "f": 538,
+   "f_end": 553,
+   "who": "host",
+   "action": "fingers stroke his chin, eyes half-lidded looking right, mouth small; head still"
+  },
+  {
+   "f": 554,
+   "f_end": 556,
+   "who": "host",
+   "action": "index finger scratches his cheek"
+  },
+  {
+   "f": 557,
+   "f_end": 558,
+   "who": "host",
+   "action": "hand flips down and away to the lower left, held up with thumb and finger raised beside his shoulder; mouth opens to speak"
+  },
+  {
+   "f": 559,
+   "f_end": 582,
+   "who": "host",
+   "action": "talks with half-lidded eyes looking right, hand held up at lower left; small head nods on stressed words"
+  },
+  {
+   "f": 573,
+   "f_end": 579,
+   "who": "host",
+   "action": "head tilts forward and to the right, lids lower"
+  },
+  {
+   "f": 583,
+   "f_end": 584,
+   "who": "host",
+   "action": "blink (closed 583-584)"
+  },
+  {
+   "f": 585,
+   "f_end": 609,
+   "who": "host",
+   "action": "half-lidded, eyes down-right, keeps talking; head level"
+  },
+  {
+   "f": 604,
+   "f_end": 605,
+   "who": "host",
+   "action": "mouth closes in a frown for two frames, then talks on"
+  },
+  {
+   "f": 610,
+   "who": "host",
+   "action": "eyes open up (lid lifting)"
+  },
+  {
+   "f": 611,
+   "f_end": 629,
+   "who": "host",
+   "action": "eyes wide and round, pupils at the right, brows up; mouth small 'o'"
+  },
+  {
+   "f": 630,
+   "f_end": 632,
+   "who": "host",
+   "action": "blink (half 630, closed 631, half 632)"
+  },
+  {
+   "f": 633,
+   "f_end": 646,
+   "who": "host",
+   "action": "eyes wide, pupils right, talking; hand still raised at lower left"
+  },
+  {
+   "f": 647,
+   "f_end": 649,
+   "who": "host",
+   "action": "hand drops out of frame; eyes close (half 647, closed 648-649), mouth 'o'"
+  },
+  {
+   "f": 650,
+   "f_end": 665,
+   "who": "host",
+   "action": "eyes reopen with soft lowered lids looking right, head tipped back a little; talking, shoulders rising into frame and sinking as he gestures off-screen"
+  },
+  {
+   "f": 666,
+   "f_end": 666,
+   "who": "host",
+   "action": "lids lower"
+  },
+  {
+   "f": 667,
+   "f_end": 671,
+   "who": "host",
+   "action": "eyes closed, head lifts slightly, mouth 'o'"
+  },
+  {
+   "f": 672,
+   "f_end": 684,
+   "who": "host",
+   "action": "eyes open to narrow slits, smug; mouth widening into a smile as he talks"
+  },
+  {
+   "f": 685,
+   "f_end": 691,
+   "who": "host",
+   "action": "broad toothy grin, eyes slitted"
+  },
+  {
+   "f": 686,
+   "f_end": 687,
+   "who": "host",
+   "action": "short laugh: mouth wide open, eyes shut"
+  },
+  {
+   "f": 692,
+   "f_end": 695,
+   "who": "host",
+   "action": "talking through the grin, head bobbing"
+  },
+  {
+   "f": 696,
+   "f_end": 699,
+   "who": "host",
+   "action": "head dips, teeth clenched in a grimace-grin, eyes slitted"
+  },
+  {
+   "f": 700,
+   "f_end": 709,
+   "who": "host",
+   "action": "grin, then open-mouth talk, eyes still slits"
+  },
+  {
+   "f": 710,
+   "who": "host",
+   "action": "eyes open, mouth open in a laugh shape"
+  },
+  {
+   "f": 711,
+   "who": "host",
+   "action": "eyes wide looking right, closed grin, brows lifting"
+  },
+  {
+   "f": 712,
+   "f_end": 714,
+   "who": "host",
+   "action": "head pushes forward and down to the right, brows slant down hard toward the nose (devious), eyes wide with pupils right, toothy grin"
+  },
+  {
+   "f": 715,
+   "f_end": 720,
+   "who": "host",
+   "action": "talks out of the side of a wide grin, devious brow held"
+  },
+  {
+   "f": 721,
+   "f_end": 722,
+   "who": "host",
+   "action": "mouth closes to a smirk"
+  },
+  {
+   "f": 723,
+   "f_end": 726,
+   "who": "host",
+   "action": "open grin again, talking"
+  },
+  {
+   "f": 727,
+   "f_end": 728,
+   "who": "host",
+   "action": "closed smirk"
+  },
+  {
+   "f": 729,
+   "f_end": 731,
+   "who": "host",
+   "action": "open grin, talking"
+  },
+  {
+   "f": 732,
+   "f_end": 737,
+   "who": "host",
+   "action": "mouth shrinks to a small 'o', devious brow and wide eyes held to the cut"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera: static 484-527 and pan at 528-539, agreeing with timeline.json. The whole kitchen behind him is smoke-free in this shot. The raised hand (557-646) sits at the lower-left edge of frame, cut off by it. From 650 to 665 the suit shoulder pops in and out at the bottom edge, implying arm gestures below frame. Lines L07-L10 run through the shot; mouth shapes above are only noted where they mark a pose change."
+}

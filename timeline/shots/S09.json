@@ -1,0 +1,151 @@
+{
+ "id": "S09",
+ "summary": "The host straightens up from the burning oven, clutches his head in panic, thinks with a finger at his mouth, then heads right toward the window.",
+ "framing": "Medium shot, side-on in the kitchen: host at left by the open oven. Camera tilts up as he stands (425-429) to a waist-up framing with the stove top at the bottom right, then pans right with him from 470 until the window enters at the right.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "full upper body bent over, then waist up",
+   "screen": "centre-left",
+   "facing": "3/4 right",
+   "costume": "light-blue suit, lilac shirt, pink tie, white frilled apron tied at the back"
+  }
+ ],
+ "props": [
+  "white oven with its door open downward (424-426), smoke and the red roast inside",
+  "stove top upstand with knobs at the bottom right",
+  "lilac wall cupboards at the left",
+  "kitchen sash window, enters from the right from 473"
+ ],
+ "beats": [
+  {
+   "f": 424,
+   "who": "host",
+   "action": "bent over at the waist facing right, both hands low on the open oven door, looking down into the oven, apron bow at his back"
+  },
+  {
+   "f": 424,
+   "who": "fx",
+   "action": "thick dark-grey smoke rises from the oven behind him up the wall; smoke also fills the oven mouth"
+  },
+  {
+   "f": 425,
+   "f_end": 429,
+   "who": "camera",
+   "action": "tilt up following the host as he stands; oven sinks to the bottom of frame"
+  },
+  {
+   "f": 425,
+   "who": "host",
+   "action": "begins to rise, hands still on the oven door"
+  },
+  {
+   "f": 426,
+   "who": "host",
+   "action": "half upright, turned 3/4 to camera, right hand up at his open mouth, eyes wide looking right; left hand still down on the oven"
+  },
+  {
+   "f": 427,
+   "who": "host",
+   "action": "upright; right hand claps to the side of his head (elbow high, screen left), mouth open, eyes wide to the right"
+  },
+  {
+   "f": 428,
+   "f_end": 453,
+   "who": "host",
+   "action": "holds hand-on-head pose, head tilted toward the hand, eyes wide, speaking"
+  },
+  {
+   "f": 430,
+   "f_end": 483,
+   "who": "fx",
+   "action": "smoke column keeps rising and spreading behind him, slowly changing shape; a second plume comes off the stove top"
+  },
+  {
+   "f": 432,
+   "f_end": 433,
+   "who": "host",
+   "action": "head turns a little more to the right, mouth 'o'"
+  },
+  {
+   "f": 434,
+   "f_end": 441,
+   "who": "host",
+   "action": "teeth clenched, eyes wide front-right"
+  },
+  {
+   "f": 442,
+   "f_end": 447,
+   "who": "host",
+   "action": "head turns to near profile right, mouth 'o', looking off right"
+  },
+  {
+   "f": 448,
+   "f_end": 453,
+   "who": "host",
+   "action": "head back 3/4, mouth open then teeth clenched, eyes wide"
+  },
+  {
+   "f": 454,
+   "f_end": 455,
+   "who": "host",
+   "action": "hand slides down from head to cheek, eyelids drop to half, brows level; other arm reaches out right, hand flat on the stove top"
+  },
+  {
+   "f": 456,
+   "f_end": 457,
+   "who": "host",
+   "action": "both hands come up in front of him, fingers curled; eyes shut, teeth clenched, head upright"
+  },
+  {
+   "f": 458,
+   "f_end": 459,
+   "who": "host",
+   "action": "eyes open looking sideways to the right; right hand goes up to his mouth, left fist held at his chest"
+  },
+  {
+   "f": 460,
+   "f_end": 469,
+   "who": "host",
+   "action": "index finger hooked against his lips, eyes slid right under half-lowered lids (thinking); holds"
+  },
+  {
+   "f": 462,
+   "f_end": 463,
+   "who": "host",
+   "action": "mouth closes on the finger; brow lowers"
+  },
+  {
+   "f": 468,
+   "f_end": 469,
+   "who": "host",
+   "action": "hand lifts off the mouth slightly, fingers loosening"
+  },
+  {
+   "f": 470,
+   "f_end": 483,
+   "who": "camera",
+   "action": "pan right, following the host; cupboards slide off left, window enters at right from 473"
+  },
+  {
+   "f": 470,
+   "f_end": 471,
+   "who": "host",
+   "action": "hand drops away open, body turns toward the right, mouth closed in a frown"
+  },
+  {
+   "f": 472,
+   "f_end": 477,
+   "who": "host",
+   "action": "walks right in profile, leaning forward, arms lowering to his sides, eyes ahead"
+  },
+  {
+   "f": 478,
+   "f_end": 483,
+   "who": "host",
+   "action": "keeps walking right toward the window, back partly to camera, eyes wide looking at the window; apron bow visible at his back"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera: tilt at 425-429 and pan from 470 both agree with timeline.json; the pan is still moving on the last frame (483). The hand on the head is the screen-left one (his right). During 428-453 the body is still and only the head and mouth move. Smoke is a translucent dark-grey layer in front of the wall and behind the host."
+}

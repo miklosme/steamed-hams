@@ -1,0 +1,143 @@
+{
+  "id": "S34",
+  "summary": "Over the guest's shoulder, the host laughs off the comparison, claims the burgers are his own old family recipe and picks up his glass.",
+  "framing": "Static over-the-shoulder medium shot from behind the guest's left shoulder, slightly high, looking across the table at the host; purple panelled door behind the host, corner of a framed still life top-left.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "back of head, shoulders and back, chair back; one eye and cheek in 3/4 rear view",
+      "screen": "left",
+      "facing": "3/4 away, toward the host at right",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "head to waist behind the table",
+      "screen": "centre-right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, purple shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "round table with white cloth, lower right",
+    "silver platter with one burger and scattered fries, table centre",
+    "ice bucket with a green bottle, left of the platter",
+    "guest's champagne flute standing in front of the platter",
+    "host's champagne flute, on the table by his right hand, lifted from 2568",
+    "red chair backs for both characters"
+  ],
+  "beats": [
+    {
+      "f": 2486,
+      "f_end": 2608,
+      "who": "guest",
+      "action": "sits with his back to camera, head turned toward the host, motionless; holds this for the whole shot"
+    },
+    {
+      "f": 2486,
+      "who": "host",
+      "action": "head bowed forward and tilted, eyes shut, chuckling; right hand rests on the table at the base of his flute"
+    },
+    {
+      "f": 2487,
+      "f_end": 2515,
+      "who": "host",
+      "action": "chuckle cycle: head bobs up and down with eyes shut, grinning on the up beats (ups near 2489, 2493, 2499, 2509, 2514; lowest near 2491, 2496, 2503-2507, 2511)"
+    },
+    {
+      "f": 2516,
+      "f_end": 2520,
+      "who": "host",
+      "action": "eyes open to half-lidded, looking at the guest, head still bowed"
+    },
+    {
+      "f": 2521,
+      "f_end": 2525,
+      "who": "host",
+      "action": "mouth closes; starts to raise his head, half-lidded eyes on the guest"
+    },
+    {
+      "f": 2526,
+      "f_end": 2530,
+      "who": "host",
+      "action": "straightens up in his seat, head rising and turning a little more toward camera, closed-mouth smile"
+    },
+    {
+      "f": 2531,
+      "who": "host",
+      "action": "sits tall, eyes wide open on the guest, brows up, smiling"
+    },
+    {
+      "f": 2534,
+      "f_end": 2562,
+      "who": "host",
+      "action": "talks with a broad smile, upright, small head nods with the words"
+    },
+    {
+      "f": 2563,
+      "f_end": 2565,
+      "who": "host",
+      "action": "blink (lids half at 2562, shut 2563-2564, open by 2566)"
+    },
+    {
+      "f": 2568,
+      "f_end": 2572,
+      "who": "host",
+      "action": "right hand lifts the flute from the table up to chest height"
+    },
+    {
+      "f": 2573,
+      "f_end": 2585,
+      "who": "host",
+      "action": "holds the flute up in front of his right shoulder, still talking to the guest, wide-eyed"
+    },
+    {
+      "f": 2584,
+      "f_end": 2585,
+      "who": "host",
+      "action": "mouth opens wide, brows jump up"
+    },
+    {
+      "f": 2586,
+      "f_end": 2587,
+      "who": "host",
+      "action": "mouth shuts in a smile, lids half down, eyes on the guest"
+    },
+    {
+      "f": 2588,
+      "f_end": 2589,
+      "who": "host",
+      "action": "snaps to face camera square-on, eyes wide with pupils left toward the guest, mouth open; torso shifts a little to screen right"
+    },
+    {
+      "f": 2590,
+      "f_end": 2591,
+      "who": "host",
+      "action": "head rocks over to screen left with a wide toothy open mouth; flute now held in front of his tie"
+    },
+    {
+      "f": 2592,
+      "f_end": 2598,
+      "who": "host",
+      "action": "head turned 3/4 right and tilted, eyes rolled up to the upper right away from the guest, talking"
+    },
+    {
+      "f": 2599,
+      "who": "host",
+      "action": "mouth closes briefly, pupils flick down-left toward the guest"
+    },
+    {
+      "f": 2600,
+      "f_end": 2607,
+      "who": "host",
+      "action": "talks again, face 3/4 right, eyes up and to the right, flute held at his chest"
+    },
+    {
+      "f": 2608,
+      "who": "host",
+      "action": "mouth closes in a smile, flute still at chest"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json (setup K27). No cut at 2588: the background and guest are unchanged, the host simply pops from 3/4 left to full front in one frame (a pose change on ones). The guest does not move at all. Host's laugh covers the 'oh ho ho ho, no' words measured at 2490-2514; the eyes-open beat at 2516 follows 'no'."
+}

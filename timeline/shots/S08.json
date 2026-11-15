@@ -1,0 +1,110 @@
+{
+ "id": "S08",
+ "summary": "From inside the oven: the host peers in through clearing smoke at the roast, which then bursts into flames.",
+ "framing": "Low-angle POV from inside the oven looking out through the rectangular opening: roast on a tray in the foreground bottom centre, host's face above it; static. Starts dark and fades up.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "head and shoulders, framed by the oven opening",
+   "screen": "centre",
+   "facing": "camera",
+   "costume": "light-blue suit, apron straps, lilac shirt"
+  }
+ ],
+ "props": [
+  "dark red scored roast on a white tray, foreground bottom centre",
+  "dark blue oven interior walls framing the view"
+ ],
+ "beats": [
+  {
+   "f": 373,
+   "f_end": 375,
+   "who": "fx",
+   "action": "frame is flat dark navy, nothing readable"
+  },
+  {
+   "f": 376,
+   "f_end": 381,
+   "who": "fx",
+   "action": "picture fades up through blue-grey smoke haze: host, roast and oven opening emerge, washed out and bluish"
+  },
+  {
+   "f": 376,
+   "who": "host",
+   "action": "leaning in facing camera, head tilted slightly, eyes wide looking down at the roast, mouth a worried wavy line; holds still"
+  },
+  {
+   "f": 382,
+   "f_end": 385,
+   "who": "fx",
+   "action": "haze thins, smoke wisps drift out to the sides; roast and face gain contrast; a yellow highlight shows on his hair"
+  },
+  {
+   "f": 386,
+   "f_end": 387,
+   "who": "fx",
+   "action": "small flames spring up at both ends of the tray"
+  },
+  {
+   "f": 388,
+   "f_end": 389,
+   "who": "fx",
+   "action": "flames jump to a ring around the roast; host's face and the oven walls light up bright (haze gone)"
+  },
+  {
+   "f": 388,
+   "who": "host",
+   "action": "eyes widen further, pupils down on the roast, small smile-like open mouth"
+  },
+  {
+   "f": 390,
+   "f_end": 423,
+   "who": "fx",
+   "action": "flames at full height, licking up over his chin and cheeks, sparks flying off; flicker continuously on ones with an orange glow"
+  },
+  {
+   "f": 394,
+   "f_end": 396,
+   "who": "host",
+   "action": "mouth opens, teeth showing; head drifts slightly left"
+  },
+  {
+   "f": 397,
+   "f_end": 399,
+   "who": "host",
+   "action": "head sways right, eyes stay fixed on the roast"
+  },
+  {
+   "f": 400,
+   "f_end": 405,
+   "who": "host",
+   "action": "head eases left again, brows raised, mouth small"
+  },
+  {
+   "f": 406,
+   "f_end": 407,
+   "who": "host",
+   "action": "mouth stretches open in a cry, teeth bared"
+  },
+  {
+   "f": 408,
+   "f_end": 409,
+   "who": "host",
+   "action": "mouth wide open (yell), brows up, head pulled back slightly"
+  },
+  {
+   "f": 410,
+   "f_end": 417,
+   "who": "host",
+   "action": "clenches teeth in a grimace, eyes still wide"
+  },
+  {
+   "f": 418,
+   "f_end": 423,
+   "who": "host",
+   "action": "mouth opens again, lower lip trembling shape; holds to the cut"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera static, agreeing with timeline.json. Frames 373-375 are a flat dark navy field (not black): treat as the shot's dark start, the fade-up begins on 376. The host never blinks. Flames are drawn in front of his face from 390 and have a soft glow; the pre-fire frames are desaturated toward blue by the smoke."
+}

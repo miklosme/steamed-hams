@@ -1,0 +1,107 @@
+{
+  "id": "S51",
+  "summary": "Wide exterior: the guest turns and strolls down the steps and up the path toward camera while the camera pulls back to reveal both front windows full of flames; the host stays smiling in the doorway.",
+  "framing": "Starts as a full shot on the porch (guest left, host centre in the open doorway, one burning window at right, balustrade and a bush in front). From 3890 the camera pulls back and drifts left to a wide shot of the house front, steps, path and lawn with a burning window on each side of the door; static from 3914.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "full figure; by the end cut at the thighs as he nears camera",
+      "screen": "left",
+      "facing": "right, then camera",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    },
+    {
+      "who": "host",
+      "visible": "full figure, standing in the doorway",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, pink tie"
+    }
+  ],
+  "props": [
+    "front door, standing open at the screen-left side of the doorway",
+    "white porch balustrade, porch steps, bushes along the porch, path and lawn"
+  ],
+  "beats": [
+    {
+      "f": 3876,
+      "who": "guest",
+      "action": "stands on the porch at frame left in profile facing right toward the host, hands clasped behind his back, feet together"
+    },
+    {
+      "f": 3876,
+      "who": "host",
+      "action": "stands in the open doorway, body square, head 3/4 left toward the guest, hands behind his back, eyes wide, closed-mouth smile; keeps this stance for the whole shot"
+    },
+    {
+      "f": 3876,
+      "who": "fx",
+      "action": "window right of the door: orange-yellow flames inside the lower panes, flickering continuously, grey smoke filling the top of the panes, a pink glow along the sill; the doorway behind the host is flat orange-red. Continues for the whole shot"
+    },
+    {
+      "f": 3878,
+      "f_end": 3880,
+      "who": "guest",
+      "action": "starts to leave: lifts the far foot and leans, still in profile, one hand coming off his back"
+    },
+    {
+      "f": 3881,
+      "f_end": 3882,
+      "who": "guest",
+      "action": "swings round to face camera-left in a big first stride, both arms flung out from his sides, head 3/4 left, heavy-lidded"
+    },
+    {
+      "f": 3883,
+      "f_end": 3886,
+      "who": "guest",
+      "action": "walks across the porch toward the steps, arms swinging low, heavy-lidded with a faint smile"
+    },
+    {
+      "f": 3883,
+      "f_end": 3886,
+      "who": "host",
+      "action": "blink: eyes shut on 3884-3885, open again on 3887"
+    },
+    {
+      "f": 3887,
+      "f_end": 3899,
+      "who": "guest",
+      "action": "goes down the porch steps toward camera"
+    },
+    {
+      "f": 3890,
+      "f_end": 3914,
+      "who": "camera",
+      "action": "smooth pull-back with a drift left, from the porch full shot to the wide shot of the house (zoom about 1.0 to 0.48); the second burning window comes into frame at the left from about 3894"
+    },
+    {
+      "f": 3894,
+      "who": "fx",
+      "action": "window left of the door enters frame: same flickering orange flames, smoke at the top and pink sill glow as the right-hand window"
+    },
+    {
+      "f": 3900,
+      "f_end": 3961,
+      "who": "guest",
+      "action": "walks up the path toward camera at an even stroll, roughly one step every 6 frames, arms swinging, body square to camera with head 3/4 left, heavy-lidded, mouth closed; grows steadily and drifts toward the lower left"
+    },
+    {
+      "f": 3914,
+      "who": "camera",
+      "action": "pull-back ends; framing static to the cut"
+    },
+    {
+      "f": 3914,
+      "who": "host",
+      "action": "small in the doorway, right of centre after the pull-back; same stance, wide-eyed smile, head following the guest; no further blink visible"
+    },
+    {
+      "f": 3954,
+      "f_end": 3961,
+      "who": "guest",
+      "action": "close to camera at left-centre, cut at the thighs, head near the top of frame; still walking at the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera: the measured pull-back (3890-3915) is confirmed by eye; first visible change is 3890 against 3889 and the background is locked from 3914. No dialogue in this shot. Step timing of the walk is an estimate from the sheets, not measured per footfall. The host's screen position changes only because of the camera (centre at 3876, centre-right from 3914)."
+}

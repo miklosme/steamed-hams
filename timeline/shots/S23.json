@@ -1,0 +1,79 @@
+{
+  "id": "S23",
+  "summary": "Close-up of the guest tucking his napkin into his collar while he says he expected a different dish.",
+  "framing": "Close-up, eye level, of the guest in 3/4 right profile, head and shoulders; static camera. Plain blue wall, an ornate green oval frame with pink flowers behind the back of his head at upper left, top corner of a dark red chair at lower right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar as a bib"
+    }
+  ],
+  "props": [
+    "white cloth napkin hanging from the guest's collar",
+    "green ornate oval frame with pink flowers on the wall",
+    "red chair-back corner at lower right"
+  ],
+  "beats": [
+    {
+      "f": 1777,
+      "who": "guest",
+      "action": "head 3/4 right, chin level, eyes lowered looking down-right (toward the platter), upper lids heavy, brows flat; right hand (screen left) at his collar pushing the top of the napkin in, mouth closed"
+    },
+    {
+      "f": 1779,
+      "f_end": 1797,
+      "who": "guest",
+      "action": "starts speaking; hand keeps working the napkin at the collar with small up-down pushes"
+    },
+    {
+      "f": 1799,
+      "who": "guest",
+      "action": "hand lets go and drops from the collar; lips pursed forward"
+    },
+    {
+      "f": 1801,
+      "who": "guest",
+      "action": "hand at the bottom edge of frame, leaving; lids half-closed"
+    },
+    {
+      "f": 1803,
+      "f_end": 1804,
+      "who": "guest",
+      "action": "hand out of frame; eyes fully closed (blink)"
+    },
+    {
+      "f": 1805,
+      "who": "guest",
+      "action": "lids half-open, pupils now to the right"
+    },
+    {
+      "f": 1807,
+      "f_end": 1812,
+      "who": "guest",
+      "action": "eyes open, looking straight to screen-right at the host, brows low and level, teeth clenched; head unchanged"
+    },
+    {
+      "f": 1813,
+      "f_end": 1834,
+      "who": "guest",
+      "action": "head tips back and up a little, chin raised; eyes look up-right, inner brows pulled down into a doubtful frown; held while speaking"
+    },
+    {
+      "f": 1829,
+      "f_end": 1832,
+      "who": "guest",
+      "action": "small head nod forward on the stressed word, then back"
+    },
+    {
+      "f": 1835,
+      "f_end": 1842,
+      "who": "guest",
+      "action": "head settles back to level, mouth closes, eyes heavy-lidded looking right; holds with only the mouth moving"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. On twos, new drawings on odd frames. script.json puts the first word of L25 at 1785; the mouth is already slightly open from the 1779 drawing and wide by 1783. The line continues over the cut into S24. The frame-with-flowers behind his head does not match the background of S25/S27 (different wall dressing in the same seat)."
+}

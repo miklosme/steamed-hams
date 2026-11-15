@@ -1,0 +1,155 @@
+{
+  "id": "S22",
+  "summary": "In the dining room the guest waits at the table; the host comes in through the swing door carrying a platter of hamburgers and presents it to him.",
+  "framing": "Medium-wide shot from behind and to the left of the seated guest, slightly high, looking across the table toward the kitchen swing door; static camera (same setup as the earlier dining-room over-shoulder shot).",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, shoulders and back, seated at the table",
+      "screen": "left",
+      "facing": "3/4 away, right",
+      "costume": "navy suit"
+    },
+    {
+      "who": "host",
+      "visible": "waist up behind the table once he enters",
+      "screen": "centre-right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, salmon tie, no apron"
+    }
+  ],
+  "props": [
+    "round table with white cloth, plate and cutlery",
+    "ice bucket with green bottle and two champagne flutes on the table in front of the guest",
+    "dark red dining chairs (guest's at left edge, host's empty at right)",
+    "purple kitchen swing door, centre",
+    "green-framed picture on the wall behind the guest's head, second picture cut off at top right",
+    "oval silver platter piled with hamburgers, carried by the host"
+  ],
+  "beats": [
+    {
+      "f": 1686,
+      "who": "guest",
+      "action": "seated with his back 3/4 to camera, facing right toward the door, both hands up at his chin fiddling with a white napkin at his collar; eye open looking right"
+    },
+    {
+      "f": 1686,
+      "who": "prop",
+      "action": "swing door closed"
+    },
+    {
+      "f": 1688,
+      "f_end": 1700,
+      "who": "guest",
+      "action": "small hand movements at the collar, napkin hidden then showing again at 1696; head still"
+    },
+    {
+      "f": 1702,
+      "f_end": 1714,
+      "who": "prop",
+      "action": "door begins to swing open into the dining room, its right edge coming toward camera; teal kitchen visible in the gap by 1704"
+    },
+    {
+      "f": 1702,
+      "who": "guest",
+      "action": "hands drop out of sight below his shoulder line; keeps looking at the door"
+    },
+    {
+      "f": 1704,
+      "who": "prop",
+      "action": "platter of hamburgers pokes through the gap at the door's right edge, ahead of the host"
+    },
+    {
+      "f": 1706,
+      "f_end": 1714,
+      "who": "host",
+      "action": "enters through the doorway behind the platter: face in left profile at the door edge, eye on the guest"
+    },
+    {
+      "f": 1710,
+      "who": "host",
+      "action": "head and shoulders clear of the door, platter held out in front in both hands at chest height, eyes wide on the guest, starts speaking"
+    },
+    {
+      "f": 1712,
+      "f_end": 1715,
+      "who": "guest",
+      "action": "blink: eye half-closed 1712, closed 1714"
+    },
+    {
+      "f": 1714,
+      "f_end": 1728,
+      "who": "host",
+      "action": "walks forward and left toward the table, bobbing on each step; grin with teeth"
+    },
+    {
+      "f": 1716,
+      "who": "prop",
+      "action": "door has swung fully open and lies flat against the wall left of the doorway; kitchen (teal) open behind the host"
+    },
+    {
+      "f": 1716,
+      "who": "guest",
+      "action": "eye wide open, head lifted and turned slightly more to the right to look up at the host and platter; holds this, perfectly still, to the end of the shot"
+    },
+    {
+      "f": 1722,
+      "f_end": 1728,
+      "who": "host",
+      "action": "arrives behind the table and leans forward, pushing the platter out over the ice bucket toward the guest's face, his left hand (screen right) under the near rim, eyebrows raised"
+    },
+    {
+      "f": 1728,
+      "f_end": 1738,
+      "who": "prop",
+      "action": "door swings shut behind the host, purple panel behind his head"
+    },
+    {
+      "f": 1730,
+      "f_end": 1757,
+      "who": "host",
+      "action": "settled pose: bent slightly forward over the table, platter held level between them just under the guest's chin, eyes on the guest, talking with small head bobs"
+    },
+    {
+      "f": 1740,
+      "f_end": 1745,
+      "who": "prop",
+      "action": "door overswings into the kitchen, teal strip visible right of the host"
+    },
+    {
+      "f": 1746,
+      "who": "prop",
+      "action": "door settles closed and stays closed"
+    },
+    {
+      "f": 1760,
+      "who": "host",
+      "action": "lids drop to half"
+    },
+    {
+      "f": 1762,
+      "f_end": 1765,
+      "who": "host",
+      "action": "eyes closed, head dips forward and down toward the platter with a closed smile"
+    },
+    {
+      "f": 1766,
+      "who": "host",
+      "action": "eyes open, looking down at the guest, head still low, mouth wide open"
+    },
+    {
+      "f": 1768,
+      "f_end": 1771,
+      "who": "host",
+      "action": "lids half-lowered, looking down at the burgers"
+    },
+    {
+      "f": 1772,
+      "f_end": 1776,
+      "who": "host",
+      "action": "head lifts slightly, eyes open on the guest, wide toothy grin held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Animated on twos with new drawings on even frames. The platter overlaps the bottle neck and ends up between the two faces, covering the guest's mouth area from camera. L24 starts at 1710 in script.json; the host's mouth first opens on the 1712 drawing, consistent."
+}

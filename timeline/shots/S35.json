@@ -1,0 +1,71 @@
+{
+  "id": "S35",
+  "summary": "Holding the opened burger, the guest asks a short doubtful question.",
+  "framing": "Static medium close-up of the guest at the table, eye level, slightly over the table edge; green oval mirror frame top-left, lilac wall panel with small oval picture, table lamp and green armchair behind him at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, shoulders, chest and both hands",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar"
+    }
+  ],
+  "props": [
+    "patty on the bottom bun, resting on the guest's open right palm at chest centre",
+    "top bun held upright in his left hand at screen right, underside (lettuce, tomato, sauce) toward camera",
+    "champagne flute at the left edge of frame",
+    "bun on the platter at the bottom edge"
+  ],
+  "beats": [
+    {
+      "f": 2609,
+      "f_end": 2673,
+      "who": "guest",
+      "action": "holds the opened burger (patty on right palm, top bun up in left hand), eyes open looking right at the host, mouth closed; hands stay in this pose for the whole shot"
+    },
+    {
+      "f": 2613,
+      "f_end": 2621,
+      "who": "guest",
+      "action": "lids lower to half, brows flatten, steady look at the host"
+    },
+    {
+      "f": 2622,
+      "who": "guest",
+      "action": "mouth starts to move"
+    },
+    {
+      "f": 2624,
+      "f_end": 2629,
+      "who": "guest",
+      "action": "pupils roll up toward the upper right under heavy lids as he speaks"
+    },
+    {
+      "f": 2630,
+      "f_end": 2656,
+      "who": "guest",
+      "action": "eyes back on the host, half-lidded, brows low; talks with small head movements"
+    },
+    {
+      "f": 2653,
+      "f_end": 2654,
+      "who": "guest",
+      "action": "mouth shut for two frames mid-line"
+    },
+    {
+      "f": 2657,
+      "f_end": 2661,
+      "who": "guest",
+      "action": "blink (lids closing 2657-2658, shut 2659-2660, open again by 2662)"
+    },
+    {
+      "f": 2664,
+      "f_end": 2673,
+      "who": "guest",
+      "action": "mouth closed, holds the half-lidded stare at the host to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. Same setup as S29/S31/S33 (K23) and the same open-burger pose S33 ended on; setup_rel shows this shot about 0.8% tighter. Mouth movement starts at 2622, about 6 frames before script.json's first word (2628)."
+}

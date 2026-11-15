@@ -1,0 +1,64 @@
+{
+  "id": "S47",
+  "summary": "Medium close-up of the guest, anger drained, asking politely 'May I see it?'.",
+  "framing": "Medium close-up, eye level, static: guest's head, shoulders and chest. Same setup as S44/S45 but wider: green chair back with pink cushion at lower left, grey-blue door frame and lilac door panel on the right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, shoulders and chest",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie"
+    }
+  ],
+  "props": [
+    "dining chair back (green frame, pink cushion), lower left, static"
+  ],
+  "beats": [
+    {
+      "f": 3534,
+      "who": "guest",
+      "action": "upright, head 3/4 right; eyes open with upper lids resting a little over them, pupils right (on the host off-screen); brows relaxed and level; mouth a short closed line; holds still"
+    },
+    {
+      "f": 3553,
+      "f_end": 3556,
+      "who": "guest",
+      "action": "eyelids close: blink, eyes fully shut on 3554-3555"
+    },
+    {
+      "f": 3557,
+      "who": "guest",
+      "action": "eyes reopen half-lidded with pupils dropped to the lower right (looking down); brows tilt up at the inner ends"
+    },
+    {
+      "f": 3559,
+      "who": "guest",
+      "action": "mouth opens to begin speaking, eyes still lowered"
+    },
+    {
+      "f": 3563,
+      "who": "guest",
+      "action": "pupils come back up to the right, onto the host"
+    },
+    {
+      "f": 3564,
+      "f_end": 3567,
+      "who": "guest",
+      "action": "head lifts a little and eyes open wide and round; brows raised, inner ends up (earnest, asking)"
+    },
+    {
+      "f": 3568,
+      "f_end": 3578,
+      "who": "guest",
+      "action": "head at its raised position, chin slightly forward; keeps the wide-eyed raised-brow look while finishing the line"
+    },
+    {
+      "f": 3579,
+      "who": "guest",
+      "action": "mouth settles to a small part-open shape with teeth showing; wide eyes on the host; holds to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "One blink (3553-3556). Camera: timeline says static; the background stays within 0.3 px until about 3567, then drifts roughly +0.7 px x / +1.6 px y (at 640x360) over 3570-3582. That is about a quarter of a percent of frame width, too small to call a move; treat as static. Dialogue: L55 'May I see it?' is timed from 3562; the mouth first opens at 3559."
+}

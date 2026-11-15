@@ -1,0 +1,80 @@
+{
+  "id": "S17",
+  "summary": "The guest, unconvinced, points across the room and asks about the smoke.",
+  "framing": "Medium close-up, chest up, eye level; purple door behind him, blue door frame and green wall at the right edge. Static.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "chest up",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    }
+  ],
+  "props": [
+    "purple door and blue door frame behind him"
+  ],
+  "beats": [
+    {
+      "f": 1322,
+      "f_end": 1328,
+      "who": "guest",
+      "action": "stands square, arms down, scowling: lids half lowered with a slanted brow line, pupils to the right, mouth clamped in a downturned line; held"
+    },
+    {
+      "f": 1329,
+      "f_end": 1342,
+      "who": "guest",
+      "action": "starts speaking; head makes small nods and shifts with the words, scowl unchanged"
+    },
+    {
+      "f": 1341,
+      "who": "guest",
+      "action": "blink (eyes shut for this frame)"
+    },
+    {
+      "f": 1343,
+      "f_end": 1344,
+      "who": "guest",
+      "action": "mouth closes; screen-right shoulder and elbow start to lift"
+    },
+    {
+      "f": 1345,
+      "f_end": 1346,
+      "who": "guest",
+      "action": "screen-right hand rises into frame at the bottom"
+    },
+    {
+      "f": 1347,
+      "f_end": 1348,
+      "who": "guest",
+      "action": "hand up under his chin, fingers curled, mouth a small o"
+    },
+    {
+      "f": 1349,
+      "f_end": 1350,
+      "who": "guest",
+      "action": "hand flicks out beside his face, fingers splayed"
+    },
+    {
+      "f": 1351,
+      "f_end": 1364,
+      "who": "guest",
+      "action": "arm snaps out to screen right, fist with index finger pointing right at shoulder height; held while speaking"
+    },
+    {
+      "f": 1365,
+      "f_end": 1366,
+      "who": "guest",
+      "action": "jabs the pointing arm further out and down to the right, body leaning with it"
+    },
+    {
+      "f": 1367,
+      "f_end": 1384,
+      "who": "guest",
+      "action": "holds the point, finger level at chest height near the right edge of frame, still scowling and speaking, to the end of the shot"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera confirmed static. The pointing arm is the one on screen right (his left). He points off right, toward the stove. He is still speaking on the last frame; the line runs over the cut."
+}

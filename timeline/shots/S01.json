@@ -1,0 +1,67 @@
+{
+ "id": "S01",
+ "summary": "Establishing shot of the host's house: the guest stands on the porch and rings the doorbell.",
+ "framing": "Extreme wide, slightly high 3/4 view of a two-storey lilac house with porch, garage on the left, big tree on the right; static. Opens with a fade-in from black.",
+ "cast": [
+  {
+   "who": "guest",
+   "visible": "full figure, tiny (about 1/8 of frame height), seen from behind",
+   "screen": "centre",
+   "facing": "away",
+   "costume": "navy suit"
+  }
+ ],
+ "props": [
+  "front door with doorbell on the wall to its right",
+  "porch railing and steps"
+ ],
+ "beats": [
+  {
+   "f": 0,
+   "who": "fx",
+   "action": "frame is fully black"
+  },
+  {
+   "f": 1,
+   "f_end": 3,
+   "who": "fx",
+   "action": "fade-in from black; picture at full brightness on frame 4"
+  },
+  {
+   "f": 1,
+   "who": "guest",
+   "action": "stands on the porch at the front door, back to camera, arms at his sides, motionless"
+  },
+  {
+   "f": 10,
+   "f_end": 12,
+   "who": "guest",
+   "action": "right arm starts to lift, elbow bent, fist rising to waist height"
+  },
+  {
+   "f": 13,
+   "f_end": 14,
+   "who": "guest",
+   "action": "arm extends out to the right toward the doorbell beside the door"
+  },
+  {
+   "f": 15,
+   "f_end": 37,
+   "who": "guest",
+   "action": "arm fully extended, finger on the doorbell; holds this pose, body still"
+  },
+  {
+   "f": 38,
+   "f_end": 40,
+   "who": "guest",
+   "action": "arm lowers back down in an arc"
+  },
+  {
+   "f": 41,
+   "who": "guest",
+   "action": "arm back at his side; stands still facing the door to the end of the shot"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "The guest is the only moving element; he does not walk, turn or shift weight. No bottle is readable at this size. Camera is static, agreeing with timeline.json. Frame 0 is pure black and frames 1-3 are a brightness ramp, so the fade lasts 4 frames."
+}

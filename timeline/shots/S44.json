@@ -1,0 +1,109 @@
+{
+  "id": "S44",
+  "summary": "Third punch-in: the guest's face snaps back to a furious scowl for the next question.",
+  "framing": "Tight close-up, same setup as S41-S43, cut in a further 8% on the cut at 3409; face fills the left two thirds, top of the head touches the frame edge; static within the shot.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and collar, top of head at the frame edge",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt (tie mostly below frame)"
+    }
+  ],
+  "props": [
+    "window with pale frame and purple pane, right edge",
+    "green-framed oval mirror showing pink flowers, bottom left corner (mostly cropped)"
+  ],
+  "beats": [
+    {
+      "f": 3409,
+      "who": "camera",
+      "action": "hard cut to the same framing about 8% tighter (third punch-in); no movement after the cut"
+    },
+    {
+      "f": 3409,
+      "who": "guest",
+      "action": "for this frame still the S43 face: round eyes, no brows, jaw wide open"
+    },
+    {
+      "f": 3410,
+      "who": "guest",
+      "action": "teeth clench, eyes still round"
+    },
+    {
+      "f": 3411,
+      "f_end": 3413,
+      "who": "guest",
+      "action": "brows slam down into a hard V, eyes narrowed under them, teeth bared"
+    },
+    {
+      "f": 3414,
+      "f_end": 3415,
+      "who": "guest",
+      "action": "jaw open, glare to screen right"
+    },
+    {
+      "f": 3416,
+      "f_end": 3417,
+      "who": "guest",
+      "action": "teeth bared"
+    },
+    {
+      "f": 3418,
+      "f_end": 3419,
+      "who": "guest",
+      "action": "mouth closed in a downturned line for two frames"
+    },
+    {
+      "f": 3420,
+      "f_end": 3421,
+      "who": "guest",
+      "action": "jaw wide open, head lifts slightly"
+    },
+    {
+      "f": 3422,
+      "f_end": 3425,
+      "who": "guest",
+      "action": "mouth narrows to a flat line by 3424"
+    },
+    {
+      "f": 3426,
+      "f_end": 3429,
+      "who": "guest",
+      "action": "lips pressed in a wavy line, then teeth bared at 3428-3429"
+    },
+    {
+      "f": 3430,
+      "f_end": 3433,
+      "who": "guest",
+      "action": "jaw wide open, head pushes forward"
+    },
+    {
+      "f": 3434,
+      "f_end": 3435,
+      "who": "guest",
+      "action": "teeth bared, mouth small"
+    },
+    {
+      "f": 3436,
+      "f_end": 3437,
+      "who": "guest",
+      "action": "lips pursed forward, head turned slightly more to the right"
+    },
+    {
+      "f": 3438,
+      "f_end": 3443,
+      "who": "guest",
+      "action": "jaw open, upper teeth showing"
+    },
+    {
+      "f": 3444,
+      "f_end": 3445,
+      "who": "guest",
+      "action": "teeth clenched and bared, held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Punch-in confirmed by comparing 3408 with 3409. As in S43 the expression change lags the cut: 3409-3410 keep the round eyes, the V brows arrive at 3411. No blink. timeline.json lists no tracked cast for this shot, but the guest is on screen throughout."
+}

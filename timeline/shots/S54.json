@@ -1,0 +1,108 @@
+{
+  "id": "S54",
+  "summary": "Wide shot from the street: the guest takes a last look at the house, turns and walks out past camera; once he is gone the host drops the act and bolts back inside the burning house.",
+  "framing": "Wide, eye level, static, in dusk-purple light: the guest large in the left foreground (head and shoulders), the house beyond with a garage door at left, a glowing shuttered window at centre, the open front door with the host small in it at right of centre, porch, steps, bushes, path and lawn.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders in the foreground, from behind then from the front; gone by 4025",
+      "screen": "left",
+      "facing": "away, then camera, then left",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    },
+    {
+      "who": "host",
+      "visible": "full figure, small, in the doorway; gone by 4043",
+      "screen": "centre-right",
+      "facing": "3/4 left, then away",
+      "costume": "light-blue suit, lilac shirt, pink tie"
+    }
+  ],
+  "props": [
+    "front door standing open at the screen-left side of the doorway, static",
+    "framed picture on the hallway wall, visible in the doorway once the host has left"
+  ],
+  "beats": [
+    {
+      "f": 3998,
+      "who": "guest",
+      "action": "foreground left, seen from behind, 3/4 away to the right: back of the bald head and one shoulder, looking at the house; still"
+    },
+    {
+      "f": 3998,
+      "who": "host",
+      "action": "small in the doorway, still holding the thumbs-up from S53: fist raised at screen-left of his face, grin, facing the guest"
+    },
+    {
+      "f": 3998,
+      "who": "fx",
+      "action": "window left of the door glows pink-orange from the bottom of the panes, flickering, with a pink halo on the frame and sill; a second glowing window is cut by the right edge of frame; the doorway is flat orange-red; grey smoke wisps rise at the top left above the garage and drift. All continue for the whole shot"
+    },
+    {
+      "f": 4005,
+      "f_end": 4006,
+      "who": "guest",
+      "action": "head turns to right profile, eye visible, heavy-lidded"
+    },
+    {
+      "f": 4007,
+      "f_end": 4008,
+      "who": "guest",
+      "action": "turns on toward camera and moves left and closer: face 3/4 right, tie and lapels visible, heavy-lidded eyes glancing to the right"
+    },
+    {
+      "f": 4009,
+      "f_end": 4010,
+      "who": "guest",
+      "action": "face nearly square to camera, bigger in frame, faint closed smile, pupils at the right of the eyes"
+    },
+    {
+      "f": 4011,
+      "f_end": 4017,
+      "who": "guest",
+      "action": "walks out past camera to the left: face turning 3/4 left and sliding off the left edge"
+    },
+    {
+      "f": 4013,
+      "f_end": 4014,
+      "who": "host",
+      "action": "drops the thumbs-up: arm swings down with the hand held open out to screen-left at waist height"
+    },
+    {
+      "f": 4015,
+      "f_end": 4017,
+      "who": "host",
+      "action": "hand comes in to his hip, then both arms settle at his sides"
+    },
+    {
+      "f": 4018,
+      "f_end": 4024,
+      "who": "guest",
+      "action": "only the back of his head, ear and shoulder remain at the left edge; last sliver of shoulder at the bottom left on 4024"
+    },
+    {
+      "f": 4018,
+      "f_end": 4035,
+      "who": "host",
+      "action": "stands in the doorway, arms down, head 3/4 left watching the guest go, closed smile; holds still"
+    },
+    {
+      "f": 4025,
+      "who": "guest",
+      "action": "out of frame; foreground empty to the cut"
+    },
+    {
+      "f": 4036,
+      "f_end": 4042,
+      "who": "host",
+      "action": "spins round and dashes into the house: back to camera, crouched forward, arms pumping, running in and off to the right behind the door frame"
+    },
+    {
+      "f": 4043,
+      "who": "host",
+      "action": "gone; the open doorway shows the orange-red hallway wall with the framed picture; nothing but glow and smoke move to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "The off-screen third voice continues (L63, 3996-4026); neither character speaks. Camera static: the house does not move while the guest crosses the foreground (about 1 px wobble, attributable to the flickering window). The host is only about 40 px tall at 640x360, so his face is not readable in detail and no blinks are annotated for him. The guest's exit is to screen-left, passing close to camera."
+}

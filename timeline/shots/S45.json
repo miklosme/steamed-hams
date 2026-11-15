@@ -1,0 +1,54 @@
+{
+  "id": "S45",
+  "summary": "Tight close-up of the guest finishing his incredulous question ('...localized entirely within your kitchen?'), a punch-in on the previous shot to raise the pressure.",
+  "framing": "Close-up, eye level, static: guest's head fills the left two-thirds of frame, cut at the collar. Same background as S44/S47 (green chair back with pink cushion at the lower-left edge, grey-blue door frame on the right), punched in about 1.08x.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head, with a sliver of navy collar at the bottom edge",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit"
+    }
+  ],
+  "props": [
+    "dining chair back (green frame, pink cushion), lower-left edge of frame, static"
+  ],
+  "beats": [
+    {
+      "f": 3446,
+      "who": "guest",
+      "action": "head 3/4 right, brows pulled down hard in a V, eyes wide open with pupils at the right of the eyes (staring at the host off-screen right); talking through the whole shot, teeth bared between words"
+    },
+    {
+      "f": 3472,
+      "f_end": 3475,
+      "who": "guest",
+      "action": "head starts to lift and tip back on a wide-open mouth, sliding a little to screen-left"
+    },
+    {
+      "f": 3476,
+      "f_end": 3478,
+      "who": "guest",
+      "action": "head keeps rising and pushes forward toward camera: crown now touches the top of frame, collar drops out of the bottom, head reads slightly larger; settles by 3478 and stays there"
+    },
+    {
+      "f": 3484,
+      "who": "guest",
+      "action": "holds the raised head position, still glaring right; small bobs of the jaw only"
+    },
+    {
+      "f": 3501,
+      "f_end": 3503,
+      "who": "guest",
+      "action": "upper eyelids come down over the top of the eyes, brows stay in the V: wide-eyed glare becomes a narrowed, heavy-lidded glare (fully narrowed by 3503)"
+    },
+    {
+      "f": 3504,
+      "who": "guest",
+      "action": "holds the narrowed glare to the cut, pupils still at the right, teeth clenched on the last frame"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "No blink in this shot. Camera sanity check: background (door frame at right, chair at lower left) is static against 3446 to within about 1 px at 640x360 for the whole shot, so 'static' and the punch-in on the S44 setup both hold; the head rise at 3472-3478 is character animation, not a camera move. Dialogue: L53 words 'localized entirely within your kitchen' (script 3450-3512) match the mouth activity; mouth is already open on 3448-3451 before 'localized' at 3450."
+}

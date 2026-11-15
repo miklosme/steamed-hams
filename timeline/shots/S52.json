@@ -1,0 +1,52 @@
+{
+  "id": "S52",
+  "summary": "The guest, walking away down the street, stops and turns to look back at the house as a cry for help is heard.",
+  "framing": "Medium close-up, eye level, static: guest head and shoulders at centre, street behind him (pink garage at left, olive two-storey house at right, lawn, sky). Same background painting as S50.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders, first from behind, then from the front",
+      "screen": "centre",
+      "facing": "away, then 3/4 right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    }
+  ],
+  "props": [],
+  "beats": [
+    {
+      "f": 3962,
+      "who": "guest",
+      "action": "seen from behind, 3/4 away to the left: back of the head and shoulders, cheek and ear visible"
+    },
+    {
+      "f": 3963,
+      "f_end": 3965,
+      "who": "guest",
+      "action": "head starts to turn back over his shoulder toward screen-left; eye comes into view by 3964"
+    },
+    {
+      "f": 3966,
+      "f_end": 3967,
+      "who": "guest",
+      "action": "head in left profile, heavy-lidded; shoulders begin to follow"
+    },
+    {
+      "f": 3968,
+      "f_end": 3968,
+      "who": "guest",
+      "action": "body swings round: left profile with shirt and tie now visible at the front"
+    },
+    {
+      "f": 3969,
+      "who": "guest",
+      "action": "turn completes through the front to 3/4 right, body facing camera-right, moving slightly right in frame"
+    },
+    {
+      "f": 3970,
+      "who": "guest",
+      "action": "settled 3/4 right, looking back off-screen right toward the house; eyes heavy-lidded, brows level, mouth a closed line; holds to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "An off-screen third voice cries out over this shot (L62, 3962-3992) and continues into S53; the guest does not speak. No blink. Camera static confirmed on the garage at left. The whole turn takes 7 frames (3963-3969)."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "S48",
+  "summary": "Close-up of the host, who blinks, looks down, and answers a flat 'No'.",
+  "framing": "Close-up, eye level, static: identical setup to S46 (host's head centre frame, glowing red-orange strip at the left edge, corner of a green-framed picture upper right).",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and collar",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt (collar only)"
+    }
+  ],
+  "props": [
+    "green-framed picture, corner visible at upper right, static"
+  ],
+  "beats": [
+    {
+      "f": 3583,
+      "who": "host",
+      "action": "head 3/4 left, level; eyes wide open and round, pupils centred, staring left at the guest; brows neutral; mouth a small closed down-turned line; holds still"
+    },
+    {
+      "f": 3583,
+      "who": "fx",
+      "action": "red-orange glow strip down the left edge of frame, steady for the whole shot"
+    },
+    {
+      "f": 3594,
+      "f_end": 3597,
+      "who": "host",
+      "action": "blink: eyes shut on 3594-3595, half open on 3596-3597"
+    },
+    {
+      "f": 3598,
+      "f_end": 3610,
+      "who": "host",
+      "action": "eyes open again but with the upper lids slanted down toward the outside (worried) and pupils dropped to the lower right of each eye: looking down and away from the guest; holds this"
+    },
+    {
+      "f": 3611,
+      "f_end": 3612,
+      "who": "host",
+      "action": "eyelids lower to half, pupils back to centre"
+    },
+    {
+      "f": 3613,
+      "f_end": 3614,
+      "who": "host",
+      "action": "eyes close fully; mouth opens showing the lower teeth as the word starts"
+    },
+    {
+      "f": 3615,
+      "f_end": 3616,
+      "who": "host",
+      "action": "chin lifts (head tips back slightly); eyes reopen half-lidded, pupils left on the guest; lips pushed forward in a small round 'o'"
+    },
+    {
+      "f": 3617,
+      "who": "host",
+      "action": "mouth closes to a small pursed pout; half-lidded, level stare at the guest; holds to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static confirmed (left-edge strip moves < 0.5 px). Dialogue: L56 'No' is timed at 3617-3622 in script.json, but the mouth forms the word on 3613-3616 and is closed again from 3617, so the alignment looks about 4 frames late against the picture."
+}

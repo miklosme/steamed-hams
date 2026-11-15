@@ -1,0 +1,141 @@
+{
+  "id": "S50",
+  "summary": "Reverse angle over the host's shoulder onto the guest, who delivers his parting verdict and breaks into a smile on 'You steam a good ham'.",
+  "framing": "Over-the-shoulder medium close-up, eye level, static: guest head-and-chest on the left facing the host, host large in the right foreground. Background is the street: houses, hedge, blue sky with a grey-white cloud top left.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and chest",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    },
+    {
+      "who": "host",
+      "visible": "head and near shoulder; from 3776 the back of the head and shoulders only",
+      "screen": "right",
+      "facing": "3/4 left, then away",
+      "costume": "light-blue suit, lilac shirt collar"
+    }
+  ],
+  "props": [],
+  "beats": [
+    {
+      "f": 3756,
+      "who": "host",
+      "action": "continues the calling pose from S49 seen from the other side: in profile facing left, head tipped back, eye rolled up, hand cupped at his mouth with the elbow raised"
+    },
+    {
+      "f": 3756,
+      "who": "guest",
+      "action": "head 3/4 right, eyes heavy-lidded with pupils raised to the upper right (looking up past the host), closed frown"
+    },
+    {
+      "f": 3757,
+      "f_end": 3758,
+      "who": "host",
+      "action": "hand comes away from the mouth and opens, palm forward, in front of his chin"
+    },
+    {
+      "f": 3759,
+      "f_end": 3760,
+      "who": "host",
+      "action": "arm swings down and forward, open hand passing low across the front of the guest's chest, and is out of frame by 3761"
+    },
+    {
+      "f": 3759,
+      "f_end": 3761,
+      "who": "guest",
+      "action": "pupils come down to centre, then (3761) the head turns a little toward the host and the heavy-lidded eyes settle on him"
+    },
+    {
+      "f": 3761,
+      "f_end": 3771,
+      "who": "host",
+      "action": "arm gone; still in profile with head tipped back and eye rolled up, mouth closed; holds"
+    },
+    {
+      "f": 3763,
+      "who": "guest",
+      "action": "starts speaking; heavy lids, flat brows, level stare at the host, body still"
+    },
+    {
+      "f": 3772,
+      "f_end": 3773,
+      "who": "host",
+      "action": "head starts to come down and turn toward the guest"
+    },
+    {
+      "f": 3774,
+      "f_end": 3775,
+      "who": "host",
+      "action": "head level, turning away from camera; eye now on the guest"
+    },
+    {
+      "f": 3776,
+      "f_end": 3780,
+      "who": "host",
+      "action": "turned fully to the guest: back of the head, ear and a sliver of cheek to camera; his shoulders rise into the bottom-right of frame and shift a little left, settled by 3780. Holds this over-the-shoulder position, motionless, to the cut"
+    },
+    {
+      "f": 3789,
+      "f_end": 3791,
+      "who": "guest",
+      "action": "blink: eyes shut on 3790-3791"
+    },
+    {
+      "f": 3792,
+      "f_end": 3818,
+      "who": "guest",
+      "action": "eyes reopen heavy-lidded with pupils lowered (looking down, not at the host) while he keeps talking; holds"
+    },
+    {
+      "f": 3819,
+      "f_end": 3824,
+      "who": "guest",
+      "action": "eyes close and stay shut or squeezed for several frames (3819-3824)"
+    },
+    {
+      "f": 3825,
+      "f_end": 3841,
+      "who": "guest",
+      "action": "eyes reopen heavy-lidded, pupils back on the host"
+    },
+    {
+      "f": 3842,
+      "f_end": 3845,
+      "who": "guest",
+      "action": "expression flips: eyes open wide and round, brows lift, head rises and moves slightly right, mouth curls into a closed smile"
+    },
+    {
+      "f": 3846,
+      "f_end": 3851,
+      "who": "guest",
+      "action": "holds the bright wide-eyed look, leaning a little toward the host; grin opens to show teeth at 3849-3851"
+    },
+    {
+      "f": 3852,
+      "who": "guest",
+      "action": "speaks the last line smiling, eyes wide on the host"
+    },
+    {
+      "f": 3860,
+      "f_end": 3863,
+      "who": "guest",
+      "action": "leans in: head dips forward and to the right on a wide open-mouthed smile"
+    },
+    {
+      "f": 3864,
+      "f_end": 3869,
+      "who": "guest",
+      "action": "head comes back up to the smiling position, still talking"
+    },
+    {
+      "f": 3870,
+      "who": "guest",
+      "action": "closed-mouth smile, wide eyes on the host; holds to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "The host's last word of L59 ('lights', script 3750-3758) spills over the cut; his mouth is closed from 3757. Guest lines L60 (script 3766-3840) and L61 (3850-3874): the mouth starts moving at 3763 and at 3852 respectively, with the toothy grin on 3849-3851 falling in the pause between them. Camera static confirmed on the sky and cloud (about 1 px wobble)."
+}

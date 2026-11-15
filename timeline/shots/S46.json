@@ -1,0 +1,52 @@
+{
+  "id": "S46",
+  "summary": "Close-up of the host answering 'Yes' with a sudden bright grin, bluffing.",
+  "framing": "Close-up, eye level, static: host's head and collar, centre frame. Behind him plain blue wall; at the left edge a vertical glowing red-orange strip (light from the burning kitchen through the door gap); at the upper right the corner of a green-framed picture.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and collar",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt (collar only)"
+    }
+  ],
+  "props": [
+    "green-framed picture, corner visible at upper right, static"
+  ],
+  "beats": [
+    {
+      "f": 3513,
+      "who": "host",
+      "action": "head 3/4 left, level; eyelids half lowered, pupils left (looking at the guest off-screen left); mouth a flat, slightly down-turned line; holds still"
+    },
+    {
+      "f": 3513,
+      "who": "fx",
+      "action": "red-orange glow strip down the left edge of frame, steady (no flicker measurable) for the whole shot"
+    },
+    {
+      "f": 3518,
+      "who": "host",
+      "action": "head lifts and tips back, moving up-right in frame; eyelids start to open, mouth opens into the start of a smile"
+    },
+    {
+      "f": 3519,
+      "f_end": 3527,
+      "who": "host",
+      "action": "eyes snap fully open, round, pupils centred and staring left; brows up; open smiling mouth as he says the word"
+    },
+    {
+      "f": 3522,
+      "who": "host",
+      "action": "head reaches its highest point (hair touches the top of frame) and stays there"
+    },
+    {
+      "f": 3528,
+      "who": "host",
+      "action": "mouth closes to a wide fixed toothy grin, teeth together; eyes stay wide and unblinking; holds to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "No blink. Camera static confirmed (left-edge strip moves < 0.5 px). Dialogue: L54 'Yes' is timed at 3522-3531 in script.json; the mouth opens at 3518-3519 and is already closed into the grin at 3528, so the visible mouth shape runs about 3 frames ahead of the audio alignment."
+}

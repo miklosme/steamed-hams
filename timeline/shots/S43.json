@@ -1,0 +1,97 @@
+{
+  "id": "S43",
+  "summary": "Second punch-in: the guest's scowl flips to wide-eyed disbelief as he goes on.",
+  "framing": "Close-up, same setup as S41/S42, cut in a further 7% on the cut at 3375; static within the shot.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and collar, tie knot at the bottom edge",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie"
+    }
+  ],
+  "props": [
+    "window with pale frame and purple pane, right edge",
+    "green-framed oval mirror showing pink flowers, bottom left (partly cropped)"
+  ],
+  "beats": [
+    {
+      "f": 3375,
+      "who": "camera",
+      "action": "hard cut to the same framing about 7% tighter (second punch-in); no movement after the cut"
+    },
+    {
+      "f": 3375,
+      "who": "guest",
+      "action": "for this one frame still the S42 face: brows in a V, lips pursed"
+    },
+    {
+      "f": 3376,
+      "f_end": 3377,
+      "who": "guest",
+      "action": "brows vanish upward, eyes pop fully round with small pupils, jaw open; stares to screen right"
+    },
+    {
+      "f": 3378,
+      "f_end": 3379,
+      "who": "guest",
+      "action": "teeth clenched and bared, eyes still round"
+    },
+    {
+      "f": 3380,
+      "f_end": 3381,
+      "who": "guest",
+      "action": "jaw open, head lifts slightly"
+    },
+    {
+      "f": 3382,
+      "f_end": 3385,
+      "who": "guest",
+      "action": "teeth bared"
+    },
+    {
+      "f": 3386,
+      "f_end": 3389,
+      "who": "guest",
+      "action": "jaw open, narrowing to a flat line by 3388"
+    },
+    {
+      "f": 3390,
+      "f_end": 3391,
+      "who": "guest",
+      "action": "mouth closed, downturned, for two frames; eyes round"
+    },
+    {
+      "f": 3392,
+      "f_end": 3393,
+      "who": "guest",
+      "action": "jaw open"
+    },
+    {
+      "f": 3394,
+      "f_end": 3397,
+      "who": "guest",
+      "action": "lips pressed in a wavy line, then teeth bared at 3396-3397"
+    },
+    {
+      "f": 3398,
+      "f_end": 3401,
+      "who": "guest",
+      "action": "jaw wide open, head bobs up"
+    },
+    {
+      "f": 3402,
+      "f_end": 3407,
+      "who": "guest",
+      "action": "mouth narrows to a flat open line"
+    },
+    {
+      "f": 3408,
+      "who": "guest",
+      "action": "jaw wide open, upper teeth showing"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Punch-in confirmed by comparing 3374 with 3375. The expression change lags the cut by one frame: 3375 still has the angry brows, the round-eyed look starts at 3376. No blink; eyes stay fully round to the end."
+}

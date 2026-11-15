@@ -1,0 +1,37 @@
+{
+ "id": "S06",
+ "summary": "Closer view of the smoking oven: the roast inside is burning.",
+ "framing": "Medium shot, straight on, of the oven against the kitchen back wall; a fast push-in over the first three frames, then static.",
+ "cast": [],
+ "props": [
+  "white oven with glass door window (two diagonal glints), towel-bar handle, upstand with three large and three small knobs",
+  "lilac cupboard door with round knob at the left",
+  "window at the upper right showing trees and a fence"
+ ],
+ "beats": [
+  {
+   "f": 329,
+   "f_end": 331,
+   "who": "camera",
+   "action": "fast push-in toward the oven: 329 is widest (oven about a quarter of frame width), 330 closer, 331 full close framing"
+  },
+  {
+   "f": 329,
+   "who": "fx",
+   "action": "two columns of grey smoke rise from the back of the oven top, one each side of the upstand, to the top of frame"
+  },
+  {
+   "f": 331,
+   "who": "camera",
+   "action": "static framing: oven centred, about a third of frame width"
+  },
+  {
+   "f": 331,
+   "f_end": 350,
+   "who": "fx",
+   "action": "smoke keeps billowing upward, edges shifting slowly; partly veils the upstand knobs; holds to the end of the shot"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Disagrees with timeline.json, which marks S06 static: frames 329 and 330 are visibly wider than 331 onward (window and floor show more), so there is a 3-frame push-in (or the cut lands mid-zoom). From 331 the frame is static. No characters in shot. Nothing moves but the smoke."
+}

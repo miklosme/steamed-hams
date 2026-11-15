@@ -1,0 +1,81 @@
+{
+  "id": "S25",
+  "summary": "The guest, napkin at his neck, looks up from the platter and questions the host's name for the dish.",
+  "framing": "Medium close-up, eye level, of the guest seated in 3/4 right view, chest up; static camera. Tops of the hamburgers on the platter run along the bottom edge of frame. Blue wall behind, green oval frame cut off at top left; at right a doorway into a lavender room with a green armchair, a lamp on a small table and an oval portrait.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "chest up",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin bib tucked in the collar"
+    }
+  ],
+  "props": [
+    "hamburgers on the platter along the bottom edge of frame",
+    "white napkin bib",
+    "red chair back behind the guest's right shoulder",
+    "background: green oval frame, green armchair, lamp on side table, oval portrait"
+  ],
+  "beats": [
+    {
+      "f": 1945,
+      "who": "guest",
+      "action": "seated upright, head 3/4 right and tilted down, eyes lowered looking at the burgers, heavy lids, brows flat, mouth closed in a flat line"
+    },
+    {
+      "f": 1947,
+      "f_end": 1950,
+      "who": "guest",
+      "action": "starts speaking, still looking down"
+    },
+    {
+      "f": 1951,
+      "f_end": 1954,
+      "who": "guest",
+      "action": "head starts to lift and turn up toward screen-right"
+    },
+    {
+      "f": 1953,
+      "who": "guest",
+      "action": "eyes swing up to look right at the host, brows come down level over the eyes"
+    },
+    {
+      "f": 1955,
+      "f_end": 1964,
+      "who": "guest",
+      "action": "head up and level, steady stare to screen-right, lids heavy, brows low; holds"
+    },
+    {
+      "f": 1965,
+      "f_end": 1976,
+      "who": "guest",
+      "action": "brows angle down further into a frown, chin drops a touch; keeps staring right"
+    },
+    {
+      "f": 1977,
+      "f_end": 1980,
+      "who": "guest",
+      "action": "blink: lids half 1977, closed 1978-1979, half 1980, open 1981"
+    },
+    {
+      "f": 1981,
+      "f_end": 1996,
+      "who": "guest",
+      "action": "same frowning stare to the right, speaking"
+    },
+    {
+      "f": 1997,
+      "who": "guest",
+      "action": "head lowers slightly, brows relax to level, mouth closes"
+    },
+    {
+      "f": 2001,
+      "f_end": 2006,
+      "who": "guest",
+      "action": "eyes drop to the platter again, lids heavy, teeth showing in a grimace; held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. On twos, new drawings on odd frames. Only the head moves; shoulders, napkin and hands (out of frame) are a held drawing. No champagne flute is drawn at the left edge in this shot, although the same setup in S27 has one."
+}

@@ -1,0 +1,349 @@
+{
+ "id": "S03",
+ "summary": "On the doorstep: the guest greets the host sourly in close-up, the camera whips back to a two-shot for the host's effusive welcome, then the guest walks past him into the house.",
+ "framing": "Starts as a close-up of the guest in profile from outside the doorway (street of houses behind), with the door swinging out of frame. At 159-164 a whip pull-back and pan right to a medium two-shot: guest left, host right in the doorway, door frame at both edges. From 261 the street background slides right while the door frame stays put.",
+ "cast": [
+  {
+   "who": "guest",
+   "visible": "head and shoulders in the close-up; chest up in the two-shot",
+   "screen": "left",
+   "facing": "right",
+   "costume": "navy suit, white shirt, red tie"
+  },
+  {
+   "who": "host",
+   "visible": "face at the right edge behind the door (73-78); chest up from 160",
+   "screen": "right",
+   "facing": "left",
+   "costume": "light-blue suit, lilac shirt, pink tie, white frilled apron"
+  }
+ ],
+ "props": [
+  "purple front door, swings open across frame at the start; its edge with brass knob plate stays visible behind the host in the two-shot",
+  "pale green bottle with a red ribbon bow, held upright against the guest's chest in his left hand (visible from 160)"
+ ],
+ "beats": [
+  {
+   "f": 73,
+   "f_end": 78,
+   "who": "prop",
+   "action": "door covers the centre and right of frame, swinging open toward the right"
+  },
+  {
+   "f": 73,
+   "who": "guest",
+   "action": "head at the left, partly hidden behind the door edge; eye half-lidded looking down-right, mouth a flat frown"
+  },
+  {
+   "f": 73,
+   "f_end": 78,
+   "who": "host",
+   "action": "face in profile at the far right edge behind the door, eye wide; slides out of frame to the right with the door"
+  },
+  {
+   "f": 77,
+   "who": "guest",
+   "action": "fully uncovered; head lifts slightly, brow comes down into a scowl"
+  },
+  {
+   "f": 79,
+   "who": "guest",
+   "action": "alone in close-up, profile facing right; brow low, pupil at the right of the eye, mouth shut; door and host gone"
+  },
+  {
+   "f": 84,
+   "f_end": 86,
+   "who": "guest",
+   "action": "blink (lid half down 84, closed 85, open 86)"
+  },
+  {
+   "f": 88,
+   "who": "guest",
+   "action": "starts speaking; brow stays low, head still"
+  },
+  {
+   "f": 93,
+   "f_end": 102,
+   "who": "guest",
+   "action": "brow lifts and softens (inner end raised), eye opens rounder, pupil still right"
+  },
+  {
+   "f": 103,
+   "who": "guest",
+   "action": "brow drops back to the low scowl"
+  },
+  {
+   "f": 106,
+   "f_end": 110,
+   "who": "guest",
+   "action": "slow blink: lid narrows 106, eye closed 107-109, open 110"
+  },
+  {
+   "f": 125,
+   "who": "guest",
+   "action": "one-frame squint (lid nearly closed)"
+  },
+  {
+   "f": 132,
+   "f_end": 133,
+   "who": "guest",
+   "action": "head tips back a little, chin up, mouth closed"
+  },
+  {
+   "f": 134,
+   "f_end": 141,
+   "who": "guest",
+   "action": "brow lifts and softens again, eye rounder; head back to level"
+  },
+  {
+   "f": 143,
+   "f_end": 144,
+   "who": "guest",
+   "action": "eye closes briefly (143-144), then reopens with the low scowl at 145"
+  },
+  {
+   "f": 145,
+   "f_end": 158,
+   "who": "guest",
+   "action": "low scowl held to the end of his line; head still"
+  },
+  {
+   "f": 159,
+   "f_end": 164,
+   "who": "camera",
+   "action": "whip pull-back and pan right from the close-up to a two-shot (zoom about 1.0 to 0.54); door frame and host come in from the right"
+  },
+  {
+   "f": 160,
+   "who": "host",
+   "action": "revealed at right, 3/4 facing left toward the guest, eyes wide, mouth wide open in a grin; leaning slightly toward the guest"
+  },
+  {
+   "f": 160,
+   "who": "prop",
+   "action": "bottle with red bow visible at the guest's chest"
+  },
+  {
+   "f": 162,
+   "f_end": 260,
+   "who": "guest",
+   "action": "mouth shut; turned to look at the host, brow low, eyes half-lidded; holds this stare, body still"
+  },
+  {
+   "f": 163,
+   "f_end": 165,
+   "who": "host",
+   "action": "mouth rounds to an 'o', eyes wide"
+  },
+  {
+   "f": 166,
+   "f_end": 169,
+   "who": "host",
+   "action": "blink (half 166, closed 167-168, half 169, open 170)"
+  },
+  {
+   "f": 172,
+   "f_end": 173,
+   "who": "host",
+   "action": "head tips back, chin up, mouth 'o'"
+  },
+  {
+   "f": 174,
+   "f_end": 175,
+   "who": "host",
+   "action": "closed-mouth smile, head upright"
+  },
+  {
+   "f": 176,
+   "f_end": 180,
+   "who": "host",
+   "action": "head turns to full profile facing the guest and lifts; speaking"
+  },
+  {
+   "f": 181,
+   "f_end": 186,
+   "who": "host",
+   "action": "toothy grin, head leans toward the guest and bobs as he talks"
+  },
+  {
+   "f": 187,
+   "f_end": 189,
+   "who": "host",
+   "action": "head dips down, eyes on the guest"
+  },
+  {
+   "f": 188,
+   "f_end": 193,
+   "who": "guest",
+   "action": "blink (half 188-189, closed 190-191, half 192-193, open 194)"
+  },
+  {
+   "f": 190,
+   "f_end": 195,
+   "who": "host",
+   "action": "head low and pushed forward, brow relaxed, talking"
+  },
+  {
+   "f": 196,
+   "f_end": 198,
+   "who": "host",
+   "action": "head swings up and back, chin raised, mouth open then closing"
+  },
+  {
+   "f": 199,
+   "f_end": 203,
+   "who": "host",
+   "action": "holds chin-up pose, mouth closed in a small smile, eyes on the guest"
+  },
+  {
+   "f": 204,
+   "f_end": 206,
+   "who": "host",
+   "action": "blink (half 204, closed 205, half 206, open 207)"
+  },
+  {
+   "f": 208,
+   "f_end": 209,
+   "who": "host",
+   "action": "starts turning his head toward camera, mouth opening"
+  },
+  {
+   "f": 210,
+   "f_end": 215,
+   "who": "host",
+   "action": "head snaps to face camera, tilted to his right, eyes wide, huge open-mouth smile"
+  },
+  {
+   "f": 216,
+   "f_end": 218,
+   "who": "host",
+   "action": "head tilts further, 3/4 left, mouth 'o', eyes looking toward the guest"
+  },
+  {
+   "f": 219,
+   "f_end": 220,
+   "who": "host",
+   "action": "closed-mouth smile, head tilted, eyes on the guest"
+  },
+  {
+   "f": 221,
+   "f_end": 233,
+   "who": "host",
+   "action": "talking with a wide open smile, head tilted toward camera, small bobs"
+  },
+  {
+   "f": 232,
+   "f_end": 241,
+   "who": "guest",
+   "action": "eyelids droop a little lower (heavy-lidded stare)"
+  },
+  {
+   "f": 234,
+   "f_end": 235,
+   "who": "host",
+   "action": "eyes go half-closed, mouth a wobbly closed grin"
+  },
+  {
+   "f": 236,
+   "f_end": 238,
+   "who": "host",
+   "action": "eyes closed, head turns left with mouth 'o'"
+  },
+  {
+   "f": 239,
+   "f_end": 240,
+   "who": "host",
+   "action": "head faces camera, eyes closed, big open laugh"
+  },
+  {
+   "f": 241,
+   "f_end": 242,
+   "who": "host",
+   "action": "eyes half-lidded, wide flat grin, still facing camera"
+  },
+  {
+   "f": 243,
+   "f_end": 244,
+   "who": "host",
+   "action": "head turns back left toward the guest, brow worried, mouth uneven"
+  },
+  {
+   "f": 245,
+   "f_end": 255,
+   "who": "host",
+   "action": "profile facing the guest, eyes wide, head pushed forward; talking"
+  },
+  {
+   "f": 256,
+   "f_end": 264,
+   "who": "host",
+   "action": "fixed toothy grin at the guest, eyes wide; holds"
+  },
+  {
+   "f": 261,
+   "f_end": 276,
+   "who": "fx",
+   "action": "street background behind the two slides to the right in steps (on twos) while the door frame stays fixed; new houses and a lawn come in from the left"
+  },
+  {
+   "f": 261,
+   "f_end": 264,
+   "who": "guest",
+   "action": "starts moving right toward the doorway, body turning toward camera"
+  },
+  {
+   "f": 265,
+   "f_end": 268,
+   "who": "guest",
+   "action": "now 3/4 toward camera, eyes open wider and look ahead to the right, brow still low; bottle held up in front of his chest in his left fist"
+  },
+  {
+   "f": 265,
+   "who": "host",
+   "action": "mouth closes into a smile; eyes follow the guest"
+  },
+  {
+   "f": 269,
+   "f_end": 277,
+   "who": "guest",
+   "action": "mouth opens (grunt) as he walks right, passing directly in front of the host"
+  },
+  {
+   "f": 271,
+   "f_end": 275,
+   "who": "host",
+   "action": "eyes go wide and round, face partly hidden by the guest's head"
+  },
+  {
+   "f": 276,
+   "f_end": 277,
+   "who": "host",
+   "action": "fully hidden behind the guest"
+  },
+  {
+   "f": 278,
+   "f_end": 280,
+   "who": "guest",
+   "action": "continues right; head reaches the right edge"
+  },
+  {
+   "f": 278,
+   "who": "host",
+   "action": "reappears on the left side of the guest, 3/4 facing right, eyes half-lidded then looking right after the guest"
+  },
+  {
+   "f": 281,
+   "f_end": 287,
+   "who": "guest",
+   "action": "head leaves frame at the right; only shoulder and back remain at the right edge"
+  },
+  {
+   "f": 283,
+   "f_end": 287,
+   "who": "host",
+   "action": "uncovered, standing where he was, closed-mouth smile, eyes turned right following the guest; holds"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera: the whip at 159-164 matches timeline.json. Not in timeline.json: from 261 to about 276 the exterior background layer slides right (in steps on frames 261, 263, 265, 267, 269, 271, then smaller steps) while the door frame at both edges and the host stay fixed on screen, so it is a background-layer slide (fake parallax for the guest walking in), not a pan of the whole picture. Guest speaks L01 over 88-158; the guest's mouth movement at 269-279 is the grunt L04. Host's head is very mobile through L02/L03: the beats list each head attitude. Guest holds the bottle in his left hand throughout the two-shot."
+}

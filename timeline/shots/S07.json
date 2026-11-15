@@ -1,0 +1,83 @@
+{
+ "id": "S07",
+ "summary": "The host's horrified reaction in the kitchen doorway, then he rushes off toward the oven.",
+ "framing": "Close-up, eye level, 3/4 view of the host against a plain blue wall with vertical door-frame lines at the right; static.",
+ "cast": [
+  {
+   "who": "host",
+   "visible": "head and collar",
+   "screen": "centre",
+   "facing": "3/4 right",
+   "costume": "light-blue suit, lilac shirt, apron straps"
+  }
+ ],
+ "props": [],
+ "beats": [
+  {
+   "f": 351,
+   "who": "host",
+   "action": "head 3/4 right, eyes wide open looking right, mouth closed in a downturned line"
+  },
+  {
+   "f": 352,
+   "who": "host",
+   "action": "winces: head drops a little, lids come half down, mouth opens crookedly"
+  },
+  {
+   "f": 353,
+   "who": "host",
+   "action": "eyes squeezed shut, mouth open wider with tongue showing"
+  },
+  {
+   "f": 354,
+   "who": "host",
+   "action": "eyes reopen half-lidded, mouth open"
+  },
+  {
+   "f": 355,
+   "who": "host",
+   "action": "eyes pop wide and round with small pupils, brows up, jaw dropped; head shifts left and up"
+  },
+  {
+   "f": 356,
+   "f_end": 362,
+   "who": "host",
+   "action": "holds the shocked stare, mouth open, tiny drift only"
+  },
+  {
+   "f": 363,
+   "f_end": 364,
+   "who": "host",
+   "action": "pupils flick up and to the right, head tilts back slightly; shoulder line rises at the bottom-right"
+  },
+  {
+   "f": 365,
+   "f_end": 366,
+   "who": "host",
+   "action": "brows pinch up in the middle (worried), eyes up-right, mouth still open"
+  },
+  {
+   "f": 367,
+   "who": "host",
+   "action": "starts to move right, head leaning forward"
+  },
+  {
+   "f": 368,
+   "f_end": 370,
+   "who": "host",
+   "action": "rushes out to the right; head crosses the frame"
+  },
+  {
+   "f": 371,
+   "who": "host",
+   "action": "only the back of his head at the right edge"
+  },
+  {
+   "f": 372,
+   "who": "host",
+   "action": "gone; empty wall, a sliver of sleeve at the bottom-right corner"
+  }
+ ],
+ "hidden_cut": null,
+ "notes": "Camera static, agreeing with timeline.json. Line L05 is spoken over the shocked stare. No blink other than the wince at 352-354. The exit takes four frames (368-371) with no anticipation other than the one-frame lean at 367."
+}

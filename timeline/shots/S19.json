@@ -1,0 +1,63 @@
+{
+  "id": "S19",
+  "summary": "The guest glares, unconvinced, then turns and leaves through the kitchen door.",
+  "framing": "Medium close-up, chest up, eye level; same setup as S17: purple door behind him, blue door frame and green wall at the right edge. Static.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "chest up",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    }
+  ],
+  "props": [
+    "purple door behind him; white light-switch plate on the wall at lower left, revealed from 1583"
+  ],
+  "beats": [
+    {
+      "f": 1560,
+      "f_end": 1561,
+      "who": "guest",
+      "action": "stands square, arms down, scowling at the host off right: lids half lowered, pupils right, mouth clamped down"
+    },
+    {
+      "f": 1562,
+      "f_end": 1576,
+      "who": "guest",
+      "action": "lids narrow further into a hard squint; glare held motionless"
+    },
+    {
+      "f": 1577,
+      "f_end": 1578,
+      "who": "guest",
+      "action": "head dips and starts to turn toward camera, eyes drop down, shoulders begin to rotate left"
+    },
+    {
+      "f": 1579,
+      "f_end": 1580,
+      "who": "guest",
+      "action": "head now 3/4 left, looking down-left, body turning left, moved right in frame"
+    },
+    {
+      "f": 1581,
+      "f_end": 1582,
+      "who": "guest",
+      "action": "turn continues; screen-left hand rises into the bottom of frame"
+    },
+    {
+      "f": 1583,
+      "f_end": 1584,
+      "who": "guest",
+      "action": "body faces left, head 3/4 left and lower in frame, hand gone, light-switch plate visible at lower left"
+    },
+    {
+      "f": 1585,
+      "f_end": 1586,
+      "who": "guest",
+      "action": "full left profile with his back and shoulder to camera, screen-left hand raised with fingers spread at the lower left edge, reaching for the door; still moving left on the last frame"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera confirmed static (door panel lines and frame strip do not move). He does not speak; the tail of the host's line is heard over the first 3 frames. The turn is animated on twos."
+}

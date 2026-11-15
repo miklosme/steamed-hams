@@ -1,0 +1,82 @@
+{
+  "id": "S27",
+  "summary": "The guest gives a slow, unconvinced reply, then turns his head away with a sidelong look and asks which region.",
+  "framing": "Medium close-up, eye level, of the guest seated, chest up; same setup as S25; static camera. A champagne flute stands at the far left edge, burger tops along the bottom edge.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "chest up",
+      "screen": "centre-left",
+      "facing": "3/4 right, then 3/4 left",
+      "costume": "navy suit, white napkin bib tucked in the collar"
+    }
+  ],
+  "props": [
+    "champagne flute at the far left edge",
+    "hamburgers on the platter along the bottom edge",
+    "white napkin bib",
+    "red chair back behind the guest",
+    "background: green oval frame, green armchair, lamp on side table, oval portrait"
+  ],
+  "beats": [
+    {
+      "f": 2059,
+      "who": "guest",
+      "action": "seated upright, head 3/4 right, eyes open looking right at the host, lids relaxed, brows level, mouth closed and turned down"
+    },
+    {
+      "f": 2061,
+      "f_end": 2068,
+      "who": "guest",
+      "action": "mouth drops open long and slack; from 2063 the head tips back a little, eyes still on the host"
+    },
+    {
+      "f": 2069,
+      "f_end": 2076,
+      "who": "guest",
+      "action": "head back to level, mouth narrows"
+    },
+    {
+      "f": 2077,
+      "f_end": 2080,
+      "who": "guest",
+      "action": "mouth closed, level stare at the host"
+    },
+    {
+      "f": 2081,
+      "who": "guest",
+      "action": "mouth opens again"
+    },
+    {
+      "f": 2082,
+      "who": "guest",
+      "action": "lids half-closed"
+    },
+    {
+      "f": 2083,
+      "f_end": 2084,
+      "who": "guest",
+      "action": "eyes fully closed, head still 3/4 right"
+    },
+    {
+      "f": 2085,
+      "f_end": 2086,
+      "who": "guest",
+      "action": "head turns toward camera: nearly full-face, slightly tilted, lids half-open, small round mouth"
+    },
+    {
+      "f": 2087,
+      "f_end": 2088,
+      "who": "guest",
+      "action": "head continues round to 3/4 left, eyes open, brows lowering"
+    },
+    {
+      "f": 2089,
+      "f_end": 2104,
+      "who": "guest",
+      "action": "head settled 3/4 left, turned away from the host; pupils slid to the right corners of the eyes for a sidelong look back at him, brows low and straight; shoulders unchanged; held to the cut, speaking"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. On twos, new drawings on odd frames. Only the head is animated; the body is a held drawing still facing 3/4 right after the head turn. script.json has 'uh' at 2068 and 'huh' at 2076, but the mouth is open from 2061 to 2076, closed 2077-2080 and open again 2081-2084, so the drawn mouth leads the measured word timing by about 6 frames. 'Eh' at 2085 matches the round mouth on the turn. The flute at the left edge is absent in S25 (same setup)."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "S42",
+  "summary": "First punch-in on the guest as his incredulous questions start: scowling, hammering the words.",
+  "framing": "Close-up, same setup as S41, cut in about 7% tighter on the cut at 3344; static within the shot.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and collar",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white shirt, red tie"
+    }
+  ],
+  "props": [
+    "window with pale frame and purple pane, right edge",
+    "green-framed oval mirror showing pink flowers, bottom left"
+  ],
+  "beats": [
+    {
+      "f": 3344,
+      "who": "camera",
+      "action": "hard cut to the same framing about 7% tighter (punch-in); no movement after the cut"
+    },
+    {
+      "f": 3344,
+      "f_end": 3349,
+      "who": "guest",
+      "action": "brows in a hard V, eyes wide and glaring to screen right, jaw wide open, head pushed forward"
+    },
+    {
+      "f": 3350,
+      "f_end": 3351,
+      "who": "guest",
+      "action": "teeth clenched and bared"
+    },
+    {
+      "f": 3352,
+      "f_end": 3353,
+      "who": "guest",
+      "action": "jaw open again, head bobs up slightly"
+    },
+    {
+      "f": 3354,
+      "f_end": 3357,
+      "who": "guest",
+      "action": "teeth clenched, head settles"
+    },
+    {
+      "f": 3358,
+      "f_end": 3359,
+      "who": "guest",
+      "action": "jaw open, chin drops"
+    },
+    {
+      "f": 3360,
+      "f_end": 3363,
+      "who": "guest",
+      "action": "mouth closes to a flat line, then a downturned closed mouth at 3362-3363; glare unchanged"
+    },
+    {
+      "f": 3364,
+      "f_end": 3367,
+      "who": "guest",
+      "action": "jaw open, then teeth bared at 3366-3367"
+    },
+    {
+      "f": 3368,
+      "f_end": 3371,
+      "who": "guest",
+      "action": "jaw wide open, head lifts a little"
+    },
+    {
+      "f": 3372,
+      "f_end": 3374,
+      "who": "guest",
+      "action": "mouth narrows; lips pursed forward on the last frame (3374)"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Punch-in confirmed by comparing 3343 with 3344: same background, larger head. Brows stay in the V for the whole shot and he does not blink; all motion is jaw and a slight head bob in time with the words."
+}

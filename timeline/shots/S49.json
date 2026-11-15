@@ -1,0 +1,182 @@
+{
+  "id": "S49",
+  "summary": "Exterior, front porch: the host shows the guest out; an off-screen voice shouts that the house is on fire and the host calls back up that it is just the northern lights.",
+  "framing": "Medium-wide, eye level, static, looking square-on at the front of the house: purple front door centre-left, lilac shuttered window at each side edge, white porch balustrade across the bottom of frame in front of the doorway. Characters are cut at the thighs by the bottom of frame.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "enters through the door; from 3647 head to thighs, in profile",
+      "screen": "left",
+      "facing": "right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    },
+    {
+      "who": "host",
+      "visible": "head to thighs, behind the balustrade, in the doorway",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, pink tie (no apron)"
+    }
+  ],
+  "props": [
+    "front door: purple, panelled, brass knocker and knob, hinged on its screen-left edge, opens inward",
+    "white porch balustrade in the foreground, static",
+    "framed picture on the green hallway wall, seen through the open door"
+  ],
+  "beats": [
+    {
+      "f": 3623,
+      "who": "prop",
+      "action": "front door closed; porch empty"
+    },
+    {
+      "f": 3624,
+      "f_end": 3629,
+      "who": "prop",
+      "action": "door swings open inward, hinge on screen-left, revealing a green hallway wall with a framed picture; fully open by 3629 and stays open"
+    },
+    {
+      "f": 3626,
+      "f_end": 3629,
+      "who": "guest",
+      "action": "appears in the opening from the right, walking out to screen-left in profile: shoulder first (3626), whole upper body by 3628; arms hanging, heavy-lidded, mouth closed"
+    },
+    {
+      "f": 3630,
+      "f_end": 3636,
+      "who": "host",
+      "action": "follows close behind the guest, mostly hidden by him: a sliver of his face shows behind the guest's head on 3630-3631, his head and shoulder emerge at the guest's right from 3635"
+    },
+    {
+      "f": 3630,
+      "f_end": 3636,
+      "who": "guest",
+      "action": "crosses the doorway toward the balustrade, head 3/4 left, hands at his sides"
+    },
+    {
+      "f": 3637,
+      "who": "host",
+      "action": "fully revealed standing in the doorway facing camera, arms at his sides with hands just above the balustrade, closed-mouth smile, eyes open"
+    },
+    {
+      "f": 3637,
+      "f_end": 3642,
+      "who": "guest",
+      "action": "strides off the porch toward camera-left, body leaning forward and growing in frame; by 3642 he is square to camera with a slight smile"
+    },
+    {
+      "f": 3643,
+      "who": "guest",
+      "action": "lands at the bottom in a wide stance, knees bent, both arms swung out from his sides"
+    },
+    {
+      "f": 3644,
+      "f_end": 3646,
+      "who": "guest",
+      "action": "straightens and pivots to his left to face back toward the host, bringing both hands behind his back"
+    },
+    {
+      "f": 3644,
+      "who": "host",
+      "action": "head turns to 3/4 left to look at the guest; eyes wide, closed-mouth smile; body still square to camera"
+    },
+    {
+      "f": 3647,
+      "who": "guest",
+      "action": "settled at frame left in profile facing right, hands clasped behind his back, eye heavy-lidded on the host, mouth a closed frown; holds"
+    },
+    {
+      "f": 3654,
+      "f_end": 3655,
+      "who": "host",
+      "action": "smile drops to a flat mouth, eyelids lower"
+    },
+    {
+      "f": 3656,
+      "f_end": 3658,
+      "who": "host",
+      "action": "eyes shut in a wince (3656-3658)"
+    },
+    {
+      "f": 3659,
+      "who": "host",
+      "action": "eyes reopen with pupils rolled to the top of the eyes (looking up toward the voice), mouth a down-turned frown; holds this upward look, body unchanged"
+    },
+    {
+      "f": 3666,
+      "f_end": 3669,
+      "who": "guest",
+      "action": "blink (eye shut on 3667), and through it his head tips back slightly"
+    },
+    {
+      "f": 3670,
+      "who": "guest",
+      "action": "eye wide open and round with the pupil at the top, looking up past the host; brow low; holds"
+    },
+    {
+      "f": 3677,
+      "f_end": 3681,
+      "who": "host",
+      "action": "blink: eyes shut 3678-3679, open looking up on 3681"
+    },
+    {
+      "f": 3682,
+      "f_end": 3684,
+      "who": "host",
+      "action": "second blink: eyes shut 3682-3683, half open on 3684"
+    },
+    {
+      "f": 3685,
+      "f_end": 3703,
+      "who": "host",
+      "action": "eyes open, pupils up again, frown; holds motionless"
+    },
+    {
+      "f": 3704,
+      "f_end": 3705,
+      "who": "host",
+      "action": "swings round to face camera with a closed-mouth smile; his screen-right arm bends out from the body with the hand hanging open at hip height"
+    },
+    {
+      "f": 3706,
+      "f_end": 3707,
+      "who": "host",
+      "action": "keeps turning to 3/4 right, teeth clenched; screen-right forearm lifts to chest height with the hand drooping from the wrist; his screen-left hand takes hold of the balustrade rail"
+    },
+    {
+      "f": 3708,
+      "f_end": 3711,
+      "who": "host",
+      "action": "head tips back to look up to the upper right, mouth open; screen-right hand rises toward his face"
+    },
+    {
+      "f": 3708,
+      "f_end": 3711,
+      "who": "guest",
+      "action": "eyelid lowers; blink with eye shut on 3710-3711"
+    },
+    {
+      "f": 3712,
+      "who": "host",
+      "action": "calling pose: leaning slightly back, head tilted up to the upper right, screen-right hand cupped beside his mouth, other hand resting on the rail, eyes open looking up; holds this pose to the cut while shouting"
+    },
+    {
+      "f": 3712,
+      "who": "guest",
+      "action": "head level again, eye heavy-lidded and back on the host, frown; holds to the cut"
+    },
+    {
+      "f": 3729,
+      "f_end": 3739,
+      "who": "host",
+      "action": "upper eyelids drop to half over the upturned eyes while he keeps shouting"
+    },
+    {
+      "f": 3741,
+      "who": "host",
+      "action": "eyes fully open again, still looking up; pose unchanged to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "An off-screen third voice (not host or guest) is heard here: L57 at 3646-3659 and L58 at 3667-3704; the host's wince (3654-3658) and upward look (3659) answer the first call, the guest's upward look (3670) the second. The host's reply L59 is timed from 3712, which is the first frame of the settled calling pose; his mouth is already open from 3708. No fire, smoke or glow is drawn in this shot: both windows show plain pale panes. Camera static confirmed on the right-hand shutters. The door opens inward here but is drawn standing open outward-left of the doorway in S51/S54."
+}

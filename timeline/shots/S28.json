@@ -1,0 +1,74 @@
+{
+  "id": "S28",
+  "summary": "The host hesitates, eyes darting away, then answers with a confident smile.",
+  "framing": "Medium close-up, eye level, of the host seated in 3/4 left view, chest up; same framing as S26; static camera.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "chest up, hands out of frame",
+      "screen": "centre",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, salmon tie"
+    }
+  ],
+  "props": [
+    "champagne flute at left edge of frame",
+    "red chair back behind the host",
+    "purple door at left, green-framed picture at top right"
+  ],
+  "beats": [
+    {
+      "f": 2105,
+      "who": "host",
+      "action": "seated upright, head 3/4 left, lids half-lowered, pupils to the left on the guest, teeth showing in a fixed nervous grin"
+    },
+    {
+      "f": 2107,
+      "f_end": 2108,
+      "who": "host",
+      "action": "mouth closes to a thin smile, still looking at the guest"
+    },
+    {
+      "f": 2109,
+      "who": "host",
+      "action": "teeth clench; head dips very slightly"
+    },
+    {
+      "f": 2110,
+      "f_end": 2120,
+      "who": "host",
+      "action": "pupils slide across to the right corners of the eyes, looking away from the guest to screen-right, lids half-lowered; mouth opens on a hesitation and he holds the look away"
+    },
+    {
+      "f": 2121,
+      "f_end": 2124,
+      "who": "host",
+      "action": "lids close: half 2121-2122, fully closed 2123-2124"
+    },
+    {
+      "f": 2125,
+      "who": "host",
+      "action": "eyes open wide, pupils back on the guest at left, brows raised, closed smile; head lifts slightly"
+    },
+    {
+      "f": 2127,
+      "f_end": 2134,
+      "who": "host",
+      "action": "speaks with a broad smile, eyes wide on the guest, small head bobs"
+    },
+    {
+      "f": 2135,
+      "f_end": 2138,
+      "who": "host",
+      "action": "lips pushed forward in a pucker"
+    },
+    {
+      "f": 2139,
+      "f_end": 2144,
+      "who": "host",
+      "action": "mouth opens then relaxes toward closed, eyes still wide on the guest; held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json. On twos, new drawings on odd frames, except the eye dart which lands on 2110. No hand gesture in this shot; the right hand that was held out at the end of S26 is not in frame. script.json has 'uh' at 2113; the mouth opens on the 2111 drawing."
+}

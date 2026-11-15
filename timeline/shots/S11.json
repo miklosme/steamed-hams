@@ -1,0 +1,113 @@
+{
+  "id": "S11",
+  "summary": "The host pulls back from the kitchen window, strips off his apron, throws it over the smoking stove and starts to climb out of the window to escape.",
+  "framing": "Wide full-figure shot of the kitchen wall, slightly high angle: stove at left, window at centre-right, plain green wall, purple tiled floor. Static.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "full figure",
+      "screen": "centre",
+      "facing": "away",
+      "costume": "light-blue suit, white apron tied at neck and waist (removed at 748-750)"
+    }
+  ],
+  "props": [
+    "white stove/oven at left, oven door with glass panel",
+    "white apron, worn by host until 750, then thrown; draped over the right side of the stove from 753",
+    "open sash window at centre-right with a view of a street and a red-roofed building"
+  ],
+  "beats": [
+    {
+      "f": 738,
+      "who": "host",
+      "action": "back to camera, bent forward at the waist leaning out over the windowsill, both arms through the window; apron bow at the small of his back"
+    },
+    {
+      "f": 738,
+      "who": "fx",
+      "action": "grey-purple smoke plume rises continuously from the stove top at far left up out of frame; keeps billowing for the whole shot"
+    },
+    {
+      "f": 740,
+      "f_end": 741,
+      "who": "host",
+      "action": "pulls back in and straightens, still facing the window, hands on the sill"
+    },
+    {
+      "f": 742,
+      "who": "host",
+      "action": "stands upright at the window, hands on the sash, head starting to turn left over his shoulder"
+    },
+    {
+      "f": 743,
+      "who": "host",
+      "action": "spins round toward the room, hands drawn up to his chest; apron front now visible"
+    },
+    {
+      "f": 744,
+      "f_end": 745,
+      "who": "host",
+      "action": "facing 3/4 left, arms down and slightly behind him, looks left toward the stove, mouth a small frown"
+    },
+    {
+      "f": 746,
+      "who": "host",
+      "action": "hands come forward at waist height, looks screen-right"
+    },
+    {
+      "f": 747,
+      "who": "host",
+      "action": "one hand reaches up behind his neck to the apron strap; waist strings hang loose"
+    },
+    {
+      "f": 748,
+      "f_end": 749,
+      "who": "host",
+      "action": "bends forward and hauls the apron up over his head with both hands"
+    },
+    {
+      "f": 750,
+      "who": "host",
+      "action": "apron off: bent at the waist facing right, holds the apron stretched out in both hands in front of him"
+    },
+    {
+      "f": 751,
+      "who": "host",
+      "action": "swings round to face camera, whips the apron across his body toward the left"
+    },
+    {
+      "f": 752,
+      "who": "prop",
+      "action": "apron in mid-air at the stove's right side, just leaving the host's outstretched left-screen hand"
+    },
+    {
+      "f": 753,
+      "who": "prop",
+      "action": "apron lands draped over the right front corner of the stove and hangs there to the end of the shot"
+    },
+    {
+      "f": 753,
+      "f_end": 757,
+      "who": "host",
+      "action": "stands facing camera, legs straight, both arms flung out wide to the sides, eyes wide, small frown; held"
+    },
+    {
+      "f": 758,
+      "who": "host",
+      "action": "arms start to drop, head dips, weight shifts to screen-right"
+    },
+    {
+      "f": 759,
+      "who": "host",
+      "action": "turns right toward the window in a crouch, arms bent, looking down"
+    },
+    {
+      "f": 760,
+      "f_end": 761,
+      "who": "host",
+      "action": "facing 3/4 right, lifts his screen-right leg high toward the windowsill, arms pumping, head down; still rising on the last frame"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Animated mostly on twos; 750-752 are single-frame poses. Camera confirmed static (stove and window do not move). No dialogue in the shot."
+}

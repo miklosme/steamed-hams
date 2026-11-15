@@ -1,0 +1,65 @@
+{
+  "id": "S53",
+  "summary": "Close-up of the host in the doorway, caught looking worried, who snaps into a huge grin and a thumbs-up for the guest.",
+  "framing": "Close-up, eye level, static: host's head and shoulders right of centre. Edge of the open purple door with its brass knocker at the left, flat orange-red interior behind him with a band of grey-violet smoke haze along the top, blue-grey door frame at the right.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "head and shoulders, plus his raised fist from 3980",
+      "screen": "centre-right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, pink tie"
+    }
+  ],
+  "props": [
+    "open front door (purple, brass knocker), left edge of frame, static"
+  ],
+  "beats": [
+    {
+      "f": 3976,
+      "who": "host",
+      "action": "head 3/4 left, eyes wide and round looking left toward the street, mouth a crooked worried frown; still for two frames"
+    },
+    {
+      "f": 3976,
+      "who": "fx",
+      "action": "orange-red glow fills the doorway behind him; a soft band of grey-violet smoke hangs along the top of the opening and drifts slowly, whole shot"
+    },
+    {
+      "f": 3978,
+      "who": "host",
+      "action": "head ducks down and to the right, tilting; eyelids drop"
+    },
+    {
+      "f": 3979,
+      "f_end": 3980,
+      "who": "host",
+      "action": "eyes squeezed shut, head at its lowest and furthest right, mouth a wavering closed line"
+    },
+    {
+      "f": 3980,
+      "f_end": 3982,
+      "who": "host",
+      "action": "his fist starts to rise into the bottom-left of frame, thumb up (knuckles only on 3980)"
+    },
+    {
+      "f": 3981,
+      "f_end": 3982,
+      "who": "host",
+      "action": "mouth breaks into a toothy grin with the eyes still shut; on 3982 the eyes are slits and the head starts back up"
+    },
+    {
+      "f": 3983,
+      "who": "host",
+      "action": "head pops up and left to its final position, eyes snap wide open and round, brows high, wide clenched-teeth grin; thumbs-up arrives at shoulder height at screen-left of his face, sleeve visible"
+    },
+    {
+      "f": 3984,
+      "f_end": 3997,
+      "who": "host",
+      "action": "holds the thumbs-up and the fixed grin, eyes wide and unblinking, to the cut; only a 1-2 px settle of the hand on 3984-3986"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera: the move measured at 3979-3984 (zoom 0.979, cy +0.031) is a false reading. Measured on the door at the left edge (the only part of the background the character never covers): template match and phase correlation against 3976 give 0 px shift through 3982 and at most about 1 px vertical (at 640x360) from 3983 to the end, with no scale change; the measured cy would be about 20 px. The solver was following the host's head, which ducks on 3978-3980 and pops up on 3983. Treat the shot as static. The off-screen third voice is heard throughout (L62 to 3992, L63 from 3996); the host does not speak, his teeth stay together."
+}

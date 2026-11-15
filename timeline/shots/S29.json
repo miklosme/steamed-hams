@@ -1,0 +1,120 @@
+{
+  "id": "S29",
+  "summary": "The guest doubts the host's excuse and says he has never heard the phrase where he comes from.",
+  "framing": "Static medium close-up of the guest at the table, eye level, slightly over the table edge; green oval mirror frame top-left, lilac wall panel with small oval picture, table lamp and green armchair behind him at right.",
+  "cast": [
+    {
+      "who": "guest",
+      "visible": "head and shoulders, chest to the table edge",
+      "screen": "centre-left",
+      "facing": "3/4 right",
+      "costume": "navy suit, white napkin tucked into the collar"
+    }
+  ],
+  "props": [
+    "champagne flute, half full, standing at the left edge of frame",
+    "tops of burger buns along the bottom edge of frame (platter in the foreground)",
+    "red chair back behind the guest's right shoulder"
+  ],
+  "beats": [
+    {
+      "f": 2145,
+      "who": "guest",
+      "action": "sits upright, hands out of frame, eyes open looking right toward the host, brows level, mouth closed in a slight frown"
+    },
+    {
+      "f": 2149,
+      "who": "guest",
+      "action": "starts to speak; head dips a little"
+    },
+    {
+      "f": 2150,
+      "f_end": 2176,
+      "who": "guest",
+      "action": "upper lids drop to half, sceptical look held on the host"
+    },
+    {
+      "f": 2166,
+      "f_end": 2176,
+      "who": "guest",
+      "action": "mouth closes, holds the half-lidded stare without moving"
+    },
+    {
+      "f": 2177,
+      "f_end": 2179,
+      "who": "guest",
+      "action": "blink (eyes shut 2177-2178, half open again at 2179)"
+    },
+    {
+      "f": 2181,
+      "who": "guest",
+      "action": "lids lift, brows start to rise, begins next line"
+    },
+    {
+      "f": 2185,
+      "f_end": 2194,
+      "who": "guest",
+      "action": "eyes open wide and round, brows raised high, head lifts and tilts back slightly"
+    },
+    {
+      "f": 2195,
+      "f_end": 2200,
+      "who": "guest",
+      "action": "holds wide-eyed, brows-up look while talking"
+    },
+    {
+      "f": 2201,
+      "f_end": 2209,
+      "who": "guest",
+      "action": "lids lower again and head settles back down"
+    },
+    {
+      "f": 2209,
+      "who": "guest",
+      "action": "half-lidded, brows low and flat, looking at the host"
+    },
+    {
+      "f": 2215,
+      "f_end": 2230,
+      "who": "guest",
+      "action": "brows pull down into a frown, eyes narrowed on the host; small head nods with the words"
+    },
+    {
+      "f": 2231,
+      "f_end": 2232,
+      "who": "guest",
+      "action": "left hand (screen right) rises into frame beside the chin, fingers curled"
+    },
+    {
+      "f": 2233,
+      "who": "guest",
+      "action": "left arm swings out to screen right, hand open palm-up at shoulder height in front of the lamp"
+    },
+    {
+      "f": 2234,
+      "f_end": 2270,
+      "who": "guest",
+      "action": "holds the palm-up gesture, hand bobbing slightly with the words; half-lidded eyes on the host"
+    },
+    {
+      "f": 2247,
+      "f_end": 2248,
+      "who": "guest",
+      "action": "blink (eyes shut 2247-2248)"
+    },
+    {
+      "f": 2261,
+      "f_end": 2264,
+      "who": "guest",
+      "action": "mouth closes briefly, gesture still held"
+    },
+    {
+      "f": 2265,
+      "f_end": 2270,
+      "who": "guest",
+      "action": "finishes the line through clenched teeth, hand still out, stare held to the cut"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "Camera static, agrees with timeline.json (setup K23). No cut inside the shot. The head moves only a few pixels except for the lift at 2185-2200. The left hand is not visible before 2231 and is still raised at the cut. Dialogue timing in script.json matches the mouth (speech starts about 2149, a few frames before the measured 2154)."
+}

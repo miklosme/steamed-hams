@@ -1,0 +1,125 @@
+{
+  "id": "S12",
+  "summary": "Seen from outside, the host climbs out through the kitchen window just as the guest opens the kitchen door behind him, walks in and grabs him by the jacket.",
+  "framing": "Exterior view looking straight in through the open window; the white window frame fills the screen, lavender house wall around it. Host in extreme close foreground, guest small in the background doorway. Static.",
+  "cast": [
+    {
+      "who": "host",
+      "visible": "face (cropped at top right until 778), one arm, one leg and shoe, coming through the window",
+      "screen": "right",
+      "facing": "3/4 left",
+      "costume": "light-blue suit, lilac shirt, orange-pink tie (no apron)"
+    },
+    {
+      "who": "guest",
+      "visible": "waist up, in the doorway at the back of the kitchen, from 774",
+      "screen": "left",
+      "facing": "right",
+      "costume": "navy suit, white shirt, red tie, red pocket square"
+    }
+  ],
+  "props": [
+    "window frame and sill (foreground, fills frame)",
+    "purple panelled kitchen door on the far wall, left; hinged on its right side, opens into the kitchen; dark blue room beyond"
+  ],
+  "beats": [
+    {
+      "f": 762,
+      "who": "host",
+      "action": "leaning out of the window at right, face cropped by the top-right of frame (nose, mouth, chin visible); screen-right hand grips the right window jamb, other hand reaches out over the sill at lower centre, grey shoe sole just appearing above the sill"
+    },
+    {
+      "f": 762,
+      "who": "prop",
+      "action": "kitchen door in the background is closed"
+    },
+    {
+      "f": 764,
+      "f_end": 771,
+      "who": "host",
+      "action": "shoe sole rises and pushes out over the sill toward camera, reaching hand slides further left; head sinks slowly into frame"
+    },
+    {
+      "f": 772,
+      "f_end": 777,
+      "who": "prop",
+      "action": "door starts to swing open into the kitchen (left edge moves right, dark gap appears at left)"
+    },
+    {
+      "f": 772,
+      "f_end": 777,
+      "who": "host",
+      "action": "head lowers so one eye is in frame, looking down at where he is stepping; shoe and hand keep advancing"
+    },
+    {
+      "f": 774,
+      "who": "guest",
+      "action": "appears in the door gap at far left, facing right, only a sliver of face and suit visible"
+    },
+    {
+      "f": 776,
+      "who": "guest",
+      "action": "half visible beside the half-open door, looking right toward the host, mouth closed"
+    },
+    {
+      "f": 778,
+      "who": "host",
+      "action": "big pose change: head and hair drop fully into frame, tilted down 3/4 left; trouser leg swings across the bottom of the frame, shoe drops to bottom centre, reaching hand large at left edge"
+    },
+    {
+      "f": 778,
+      "who": "guest",
+      "action": "stands in the fully open doorway, one hand on the door edge, lids low, looking at the host"
+    },
+    {
+      "f": 780,
+      "who": "host",
+      "action": "leg fully over the sill (knee and thigh fill the bottom of frame, shoe gone below frame), reaching hand at bottom-left corner, fingers of other hand still on the right jamb; eyes wide looking down-left"
+    },
+    {
+      "f": 780,
+      "who": "guest",
+      "action": "steps into the kitchen toward the host, raises his screen-right hand palm-out at chest height"
+    },
+    {
+      "f": 782,
+      "f_end": 783,
+      "who": "host",
+      "action": "lids half lower, pupils slide to the far left (looking back over his shoulder toward the guest)"
+    },
+    {
+      "f": 784,
+      "who": "host",
+      "action": "eyes shut"
+    },
+    {
+      "f": 784,
+      "f_end": 785,
+      "who": "guest",
+      "action": "leans forward and reaches his arm out toward the host's back, hand open"
+    },
+    {
+      "f": 786,
+      "who": "host",
+      "action": "eyes half open, pupils at far left, brow line slanted"
+    },
+    {
+      "f": 786,
+      "who": "guest",
+      "action": "hand closes on the back of the host's jacket; mouth opens"
+    },
+    {
+      "f": 788,
+      "who": "host",
+      "action": "eyes snap wide open, small pupils at lower left; freezes in this pose to the end of the shot"
+    },
+    {
+      "f": 788,
+      "f_end": 795,
+      "who": "guest",
+      "action": "arm held straight out gripping the host's jacket, lids half down, mouth moving as if speaking, to the end of the shot"
+    }
+  ],
+  "hidden_cut": null,
+  "notes": "777->778 is a large pose pop on the host (and the door jumps from half to fully open), but the window frame and wall are identical, so it is not a cut. Camera confirmed static. The guest's mouth is animated open/moving from 786 to 795 although script.json has no line in this shot. Animated on twos."
+}
