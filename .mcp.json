@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai": {
+      "command": "bun",
+      "args": ["run", "--silent", "ai", "mcp"]
+    }
+  }
+}

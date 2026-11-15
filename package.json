@@ -8,10 +8,12 @@
     "proxy": "tools/proxy.sh",
     "typecheck": "tsc --noEmit",
     "render": "bun tools/render.ts",
-    "shoot": "bun tools/shoot.ts"
+    "shoot": "bun tools/shoot.ts",
+    "ai": "node --env-file-if-exists=.env node_modules/ai-cli/dist/index.js"
   },
   "devDependencies": {
     "@types/bun": "latest",
+    "ai-cli": "^0.9.1",
     "puppeteer-core": "^25.17.0"
   },
   "peerDependencies": {
