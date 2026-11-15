@@ -1,0 +1,2808 @@
+{
+ "by": "Claude",
+ "shots": [
+  {
+   "id": "shot_001",
+   "time": "0.00-1.92",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Wide exterior establishing shot of a two-storey suburban house; a small figure in a blue suit (Chalmers) stands at the front door and rings the bell. Locked-off camera.",
+   "narrative": {
+    "role": "context",
+    "point": "Open on the location and the arriving guest"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  },
+  {
+   "id": "shot_002",
+   "time": "1.92-3.04",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Interior, medium shot: Skinner in a white apron over a blue suit walks left to a purple front door and opens it; the visitor's dark suit appears in the gap. Static camera.",
+   "narrative": {
+    "role": "context",
+    "point": "The host goes to receive the guest"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "nervous",
+    "intensity": "low",
+    "face": "eyes wide, mouth closed",
+    "body": "walks to the door, hand on the knob",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_003",
+   "time": "3.04-6.71",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Chalmers in the doorway against the street of houses. Line: 'Well, Seymour, I made it, despite your directions.'",
+   "narrative": {
+    "role": "hook",
+    "point": "The guest's first line is a jab that sets up who has the power"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "annoyed",
+    "intensity": "low",
+    "face": "half-lidded eyes, brow low, speaks through clenched teeth",
+    "body": "head still, body square to the door",
+    "arc": [],
+    "voice": "dry, clipped, slightly raised pitch",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_004",
+   "time": "6.71-12.01",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Two-shot on the doorstep: Chalmers holds a bottle tied with a red ribbon; Skinner in apron greets him ('Ah, Superintendent Chalmers, welcome! I hope you're prepared for an unforgettable luncheon'); Chalmers grunts and walks in past him.",
+   "narrative": {
+    "role": "context",
+    "point": "The host over-promises, which raises the stakes for what follows"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "eager",
+    "intensity": "mid",
+    "face": "wide eyes, big open smile, eyebrows up",
+    "body": "leans toward the guest, then steps aside",
+    "arc": [],
+    "voice": "bright, over-polite",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_005",
+   "time": "12.01-13.30",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Dining room, wide: table with white cloth and ice bucket, framed picture on the wall. Chalmers puts the bottle in the bucket and sits; Skinner slips out through the kitchen door in the background.",
+   "narrative": {
+    "role": "context",
+    "point": "Guest is seated, host leaves to fetch the meal"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "calm",
+    "intensity": "low",
+    "face": "neutral",
+    "body": "sets bottle in bucket, pulls out chair and sits",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_006",
+   "time": "13.30-13.72",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Insert: Skinner's arm pushes the kitchen door open and the kitchen comes into view with grey smoke rising from the stove under the window.",
+   "narrative": {
+    "role": "turn",
+    "point": "The door opens on the problem"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  },
+  {
+   "id": "shot_007",
+   "time": "13.72-14.64",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Insert on the white oven, smoke pouring from the top and door seams. No characters.",
+   "narrative": {
+    "role": "turn",
+    "point": "Show the disaster plainly before the reaction"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  },
+  {
+   "id": "shot_008",
+   "time": "14.64-15.56",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up reaction: Skinner's eyes close, then snap wide with an open-mouthed gasp; he darts out of the right edge of frame.",
+   "narrative": {
+    "role": "turn",
+    "point": "Reaction shot sells the panic"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "shock",
+    "intensity": "high",
+    "face": "eyes shut then pop wide, mouth drops open",
+    "body": "freezes, then bolts out of frame",
+    "arc": [],
+    "voice": "gasp",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_009",
+   "time": "15.56-17.68",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Point of view from inside the oven: black frame, the door opens, Skinner's face peers in through smoke at the roast, which bursts into flames. Line: 'Oh, egads! My roast is ruined!'",
+   "narrative": {
+    "role": "turn",
+    "point": "The planned meal is destroyed: the problem the rest of the piece has to hide"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "dismay",
+    "intensity": "high",
+    "face": "wide eyes fixed on the roast, mouth open",
+    "body": "leaning in to the oven",
+    "arc": [],
+    "voice": "loud, theatrical",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_010",
+   "time": "17.68-20.19",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Kitchen medium shot: Skinner beside the smoking stove claps a hand to his head, bites his nails, then turns to the window. Line: 'But what if...'",
+   "narrative": {
+    "role": "turn",
+    "point": "Panic turns into scheming"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "anxious",
+    "intensity": "mid",
+    "face": "brow knotted, eyes darting",
+    "body": "hand on head, then fingers to mouth, turns to window",
+    "arc": [],
+    "voice": "muttering",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_011",
+   "time": "20.19-30.78",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Over-the-shoulder at the kitchen window: a Krusty Burger restaurant across the road. The camera slowly pushes in and re-frames onto Skinner's face as he plots: '...I were to purchase fast food and disguise it as my own cooking? Ho ho ho, delightfully devilish, Seymour.'",
+   "narrative": {
+    "role": "info",
+    "point": "The character states his plan to the audience, so every later lie is dramatic irony"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "smug",
+    "intensity": "mid",
+    "face": "eyes narrow, one brow drops, sly smirk, thumb to chin",
+    "body": "turns from window toward camera",
+    "arc": [],
+    "voice": "low, conspiratorial chuckle",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_012",
+   "time": "30.78-31.78",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Wide kitchen: Skinner whips off the apron, drops it by the stove and starts climbing through the open window.",
+   "narrative": {
+    "role": "info",
+    "point": "He acts on the plan immediately"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "hurried",
+    "intensity": "mid",
+    "face": "determined",
+    "body": "pulls off apron, swings a leg over the sill",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_013",
+   "time": "31.78-33.20",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Seen through the kitchen doorway past Skinner's raised leg: the door opens and Chalmers walks in, catching him half out of the window.",
+   "narrative": {
+    "role": "turn",
+    "point": "Caught in the act"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "alarm",
+    "intensity": "mid",
+    "face": "eyes wide, hand to mouth",
+    "body": "frozen with one leg on the sill",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_014",
+   "time": "33.20-34.37",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Chalmers staring; his eyes slowly narrow. Held beat with no dialogue.",
+   "narrative": {
+    "role": "turn",
+    "point": "A silent stare builds the tension the next beat releases"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "suspicious",
+    "intensity": "low",
+    "face": "eyes wide then narrowing to slits, mouth flat",
+    "body": "motionless",
+    "arc": [],
+    "voice": "",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_015",
+   "time": "34.37-49.22",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Sitcom-opening parody. A painted title card reads 'Skinner & the Superintendent' with caricatures of both men; the camera pulls back to show it is a framed picture on woven brown wallpaper, then pans across more framed pictures, each a small animated vignette of the two characters (office, school corridor, a man knocked flat, snakes), while a jingle is sung. It ends by pushing into the last frame, which becomes Chalmers shouting 'Seymour!'. One continuous multiplane move, no hard cut. All lettering is painted artwork inside the picture, not an added overlay.",
+   "narrative": {
+    "role": "mood",
+    "point": "Interrupt the scene with a mock TV-show title sequence that names the format being parodied"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "angry",
+    "intensity": "high",
+    "face": "mouth wide open shouting in the final frame",
+    "body": "vignette poses",
+    "arc": [],
+    "voice": "sung jingle, then a shout",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_016",
+   "time": "49.22-50.72",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Skinner at the window, startled: 'Superintendent!'",
+   "narrative": {
+    "role": "turn",
+    "point": "Back to the scene on the caught man's face"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "startled",
+    "intensity": "high",
+    "face": "eyes round, mouth small 'o' then gritted teeth",
+    "body": "head whips round",
+    "arc": [],
+    "voice": "yelp",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_017",
+   "time": "50.72-55.14",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Over Chalmers' shoulder (dark-suited back fills the left foreground): Skinner pumps his leg on the windowsill beside the smoking stove. Line: 'I was just, uh, stretching my calves on the windowsill. Isometric exercise! Care to join me?'",
+   "narrative": {
+    "role": "info",
+    "point": "First cover story: an absurd explanation delivered with full confidence"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "forced grin",
+    "body": "bobs up and down on the raised leg, gestures an invitation",
+    "arc": [],
+    "voice": "breezy, slightly too fast",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_018",
+   "time": "55.14-57.77",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Medium close-up of Chalmers at the kitchen door; he raises an arm and points: 'Why is there smoke coming out of your oven, Seymour?'",
+   "narrative": {
+    "role": "turn",
+    "point": "The authority figure asks the direct question"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "suspicious",
+    "intensity": "mid",
+    "face": "half-lidded, brow low",
+    "body": "points off-screen with a straight arm",
+    "arc": [],
+    "voice": "flat, accusing",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_019",
+   "time": "57.77-65.06",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner beside the smoking stove, window behind: 'Uh... ooh! That isn't smoke, it's steam! Steam from the steamed clams we're having. Mmm, steamed clams!' He rubs his stomach. Slight camera drift.",
+   "narrative": {
+    "role": "info",
+    "point": "Second lie, and the one that plants the phrase the title pays off"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "eyes shut then wide, toothy grin",
+    "body": "gestures at the stove, rubs belly",
+    "arc": [],
+    "voice": "hesitant start, then sing-song",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_020",
+   "time": "65.06-66.19",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Medium close-up of Chalmers staring, unconvinced, then turning away to leave.",
+   "narrative": {
+    "role": "mood",
+    "point": "A pause that lets the lie hang"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "low",
+    "face": "narrow eyes, flat mouth",
+    "body": "slow turn of head and body",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_021",
+   "time": "66.19-66.90",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers' back as he walks out; the purple door swings shut and the frame holds on the closed door.",
+   "narrative": {
+    "role": "mood",
+    "point": "Exit beat: the pressure is off for a moment"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  },
+  {
+   "id": "shot_022",
+   "time": "66.90-70.32",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner at the window wipes his brow, then dives head-first out of it; the frame holds on the empty window with the Krusty Burger across the road.",
+   "narrative": {
+    "role": "info",
+    "point": "The scheme goes ahead off-screen"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "relief",
+    "intensity": "mid",
+    "face": "eyes closed, exhale",
+    "body": "wipes forehead, bends and dives through window",
+    "arc": [],
+    "voice": "'Phew'",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_023",
+   "time": "70.32-74.12",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Dining room, wide from behind Chalmers: Skinner comes in through the door carrying a silver platter stacked with burgers. Line: 'Superintendent, I hope you're ready for mouthwatering hamburgers!'",
+   "narrative": {
+    "role": "turn",
+    "point": "The substitute meal is revealed and contradicts the earlier lie"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "proud",
+    "intensity": "mid",
+    "face": "big grin, slightly out of breath",
+    "body": "carries platter in both hands to the table",
+    "arc": [],
+    "voice": "bright, panting",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_024",
+   "time": "74.12-76.87",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Medium close-up of Chalmers tucking a napkin into his collar, ornate mirror behind: 'I thought we were having steamed clams.'",
+   "narrative": {
+    "role": "turn",
+    "point": "The listener notices the contradiction"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "puzzled",
+    "intensity": "low",
+    "face": "one eye narrowed, brow raised",
+    "body": "tucks napkin at the neck",
+    "arc": [],
+    "voice": "level, questioning",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_025",
+   "time": "76.87-81.12",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner leans over the table and sets the platter down: 'Oh, no, I said steamed hams! That's what I call hamburgers.'",
+   "narrative": {
+    "role": "payoff",
+    "point": "The signature line: a lie patched with a made-up word"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "wide smile, eyes flick to the guest",
+    "body": "lowers platter, spreads a hand over it, sits",
+    "arc": [],
+    "voice": "cheerful, improvised",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_026",
+   "time": "81.12-83.71",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers, medium close-up with burgers along the bottom of frame: 'You call hamburgers steamed hams?'",
+   "narrative": {
+    "role": "turn",
+    "point": "Cross-examination begins"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "low",
+    "face": "half-lidded, brow up",
+    "body": "still",
+    "arc": [],
+    "voice": "slow, incredulous",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_027",
+   "time": "83.71-85.88",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner seated, champagne flute in foreground: 'Yes. It's a regional dialect.'",
+   "narrative": {
+    "role": "info",
+    "point": "Each answer invents a new fact"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "low",
+    "face": "relaxed smile, eyelids low",
+    "body": "small open-hand gesture",
+    "arc": [],
+    "voice": "casual",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_028",
+   "time": "85.88-87.80",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers: 'Uh-huh. Eh, what region?'",
+   "narrative": {
+    "role": "turn",
+    "point": "The follow-up question tightens the trap"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "low",
+    "face": "eyes narrow, mouth twists",
+    "body": "still",
+    "arc": [],
+    "voice": "dry",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_029",
+   "time": "87.80-89.46",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner: 'Uh... upstate New York.'",
+   "narrative": {
+    "role": "info",
+    "point": "A specific answer that can be checked"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "low",
+    "face": "eyes shift, then smile",
+    "body": "still",
+    "arc": [],
+    "voice": "hesitant",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_030",
+   "time": "89.46-94.72",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers: 'Really. Well, I'm from Utica, and I've never heard anyone use the phrase steamed hams.' He raises an open hand.",
+   "narrative": {
+    "role": "turn",
+    "point": "The guest happens to be an expert on the invented fact"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "mid",
+    "face": "brow raised, teeth showing on the consonants",
+    "body": "lifts a hand palm-up at the end",
+    "arc": [],
+    "voice": "measured, pointed",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_031",
+   "time": "94.72-97.18",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner: 'Oh, not in Utica, no. It's an Albany expression.' He waves a hand dismissively.",
+   "narrative": {
+    "role": "info",
+    "point": "Dodges by narrowing the claim"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "eyelids low, quick smile",
+    "body": "flicks a hand",
+    "arc": [],
+    "voice": "quick, confident",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_032",
+   "time": "97.18-98.18",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers: 'I see.'",
+   "narrative": {
+    "role": "mood",
+    "point": "Reluctant acceptance: a breather before the next round"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "resigned",
+    "intensity": "low",
+    "face": "flat mouth",
+    "body": "still",
+    "arc": [],
+    "voice": "flat",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_033",
+   "time": "98.18-99.52",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Wide profile two-shot across the table: Chalmers bites a burger, Skinner tips back his drink. Picture of a boat on the wall between them.",
+   "narrative": {
+    "role": "mood",
+    "point": "Reset the geography and let them eat"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  },
+  {
+   "id": "shot_034",
+   "time": "99.52-103.69",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers holds the burger and examines it: 'You know, these hamburgers are quite similar to the ones they have at Krusty Burger.'",
+   "narrative": {
+    "role": "turn",
+    "point": "A second line of attack: the food itself is the evidence"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "suspicious",
+    "intensity": "low",
+    "face": "eyes on the burger, then up",
+    "body": "turns the burger in his hand",
+    "arc": [],
+    "voice": "thoughtful",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_035",
+   "time": "103.69-108.82",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Over Chalmers' shoulder to Skinner across the table: 'Oh ho ho, no! Patented Skinner Burgers. Old family recipe!'",
+   "narrative": {
+    "role": "info",
+    "point": "Another instant fabrication"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "eyes closed in a laugh, then wide",
+    "body": "holds the flute, shakes his head",
+    "arc": [],
+    "voice": "hearty fake laugh",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_036",
+   "time": "108.82-111.53",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers, burger in hand: 'For steamed hams?'",
+   "narrative": {
+    "role": "turn",
+    "point": "He repeats the made-up word back"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "low",
+    "face": "narrow eyes",
+    "body": "still",
+    "arc": [],
+    "voice": "flat",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_037",
+   "time": "111.53-112.19",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner: 'Yes.' Very short shot.",
+   "narrative": {
+    "role": "info",
+    "point": "One-word answer played for rhythm"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "low",
+    "face": "fixed grin",
+    "body": "holds flute up",
+    "arc": [],
+    "voice": "bright",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_038",
+   "time": "112.19-116.16",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers lifts the bun to show the patty: 'Yes, and you call them steamed hams despite the fact they are obviously grilled.' Grill marks are visible on the patty.",
+   "narrative": {
+    "role": "proof",
+    "point": "Physical proof on screen contradicts the story"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "skeptical",
+    "intensity": "mid",
+    "face": "brow low, mouth pulled to one side",
+    "body": "opens the burger and tilts it to camera",
+    "arc": [],
+    "voice": "slow, emphatic on 'obviously grilled'",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_039",
+   "time": "116.16-123.50",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Over Chalmers' shoulder: Skinner stammers ('Ye— hey— you know— one thing I should— excuse me for one second'), dabs his face with a napkin; thin smoke begins drifting in at the top of frame.",
+   "narrative": {
+    "role": "turn",
+    "point": "The liar runs out of answers and breaks off"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "flustered",
+    "intensity": "mid",
+    "face": "eyes dart, mouth starts words and stops",
+    "body": "napkin to face, half-rises",
+    "arc": [],
+    "voice": "broken, stuttering",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_040",
+   "time": "123.50-131.21",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Same side of the table: Skinner steps into the kitchen and comes straight back, stretching: 'Well, that was wonderful. A good time was had by all. I'm pooped.' A red glow shows at the edge of the kitchen door.",
+   "narrative": {
+    "role": "turn",
+    "point": "Tries to end the meeting before the problem is seen"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "wide fake smile, then a yawn",
+    "body": "pats hands together, stretches arms",
+    "arc": [],
+    "voice": "fast, forced cheer",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_041",
+   "time": "131.21-132.84",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers pulls off his napkin and stands: 'Yes, I should be—'",
+   "narrative": {
+    "role": "mood",
+    "point": "The guest starts to leave, which would let the host off"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "calm",
+    "intensity": "low",
+    "face": "relaxed",
+    "body": "removes napkin, rises out of the chair",
+    "arc": [],
+    "voice": "polite",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_042",
+   "time": "132.84-136.47",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Two-shot: Chalmers spins and points at the kitchen ('Good Lord, what is happening in there?!'); Skinner answers 'Aurora Borealis.'",
+   "narrative": {
+    "role": "turn",
+    "point": "The hidden problem becomes impossible to miss"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "alarmed",
+    "intensity": "high",
+    "face": "eyes wide",
+    "body": "whirls and points with a straight arm",
+    "arc": [],
+    "voice": "shouted",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_043",
+   "time": "136.47-139.47",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Chalmers: 'Aurora Borealis?!' First of five consecutive shots on the same angle that punch in a little tighter on each phrase.",
+   "narrative": {
+    "role": "turn",
+    "point": "Start of the escalating rebuttal"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "outraged",
+    "intensity": "high",
+    "face": "eyes wide then brows slam down, bared teeth",
+    "body": "head jerks forward",
+    "arc": [],
+    "voice": "loud, rising",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_044",
+   "time": "139.47-140.77",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Tighter on Chalmers: 'At this time of year,'",
+   "narrative": {
+    "role": "proof",
+    "point": "List the reasons the lie is impossible, one per cut"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "outraged",
+    "intensity": "high",
+    "face": "angled brows, wide mouth",
+    "body": "head forward",
+    "arc": [],
+    "voice": "loud",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_045",
+   "time": "140.77-142.18",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers: 'at this time of day,'",
+   "narrative": {
+    "role": "proof",
+    "point": "Second reason"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "outraged",
+    "intensity": "high",
+    "face": "eyes round, teeth showing",
+    "body": "head forward",
+    "arc": [],
+    "voice": "loud",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_046",
+   "time": "142.18-143.73",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers: 'in this part of the country,'",
+   "narrative": {
+    "role": "proof",
+    "point": "Third reason"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "outraged",
+    "intensity": "high",
+    "face": "brows down hard",
+    "body": "head forward",
+    "arc": [],
+    "voice": "loud",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_047",
+   "time": "143.73-146.52",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Tightest framing on Chalmers: 'localized entirely within your kitchen?!'",
+   "narrative": {
+    "role": "proof",
+    "point": "Final reason, at peak volume and tightest framing"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "outraged",
+    "intensity": "high",
+    "face": "brows down, mouth wide",
+    "body": "head thrust forward",
+    "arc": [],
+    "voice": "shouted",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_048",
+   "time": "146.52-147.40",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Skinner with a red glow along the left edge of frame: 'Yes.'",
+   "narrative": {
+    "role": "payoff",
+    "point": "A flat one-word confirmation deflates the tirade"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "calm",
+    "intensity": "low",
+    "face": "eyelids low, then a toothy grin",
+    "body": "still",
+    "arc": [],
+    "voice": "bright, simple",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_049",
+   "time": "147.40-149.44",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers, anger gone: 'May I see it?'",
+   "narrative": {
+    "role": "turn",
+    "point": "The accuser gives in and asks to share the wonder"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "curious",
+    "intensity": "low",
+    "face": "eyes round, brow relaxed, small mouth",
+    "body": "still",
+    "arc": [],
+    "voice": "quiet",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_050",
+   "time": "149.44-151.11",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Skinner glances sideways toward the glow: 'No.'",
+   "narrative": {
+    "role": "payoff",
+    "point": "Refusal with no excuse at all"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "calm",
+    "intensity": "low",
+    "face": "eyes slide to the side, mouth small",
+    "body": "still",
+    "arc": [],
+    "voice": "flat",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_051",
+   "time": "151.11-156.66",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Exterior porch, medium wide: the purple front door opens and both men step out. Off-screen a woman shouts 'Seymour! The house is on fire!'; Skinner calls back 'No, Mother, it's just the Northern Lights.'",
+   "narrative": {
+    "role": "turn",
+    "point": "A third party states the truth out loud and is talked over"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "turns head, eyes wide",
+    "body": "cups a hand to his mouth to call back",
+    "arc": [],
+    "voice": "raised voice",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_052",
+   "time": "156.66-161.66",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Outdoor two-shot, houses and sky behind: Chalmers, 'Well, Seymour, you are an odd fellow, but I must say... you steam a good ham.'",
+   "narrative": {
+    "role": "payoff",
+    "point": "The authority figure adopts the liar's made-up word: he got away with it"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "content",
+    "intensity": "low",
+    "face": "half-lidded, slight smile",
+    "body": "hands behind back, leans in",
+    "arc": [],
+    "voice": "warm, measured",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_053",
+   "time": "161.66-165.25",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Porch: Chalmers turns and walks down the steps and along the path while the camera pulls back and reveals flames filling the ground-floor windows; Skinner stays by the door. Off-screen: 'Help! Help!'. One continuous pull-back.",
+   "narrative": {
+    "role": "payoff",
+    "point": "Reveal the scale of what was being hidden"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "content",
+    "intensity": "low",
+    "face": "neutral",
+    "body": "walks away, hands behind back",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_054",
+   "time": "165.25-165.83",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Chalmers from behind, turning his head back toward the house.",
+   "narrative": {
+    "role": "mood",
+    "point": "A last look back"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "B Chalmers",
+    "emotion": "suspicious",
+    "intensity": "low",
+    "face": "one eye visible, narrowed",
+    "body": "turns head over shoulder",
+    "arc": [],
+    "voice": "",
+    "key": false,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_055",
+   "time": "165.83-166.75",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Close-up of Skinner in front of the orange-lit doorway: a flat look, then a wide grin and a thumbs-up.",
+   "narrative": {
+    "role": "payoff",
+    "point": "The closing gesture: keep smiling no matter what"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": {
+    "who": "A Skinner",
+    "emotion": "bluffing",
+    "intensity": "mid",
+    "face": "flat look flips to a broad toothy grin, eyes wide",
+    "body": "raises a thumbs-up",
+    "arc": [],
+    "voice": "",
+    "key": true,
+    "move": "",
+    "movers": 0,
+    "full_body": null,
+    "backdrop": "",
+    "en": ""
+   }
+  },
+  {
+   "id": "shot_056",
+   "time": "166.75-168.79",
+   "label_probs": {
+    "anim_2d": 0.86,
+    "film_footage": 0.12,
+    "ai_video": 0.01,
+    "cg_3d": 0.01
+   },
+   "image_source": "graphic",
+   "evidence": [
+    "Hand-drawn character animation: black ink outlines, flat colour fills, painted backgrounds with a different texture from the characters",
+    "Outlines and shapes stay stable frame to frame; no texture drift, no 3D shading, perspective or specular highlights",
+    "Recognisable characters and backgrounds from a broadcast TV cartoon (The Simpsons, season 7 episode 21 per the file's own description): this is a clip of existing footage, not material made by the uploader"
+   ],
+   "description": "Wide from the street: Chalmers walks out of the left foreground; the house windows glow with fire and Skinner stands at the door. The frame holds on the burning house.",
+   "narrative": {
+    "role": "mood",
+    "point": "End on the unresolved disaster"
+   },
+   "embedded_assets": [],
+   "ai_edits": [],
+   "same_clip_as": null,
+   "replication": {
+    "image_prompt": "",
+    "video_prompt": "",
+    "video_prompt_en": ""
+   },
+   "performance": null
+  }
+ ],
+ "aspects": {
+  "camera": {
+   "setups": "Animation, no physical camera. About 14 recurring layouts over 4 painted locations (house exterior and porch, dining room, kitchen, title-sequence wall); most shots are locked off, with a push-in in #11, a long pan in #15 and a pull-back in #53.",
+   "gear_guess": "Not applicable: traditional 2D animation, drawn at film rate (the file is 23.976 fps). The 16:9 1080p frame is a crop and upscale of a 4:3 standard-definition broadcast original."
+  },
+  "lighting": {
+   "lighting_overall": "No lighting rig: flat painted colour. Fire is the only light effect, drawn as an orange-pink glow (oven interior #9, door edge #40/#48/#50, windows #53/#56)."
+  },
+  "grade": {
+   "grade_overall": "Saturated flat palette: purple-blue walls, yellow skin, navy and light-blue suits; kitchen is desaturated teal with grey smoke. No grade beyond the upscale's smoothing."
+  },
+  "editing": {
+   "editing": "56 shots in 169 s (3.0 s average), all hard cuts. Dialogue is cut as shot / reverse shot between two fixed close-ups; the tirade at 136-147 s uses five cuts on the same angle, tighter each time, one per phrase. No beat sync."
+  },
+  "format": {
+   "format": "Scripted comedy sketch from an animated TV episode, two characters, one location, with a 15 s mock sitcom title sequence dropped in at 34 s."
+  }
+ },
+ "story": {
+  "summary": "A two-hander farce: a host ruins lunch for his boss and covers it with a chain of ever less plausible lies, each of which the boss challenges and then accepts.",
+  "hook": "The first line at 3.7 s is an insult from the guest ('I made it, despite your directions'), so the power gap is clear before anything goes wrong; the oven is smoking by 13 s and the plan is spoken aloud at 21-30 s.",
+  "highlights": [
+   "21-30 s: the character tells the audience his plan in a push-in close-up, so every later lie plays as dramatic irony",
+   "34-49 s: a full mock sitcom title sequence with a sung jingle interrupts the scene at the moment of highest tension (he is caught climbing out of the window)",
+   "71-116 s: strict question / answer rhythm in alternating close-ups, shots as short as 0.7 s ('Yes.'), each answer inventing a fact the next question attacks",
+   "136-151 s: five punch-in cuts on one angle for the 'Aurora Borealis' tirade, then three near-silent one-line shots ('Yes.' / 'May I see it?' / 'No.') that drop the energy to nothing"
+  ]
+ },
+ "cast": {
+  "style": "Mid-1990s hand-drawn TV animation: uniform black outlines, flat fills, yellow skin, large round eyes, overbites; backgrounds in flat purple, blue and teal with minimal shading.",
+  "characters": [
+   {
+    "id": "A",
+    "name": "Skinner (the host, 'Seymour')",
+    "kind": "cartoon",
+    "look": "Tall thin man, yellow skin, grey-brown side-parted hair with a quiff, long nose; light-blue suit, lilac shirt, salmon tie; white apron in #2-#12.",
+    "role": "Protagonist: the host who lies to protect his standing",
+    "voice": "Male, fussy and formal, speeds up when lying",
+    "shots": [
+     2,
+     4,
+     5,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     15,
+     16,
+     17,
+     19,
+     22,
+     23,
+     25,
+     27,
+     29,
+     31,
+     33,
+     35,
+     37,
+     39,
+     40,
+     42,
+     48,
+     50,
+     51,
+     52,
+     53,
+     55,
+     56
+    ]
+   },
+   {
+    "id": "B",
+    "name": "Chalmers (the superintendent)",
+    "kind": "cartoon",
+    "look": "Heavy-set older man, yellow skin, bald on top with grey hair at the sides, long flat nose; navy suit, white shirt, red tie, red pocket square.",
+    "role": "Antagonist: the boss who questions every lie and accepts each answer",
+    "voice": "Male, dry and clipped, rises to a shout at 136-147 s",
+    "shots": [
+     1,
+     3,
+     4,
+     5,
+     13,
+     14,
+     15,
+     17,
+     18,
+     20,
+     21,
+     23,
+     24,
+     25,
+     26,
+     28,
+     30,
+     32,
+     33,
+     34,
+     35,
+     36,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     49,
+     51,
+     52,
+     53,
+     54,
+     56
+    ]
+   },
+   {
+    "id": "C",
+    "name": "The host's mother (voice only)",
+    "kind": "cartoon",
+    "look": "Never on screen.",
+    "role": "Off-screen voice that says the truth and is talked over",
+    "voice": "Elderly woman, shouting",
+    "shots": [
+     51,
+     53,
+     56
+    ]
+   }
+  ],
+  "scenes": [
+   {
+    "id": "S1",
+    "where": "House exterior, front door and porch",
+    "when": "day",
+    "look": "Lilac two-storey house, purple door, white porch rail, lawn, street of similar houses",
+    "shots": [
+     1,
+     3,
+     4,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56
+    ]
+   },
+   {
+    "id": "S2",
+    "where": "Dining room",
+    "when": "day",
+    "look": "Blue-purple walls, round table with white cloth, ice bucket, red chairs, green-framed mirror, lamp and armchair behind the guest",
+    "shots": [
+     2,
+     5,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "id": "S3",
+    "where": "Kitchen",
+    "when": "day",
+    "look": "Teal walls, tiled floor, white stove pouring grey smoke, sash window looking onto a fast-food restaurant",
+    "shots": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "id": "S4",
+    "where": "Title-sequence wall",
+    "when": "",
+    "look": "Woven brown wallpaper hung with wooden-framed pictures, each an animated vignette",
+    "shots": [
+     15
+    ]
+   }
+  ],
+  "props": [
+   {
+    "name": "Burnt roast in the oven",
+    "note": "Catches fire in #9; source of the smoke and later the house fire",
+    "shots": [
+     7,
+     9
+    ]
+   },
+   {
+    "name": "Platter of fast-food burgers",
+    "note": "Silver tray, about a dozen burgers; the patty's grill marks are shown in #38",
+    "shots": [
+     23,
+     25,
+     33,
+     34,
+     36,
+     38
+    ]
+   },
+   {
+    "name": "Bottle with red ribbon and ice bucket",
+    "note": "Guest's gift, on the table throughout",
+    "shots": [
+     4,
+     5,
+     35,
+     39
+    ]
+   },
+   {
+    "name": "Fast-food restaurant across the road",
+    "note": "Seen through the kitchen window; its sign is painted background art",
+    "shots": [
+     11,
+     22
+    ]
+   }
+  ]
+ },
+ "packaging": {
+  "stickers": [
+   {
+    "id": "sticker_01",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   },
+   {
+    "id": "sticker_02",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   },
+   {
+    "id": "sticker_03",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   },
+   {
+    "id": "sticker_04",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   },
+   {
+    "id": "sticker_05",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   },
+   {
+    "id": "sticker_06",
+    "is_overlay": false,
+    "what": "Not a sticker: a patch of the painted background (window, wall, mirror frame, lawn) that stayed identical across a cut because the shots reuse the same layout"
+   }
+  ],
+  "text": [
+   {
+    "id": "text_001",
+    "kind": "scene"
+   },
+   {
+    "id": "text_002",
+    "kind": "scene"
+   },
+   {
+    "id": "text_003",
+    "kind": "scene"
+   },
+   {
+    "id": "text_004",
+    "kind": "scene"
+   },
+   {
+    "id": "text_005",
+    "kind": "scene"
+   },
+   {
+    "id": "text_006",
+    "kind": "scene"
+   },
+   {
+    "id": "text_007",
+    "kind": "scene"
+   },
+   {
+    "id": "text_008",
+    "kind": "scene"
+   },
+   {
+    "id": "text_009",
+    "kind": "scene"
+   },
+   {
+    "id": "text_010",
+    "kind": "scene"
+   },
+   {
+    "id": "text_011",
+    "kind": "scene"
+   },
+   {
+    "id": "text_012",
+    "kind": "scene"
+   },
+   {
+    "id": "text_013",
+    "kind": "scene"
+   },
+   {
+    "id": "text_014",
+    "kind": "scene"
+   },
+   {
+    "id": "text_015",
+    "kind": "scene"
+   },
+   {
+    "id": "text_016",
+    "kind": "scene"
+   },
+   {
+    "id": "text_017",
+    "kind": "scene"
+   },
+   {
+    "id": "text_018",
+    "kind": "scene"
+   },
+   {
+    "id": "text_019",
+    "kind": "scene"
+   },
+   {
+    "id": "text_020",
+    "kind": "scene"
+   },
+   {
+    "id": "text_021",
+    "kind": "scene"
+   },
+   {
+    "id": "text_022",
+    "kind": "scene"
+   },
+   {
+    "id": "text_023",
+    "kind": "scene"
+   },
+   {
+    "id": "text_024",
+    "kind": "scene"
+   },
+   {
+    "id": "text_025",
+    "kind": "scene"
+   },
+   {
+    "id": "text_026",
+    "kind": "scene"
+   },
+   {
+    "id": "text_027",
+    "kind": "scene"
+   },
+   {
+    "id": "text_028",
+    "kind": "scene"
+   },
+   {
+    "id": "text_029",
+    "kind": "scene"
+   },
+   {
+    "id": "text_030",
+    "kind": "scene"
+   }
+  ],
+  "missed": []
+ }
+}
